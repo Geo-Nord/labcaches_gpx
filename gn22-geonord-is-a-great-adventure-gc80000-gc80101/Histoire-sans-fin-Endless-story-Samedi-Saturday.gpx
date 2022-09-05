@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8"?>
+                <gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" creator="Groundspeak Pocket Query" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.groundspeak.com/cache/1/0/1 http://www.groundspeak.com/cache/1/0/1/cache.xsd" xmlns="http://www.topografix.com/GPX/1/0">
+                    <name>Adventure Labs</name>
+                <wpt lat="50.436316666667" lon="2.5844333333333">
+                    <time>2022-07-16T06:55:41.297</time>
+                    <name>LCthGN01</name>
+                    <desc>Indiana Jones</desc>
+                    <url>https://labs.geocaching.com/goto/f5e5917a-b81e-4317-9fa8-5bb4e90e3c87</url>
+                    <urlname>S01 Histoire sans fin /Endless story - Samedi/Saturday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCthGN01</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>fe9d6835-48db-4adc-b4f8-0c3e1e5d9fbf</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-1" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Histoire sans fin /Endless story - Samedi/Saturday : S01 Indiana Jones</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Histoire sans fin /Endless story - Samedi/Saturday&lt;/h3&gt;&lt;h4&gt;Indiana Jones&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/f5e5917a-b81e-4317-9fa8-5bb4e90e3c87"&gt;https://labs.geocaching.com/goto/f5e5917a-b81e-4317-9fa8-5bb4e90e3c87&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Peser la statuette et trouver le code sur le sac du même poids. / Weigh the statuette and find the code on the bag of the same weight.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/eabaf7cb-04be-4f83-a463-82fc38ac6c8c" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Peser la statuette et trouver le code sur le sac du même poids.
+
+[EN] Weigh the statuette and find the code on the bag of the same weight.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/585e77e1-58f4-4bc5-9a45-1c48f7491212" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Voici enfin le jour du MEGA avec 30 nouvelles labcaches réparties sur 3 différentes Adventures. Toutes les labs de cette adventure se trouvent dans la salle de gymnase.
+Cette Adventure Lab n'est trouvable que le Samedi 16 juillet.
+
+[EN] It's finally the MEGA day with its 30 new labs spread over 3 different adventures. All labs in this adventure are inside the building.
+This Adventure Lab can only be found on Saturday July 16th.
+
+&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.436233333333" lon="2.5845833333333">
+                    <time>2022-07-16T06:55:41.297</time>
+                    <name>LCthGN02</name>
+                    <desc>À chacun son couvercle / To each its own lid</desc>
+                    <url>https://labs.geocaching.com/goto/f5e5917a-b81e-4317-9fa8-5bb4e90e3c87</url>
+                    <urlname>S02 Histoire sans fin /Endless story - Samedi/Saturday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCthGN02</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>4e507f3e-1d3f-4e60-b0e5-ed16cee7dd94</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-2" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Histoire sans fin /Endless story - Samedi/Saturday : S02 À chacun son couvercle / To each its own lid</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Histoire sans fin /Endless story - Samedi/Saturday&lt;/h3&gt;&lt;h4&gt;À chacun son couvercle / To each its own lid&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/f5e5917a-b81e-4317-9fa8-5bb4e90e3c87"&gt;https://labs.geocaching.com/goto/f5e5917a-b81e-4317-9fa8-5bb4e90e3c87&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt; Replacer le bon pot à son couvercle / Replace the container with its correct lid&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/c5b6ffdc-4dc6-48ea-896d-59aa119c7c6a" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Replacer le bon pot à son couvercle
+
+[EN] Replace the container with its correct lid&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/585e77e1-58f4-4bc5-9a45-1c48f7491212" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Voici enfin le jour du MEGA avec 30 nouvelles labcaches réparties sur 3 différentes Adventures. Toutes les labs de cette adventure se trouvent dans la salle de gymnase.
+Cette Adventure Lab n'est trouvable que le Samedi 16 juillet.
+
+[EN] It's finally the MEGA day with its 30 new labs spread over 3 different adventures. All labs in this adventure are inside the building.
+This Adventure Lab can only be found on Saturday July 16th.
+
+&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.43615" lon="2.5847666666667">
+                    <time>2022-07-16T06:55:41.297</time>
+                    <name>LCthGN03</name>
+                    <desc>La course - The run</desc>
+                    <url>https://labs.geocaching.com/goto/f5e5917a-b81e-4317-9fa8-5bb4e90e3c87</url>
+                    <urlname>S03 Histoire sans fin /Endless story - Samedi/Saturday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCthGN03</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>0127d6a0-f459-4428-b4c3-92046b887cbc</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-3" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Histoire sans fin /Endless story - Samedi/Saturday : S03 La course - The run</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Histoire sans fin /Endless story - Samedi/Saturday&lt;/h3&gt;&lt;h4&gt;La course - The run&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/f5e5917a-b81e-4317-9fa8-5bb4e90e3c87"&gt;https://labs.geocaching.com/goto/f5e5917a-b81e-4317-9fa8-5bb4e90e3c87&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Replacer le ruban dans les encoches pour lire le code sur la ligne d'arrivée/Replace the ribbon in the slots &amp; read the code on the arrival line&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/6cd36dcb-7e46-42ee-b7f7-4c605fd954d1" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Replacer le ruban dans les encoches pour lire le code sur la ligne d'arrivée
+
+[EN] Replace the ribbon in the slots to read the code on the arrival line&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/585e77e1-58f4-4bc5-9a45-1c48f7491212" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Voici enfin le jour du MEGA avec 30 nouvelles labcaches réparties sur 3 différentes Adventures. Toutes les labs de cette adventure se trouvent dans la salle de gymnase.
+Cette Adventure Lab n'est trouvable que le Samedi 16 juillet.
+
+[EN] It's finally the MEGA day with its 30 new labs spread over 3 different adventures. All labs in this adventure are inside the building.
+This Adventure Lab can only be found on Saturday July 16th.
+
+&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.43605" lon="2.58495">
+                    <time>2022-07-16T06:55:41.297</time>
+                    <name>LCthGN04</name>
+                    <desc>Traces GPS</desc>
+                    <url>https://labs.geocaching.com/goto/f5e5917a-b81e-4317-9fa8-5bb4e90e3c87</url>
+                    <urlname>S04 Histoire sans fin /Endless story - Samedi/Saturday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCthGN04</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>6eec61bb-6c51-49ca-bd0e-fd21c1057511</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-4" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Histoire sans fin /Endless story - Samedi/Saturday : S04 Traces GPS</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Histoire sans fin /Endless story - Samedi/Saturday&lt;/h3&gt;&lt;h4&gt;Traces GPS&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/f5e5917a-b81e-4317-9fa8-5bb4e90e3c87"&gt;https://labs.geocaching.com/goto/f5e5917a-b81e-4317-9fa8-5bb4e90e3c87&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Suivre le bon chemin pour récolter les lettres du code / Follow the right path to obtain the letters of the code&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/eee64588-08d1-4326-8bc5-8122c7ae2371" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Suivre le bon chemin pour récolter les lettres du code
+
+[EN] Follow the right path to obtain the letters of the code&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/585e77e1-58f4-4bc5-9a45-1c48f7491212" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Voici enfin le jour du MEGA avec 30 nouvelles labcaches réparties sur 3 différentes Adventures. Toutes les labs de cette adventure se trouvent dans la salle de gymnase.
+Cette Adventure Lab n'est trouvable que le Samedi 16 juillet.
+
+[EN] It's finally the MEGA day with its 30 new labs spread over 3 different adventures. All labs in this adventure are inside the building.
+This Adventure Lab can only be found on Saturday July 16th.
+
+&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.43595" lon="2.5848">
+                    <time>2022-07-16T06:55:41.297</time>
+                    <name>LCthGN05</name>
+                    <desc>Tangram</desc>
+                    <url>https://labs.geocaching.com/goto/f5e5917a-b81e-4317-9fa8-5bb4e90e3c87</url>
+                    <urlname>S05 Histoire sans fin /Endless story - Samedi/Saturday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCthGN05</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>75125e05-2a32-4a86-aa81-be918e936f56</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-5" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Histoire sans fin /Endless story - Samedi/Saturday : S05 Tangram</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Histoire sans fin /Endless story - Samedi/Saturday&lt;/h3&gt;&lt;h4&gt;Tangram&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/f5e5917a-b81e-4317-9fa8-5bb4e90e3c87"&gt;https://labs.geocaching.com/goto/f5e5917a-b81e-4317-9fa8-5bb4e90e3c87&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Reformez le puzzle hexagonal grâce aux symboles, le code se lit de haut en bas/Solve the puzzle using the symbols, read from top to bottom&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/3e192247-a63f-4f40-a2d0-be7e33d7c106" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Reformez le puzzle hexagonal grâce aux symboles, le code se lit dans l'ordre, de haut en bas.
+
+[EN] Solve the hexagonal puzzle using the symbols, the code is read in order from top to bottom.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/585e77e1-58f4-4bc5-9a45-1c48f7491212" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Voici enfin le jour du MEGA avec 30 nouvelles labcaches réparties sur 3 différentes Adventures. Toutes les labs de cette adventure se trouvent dans la salle de gymnase.
+Cette Adventure Lab n'est trouvable que le Samedi 16 juillet.
+
+[EN] It's finally the MEGA day with its 30 new labs spread over 3 different adventures. All labs in this adventure are inside the building.
+This Adventure Lab can only be found on Saturday July 16th.
+
+&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.435833333333" lon="2.5846833333333">
+                    <time>2022-07-16T06:55:41.297</time>
+                    <name>LCthGN06</name>
+                    <desc>Robinson Crusoe</desc>
+                    <url>https://labs.geocaching.com/goto/f5e5917a-b81e-4317-9fa8-5bb4e90e3c87</url>
+                    <urlname>S06 Histoire sans fin /Endless story - Samedi/Saturday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCthGN06</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>fdb56d2f-09a3-49f8-a1b3-370628d0dc3b</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-6" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Histoire sans fin /Endless story - Samedi/Saturday : S06 Robinson Crusoe</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Histoire sans fin /Endless story - Samedi/Saturday&lt;/h3&gt;&lt;h4&gt;Robinson Crusoe&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/f5e5917a-b81e-4317-9fa8-5bb4e90e3c87"&gt;https://labs.geocaching.com/goto/f5e5917a-b81e-4317-9fa8-5bb4e90e3c87&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Résolvez l'énigme pour trouver le code / Solve the puzzle to find the code&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/dcceef36-902f-442d-a87f-4831a04548dc" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Résolvez l'énigme pour trouver le code 
+
+[EN] Solve the puzzle to find the code&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/585e77e1-58f4-4bc5-9a45-1c48f7491212" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Voici enfin le jour du MEGA avec 30 nouvelles labcaches réparties sur 3 différentes Adventures. Toutes les labs de cette adventure se trouvent dans la salle de gymnase.
+Cette Adventure Lab n'est trouvable que le Samedi 16 juillet.
+
+[EN] It's finally the MEGA day with its 30 new labs spread over 3 different adventures. All labs in this adventure are inside the building.
+This Adventure Lab can only be found on Saturday July 16th.
+
+&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.435933333333" lon="2.5845">
+                    <time>2022-07-16T06:55:41.297</time>
+                    <name>LCthGN07</name>
+                    <desc>Picotin</desc>
+                    <url>https://labs.geocaching.com/goto/f5e5917a-b81e-4317-9fa8-5bb4e90e3c87</url>
+                    <urlname>S07 Histoire sans fin /Endless story - Samedi/Saturday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCthGN07</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>79c8c0d0-4260-4dba-97a7-44423f294630</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-7" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Histoire sans fin /Endless story - Samedi/Saturday : S07 Picotin</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Histoire sans fin /Endless story - Samedi/Saturday&lt;/h3&gt;&lt;h4&gt;Picotin&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/f5e5917a-b81e-4317-9fa8-5bb4e90e3c87"&gt;https://labs.geocaching.com/goto/f5e5917a-b81e-4317-9fa8-5bb4e90e3c87&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Replacez les crayons sur le hérisson et lisez le code avec la bonne lampe / Replace the pencils on the hedgehog &amp; read with the correct light&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/52862aee-5f27-4020-b52b-b5f9ea5c5758" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Replacez les crayons sur le hérisson et lisez le code avec la bonne lampe
+
+[EN] Replace the pencils on the hedgehog and read the code with the correct light&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/585e77e1-58f4-4bc5-9a45-1c48f7491212" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Voici enfin le jour du MEGA avec 30 nouvelles labcaches réparties sur 3 différentes Adventures. Toutes les labs de cette adventure se trouvent dans la salle de gymnase.
+Cette Adventure Lab n'est trouvable que le Samedi 16 juillet.
+
+[EN] It's finally the MEGA day with its 30 new labs spread over 3 different adventures. All labs in this adventure are inside the building.
+This Adventure Lab can only be found on Saturday July 16th.
+
+&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.436016666667" lon="2.58435">
+                    <time>2022-07-16T06:55:41.297</time>
+                    <name>LCthGN08</name>
+                    <desc>L'île au trésor / The treasure island</desc>
+                    <url>https://labs.geocaching.com/goto/f5e5917a-b81e-4317-9fa8-5bb4e90e3c87</url>
+                    <urlname>S08 Histoire sans fin /Endless story - Samedi/Saturday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCthGN08</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>d3be64b6-b9eb-4daa-be54-e0077e5fa115</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-8" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Histoire sans fin /Endless story - Samedi/Saturday : S08 L'île au trésor / The treasure island</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Histoire sans fin /Endless story - Samedi/Saturday&lt;/h3&gt;&lt;h4&gt;L'île au trésor / The treasure island&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/f5e5917a-b81e-4317-9fa8-5bb4e90e3c87"&gt;https://labs.geocaching.com/goto/f5e5917a-b81e-4317-9fa8-5bb4e90e3c87&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Retrouver le mot grâce à la carte / Find the word with the help of the map&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/1787f4ba-747a-4ded-aa8a-dd65245cb63f" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Retrouver le mot grâce à la carte
+
+[EN] Find the word with the help of the map&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/585e77e1-58f4-4bc5-9a45-1c48f7491212" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Voici enfin le jour du MEGA avec 30 nouvelles labcaches réparties sur 3 différentes Adventures. Toutes les labs de cette adventure se trouvent dans la salle de gymnase.
+Cette Adventure Lab n'est trouvable que le Samedi 16 juillet.
+
+[EN] It's finally the MEGA day with its 30 new labs spread over 3 different adventures. All labs in this adventure are inside the building.
+This Adventure Lab can only be found on Saturday July 16th.
+
+&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.436116666667" lon="2.5841333333333">
+                    <time>2022-07-16T06:55:41.297</time>
+                    <name>LCthGN09</name>
+                    <desc>Contre les moulins / Against the windmills</desc>
+                    <url>https://labs.geocaching.com/goto/f5e5917a-b81e-4317-9fa8-5bb4e90e3c87</url>
+                    <urlname>S09 Histoire sans fin /Endless story - Samedi/Saturday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCthGN09</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>f8c872c5-ed43-4e65-abe1-8e23e35cfdbe</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-9" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Histoire sans fin /Endless story - Samedi/Saturday : S09 Contre les moulins / Against the windmills</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Histoire sans fin /Endless story - Samedi/Saturday&lt;/h3&gt;&lt;h4&gt;Contre les moulins / Against the windmills&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/f5e5917a-b81e-4317-9fa8-5bb4e90e3c87"&gt;https://labs.geocaching.com/goto/f5e5917a-b81e-4317-9fa8-5bb4e90e3c87&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Résolvez l'énigme pour trouver le code / Solve the puzzle to find the code&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/0d3d4c3e-1c47-45ca-abd6-548bb9e6f5a9" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Résolvez l'énigme pour trouver le code 
+
+[EN] Solve the puzzle to find the code
+&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/585e77e1-58f4-4bc5-9a45-1c48f7491212" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Voici enfin le jour du MEGA avec 30 nouvelles labcaches réparties sur 3 différentes Adventures. Toutes les labs de cette adventure se trouvent dans la salle de gymnase.
+Cette Adventure Lab n'est trouvable que le Samedi 16 juillet.
+
+[EN] It's finally the MEGA day with its 30 new labs spread over 3 different adventures. All labs in this adventure are inside the building.
+This Adventure Lab can only be found on Saturday July 16th.
+
+&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.43625" lon="2.5842833333333">
+                    <time>2022-07-16T06:55:41.297</time>
+                    <name>LCthGN10</name>
+                    <desc>Space Invaders</desc>
+                    <url>https://labs.geocaching.com/goto/f5e5917a-b81e-4317-9fa8-5bb4e90e3c87</url>
+                    <urlname>S10 Histoire sans fin /Endless story - Samedi/Saturday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCthGN10</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>512e7406-a9ca-4457-b3d3-4c9e0a0402b9</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-10" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Histoire sans fin /Endless story - Samedi/Saturday : S10 Space Invaders</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Histoire sans fin /Endless story - Samedi/Saturday&lt;/h3&gt;&lt;h4&gt;Space Invaders&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/f5e5917a-b81e-4317-9fa8-5bb4e90e3c87"&gt;https://labs.geocaching.com/goto/f5e5917a-b81e-4317-9fa8-5bb4e90e3c87&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Trouvez le space invader, qui est représenté ? / Find the space invader, who is pictured?&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/f97b4de8-fcc6-4281-ae7c-54efb161240c" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Trouvez le space invader, qui est représenté ? 
+
+[EN] Find the space invader, who is pictured?&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/585e77e1-58f4-4bc5-9a45-1c48f7491212" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Voici enfin le jour du MEGA avec 30 nouvelles labcaches réparties sur 3 différentes Adventures. Toutes les labs de cette adventure se trouvent dans la salle de gymnase.
+Cette Adventure Lab n'est trouvable que le Samedi 16 juillet.
+
+[EN] It's finally the MEGA day with its 30 new labs spread over 3 different adventures. All labs in this adventure are inside the building.
+This Adventure Lab can only be found on Saturday July 16th.
+
+&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt></gpx>

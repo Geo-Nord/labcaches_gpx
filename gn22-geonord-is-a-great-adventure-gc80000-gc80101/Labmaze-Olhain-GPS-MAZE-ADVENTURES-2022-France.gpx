@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="utf-8"?>
+                <gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" creator="Groundspeak Pocket Query" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.groundspeak.com/cache/1/0/1 http://www.groundspeak.com/cache/1/0/1/cache.xsd" xmlns="http://www.topografix.com/GPX/1/0">
+                    <name>Adventure Labs</name>
+                <wpt lat="50.436316666667" lon="2.5844333333333">
+                    <time>2022-07-06T01:33:40.647</time>
+                    <name>LCKJVB01</name>
+                    <desc>LabMaze 1 - #5 Taille des caches / Geocache sizes</desc>
+                    <url>https://labs.geocaching.com/goto/9ebb1660-fc8b-458b-9610-34c7d3d2cd32</url>
+                    <urlname>S01 Labmaze Olhain - GPS MAZE ADVENTURES 2022 - France</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCKJVB01</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>d93807f6-6f44-4b86-a29a-37c5bad43b5b</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-1" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Labmaze Olhain - GPS MAZE ADVENTURES 2022 - France : S01 LabMaze 1 - #5 Taille des caches / Geocache sizes</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Labmaze Olhain - GPS MAZE ADVENTURES 2022 - France&lt;/h3&gt;&lt;h4&gt;LabMaze 1 - #5 Taille des caches / Geocache sizes&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/9ebb1660-fc8b-458b-9610-34c7d3d2cd32"&gt;https://labs.geocaching.com/goto/9ebb1660-fc8b-458b-9610-34c7d3d2cd32&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Quelle est la taille de la cage à oiseaux ? What is the size of the bord box (in French)?&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/c6e7604f-77f7-45fc-ab5b-663b554433e1" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Rendez vous au panneau #5 "Taille des caches".
+
+[EN] Find sign #5 "Geocache sizes". 
+&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/0b68c1c4-327b-41a2-87d3-7dff53230475" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Une exposition GPS Maze Adventures c'est aussi des labcaches !
+Visitez l'exposition et répondez aux différentes questions.
+
+Heures d'ouverture estimées:
+Mercredi 13 juillet - 16h30 à 18h00 (VIP &amp; Premium packs)
+Jeudi 14 juillet -  9h00 à 18h00
+Vendredi 15 juillet - 9h00 à 18h00
+Samedi 16 juillet - 9h00 à 18h00
+Dimanche 17 juillet - de 9h00 à 11h00
+
+[EN] A GPS Adventures Maze Exhibit is also labcaches!
+Visit the exhibition and find the answers to the different questions.
+
+Estimated opening times:
+Wednesday 13 July - 16:30 to 18:00 (VIP &amp; Premium packs)
+Thursday 14 July - 9:00 to 18:00
+Friday 15 July - 9:00 to 18:00
+Saturday 16 July - 9:00 to 18:00
+Sunday 17 July - 9:00 to 11:00&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.436233333333" lon="2.5845833333333">
+                    <time>2022-07-06T01:33:40.647</time>
+                    <name>LCKJVB02</name>
+                    <desc>LabMaze 2 - Transformez-vous en GPS ! / Be a GPS!</desc>
+                    <url>https://labs.geocaching.com/goto/9ebb1660-fc8b-458b-9610-34c7d3d2cd32</url>
+                    <urlname>S02 Labmaze Olhain - GPS MAZE ADVENTURES 2022 - France</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCKJVB02</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>79dfcfbc-70e4-4b30-9ac7-ebf90adc536d</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-2" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Labmaze Olhain - GPS MAZE ADVENTURES 2022 - France : S02 LabMaze 2 - Transformez-vous en GPS ! / Be a GPS!</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Labmaze Olhain - GPS MAZE ADVENTURES 2022 - France&lt;/h3&gt;&lt;h4&gt;LabMaze 2 - Transformez-vous en GPS ! / Be a GPS!&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/9ebb1660-fc8b-458b-9610-34c7d3d2cd32"&gt;https://labs.geocaching.com/goto/9ebb1660-fc8b-458b-9610-34c7d3d2cd32&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Quel code vous est dévoilé ? / What code is revealed to you?&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/fdeac24d-f119-4a94-8180-23ee7561705e" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Rendez vous au panneau "Transformez-vous en GPS !" et suivez Marie tout au long de sa journée.
+
+[EN] Find the sign "Be a GPS!" and follow Marie all along her journey.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/0b68c1c4-327b-41a2-87d3-7dff53230475" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Une exposition GPS Maze Adventures c'est aussi des labcaches !
+Visitez l'exposition et répondez aux différentes questions.
+
+Heures d'ouverture estimées:
+Mercredi 13 juillet - 16h30 à 18h00 (VIP &amp; Premium packs)
+Jeudi 14 juillet -  9h00 à 18h00
+Vendredi 15 juillet - 9h00 à 18h00
+Samedi 16 juillet - 9h00 à 18h00
+Dimanche 17 juillet - de 9h00 à 11h00
+
+[EN] A GPS Adventures Maze Exhibit is also labcaches!
+Visit the exhibition and find the answers to the different questions.
+
+Estimated opening times:
+Wednesday 13 July - 16:30 to 18:00 (VIP &amp; Premium packs)
+Thursday 14 July - 9:00 to 18:00
+Friday 15 July - 9:00 to 18:00
+Saturday 16 July - 9:00 to 18:00
+Sunday 17 July - 9:00 to 11:00&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.43615" lon="2.5847666666667">
+                    <time>2022-07-06T01:33:40.647</time>
+                    <name>LCKJVB03</name>
+                    <desc>LabMaze 3 - #9 Courbes de Niveaux /Elevation Lines</desc>
+                    <url>https://labs.geocaching.com/goto/9ebb1660-fc8b-458b-9610-34c7d3d2cd32</url>
+                    <urlname>S03 Labmaze Olhain - GPS MAZE ADVENTURES 2022 - France</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCKJVB03</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>bf9f85f6-167c-433a-9234-30c0fb31dae9</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-3" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Labmaze Olhain - GPS MAZE ADVENTURES 2022 - France : S03 LabMaze 3 - #9 Courbes de Niveaux /Elevation Lines</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Labmaze Olhain - GPS MAZE ADVENTURES 2022 - France&lt;/h3&gt;&lt;h4&gt;LabMaze 3 - #9 Courbes de Niveaux /Elevation Lines&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/9ebb1660-fc8b-458b-9610-34c7d3d2cd32"&gt;https://labs.geocaching.com/goto/9ebb1660-fc8b-458b-9610-34c7d3d2cd32&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Quel parcours est le moins fatiguant ? / What is the less tiring path?&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/00e2d64e-2a9b-4cfb-97a6-5e3f63d7c920" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Rendez vous au panneau #9 "Courbes de niveaux" et observez les parcours.
+
+[EN] Find sign #9 "Elevation Lines" and observe the different paths.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/0b68c1c4-327b-41a2-87d3-7dff53230475" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Une exposition GPS Maze Adventures c'est aussi des labcaches !
+Visitez l'exposition et répondez aux différentes questions.
+
+Heures d'ouverture estimées:
+Mercredi 13 juillet - 16h30 à 18h00 (VIP &amp; Premium packs)
+Jeudi 14 juillet -  9h00 à 18h00
+Vendredi 15 juillet - 9h00 à 18h00
+Samedi 16 juillet - 9h00 à 18h00
+Dimanche 17 juillet - de 9h00 à 11h00
+
+[EN] A GPS Adventures Maze Exhibit is also labcaches!
+Visit the exhibition and find the answers to the different questions.
+
+Estimated opening times:
+Wednesday 13 July - 16:30 to 18:00 (VIP &amp; Premium packs)
+Thursday 14 July - 9:00 to 18:00
+Friday 15 July - 9:00 to 18:00
+Saturday 16 July - 9:00 to 18:00
+Sunday 17 July - 9:00 to 11:00&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.43605" lon="2.58495">
+                    <time>2022-07-06T01:33:40.647</time>
+                    <name>LCKJVB04</name>
+                    <desc>LabMaze 4 - #15 À mettre dans une cache/In a cache</desc>
+                    <url>https://labs.geocaching.com/goto/9ebb1660-fc8b-458b-9610-34c7d3d2cd32</url>
+                    <urlname>S04 Labmaze Olhain - GPS MAZE ADVENTURES 2022 - France</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCKJVB04</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>c7023cbb-a392-4531-a8c5-bfd32389630e</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-4" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Labmaze Olhain - GPS MAZE ADVENTURES 2022 - France : S04 LabMaze 4 - #15 À mettre dans une cache/In a cache</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Labmaze Olhain - GPS MAZE ADVENTURES 2022 - France&lt;/h3&gt;&lt;h4&gt;LabMaze 4 - #15 À mettre dans une cache/In a cache&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/9ebb1660-fc8b-458b-9610-34c7d3d2cd32"&gt;https://labs.geocaching.com/goto/9ebb1660-fc8b-458b-9610-34c7d3d2cd32&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Quel objet ne doit pas être mis dans une cache ? / What item should not be put in a cache (1 word in French)?&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/0298ced2-0160-4c34-9062-9a23df618d6d" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Rendez vous au panneau #15 "A mettre dans une cache" et examinez son contenu.
+
+[EN] Find sign No #15 "Things to put in a cache" and examine it.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/0b68c1c4-327b-41a2-87d3-7dff53230475" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Une exposition GPS Maze Adventures c'est aussi des labcaches !
+Visitez l'exposition et répondez aux différentes questions.
+
+Heures d'ouverture estimées:
+Mercredi 13 juillet - 16h30 à 18h00 (VIP &amp; Premium packs)
+Jeudi 14 juillet -  9h00 à 18h00
+Vendredi 15 juillet - 9h00 à 18h00
+Samedi 16 juillet - 9h00 à 18h00
+Dimanche 17 juillet - de 9h00 à 11h00
+
+[EN] A GPS Adventures Maze Exhibit is also labcaches!
+Visit the exhibition and find the answers to the different questions.
+
+Estimated opening times:
+Wednesday 13 July - 16:30 to 18:00 (VIP &amp; Premium packs)
+Thursday 14 July - 9:00 to 18:00
+Friday 15 July - 9:00 to 18:00
+Saturday 16 July - 9:00 to 18:00
+Sunday 17 July - 9:00 to 11:00&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.43595" lon="2.5848">
+                    <time>2022-07-06T01:33:40.647</time>
+                    <name>LCKJVB05</name>
+                    <desc>LabMaze 5 - #22 Earthcaches</desc>
+                    <url>https://labs.geocaching.com/goto/9ebb1660-fc8b-458b-9610-34c7d3d2cd32</url>
+                    <urlname>S05 Labmaze Olhain - GPS MAZE ADVENTURES 2022 - France</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCKJVB05</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>4d7b0b32-3edd-4f46-ac72-0f93d85dcdc1</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-5" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Labmaze Olhain - GPS MAZE ADVENTURES 2022 - France : S05 LabMaze 5 - #22 Earthcaches</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Labmaze Olhain - GPS MAZE ADVENTURES 2022 - France&lt;/h3&gt;&lt;h4&gt;LabMaze 5 - #22 Earthcaches&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/9ebb1660-fc8b-458b-9610-34c7d3d2cd32"&gt;https://labs.geocaching.com/goto/9ebb1660-fc8b-458b-9610-34c7d3d2cd32&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;De quel animal fossilisé s'agit-il ? / What is the fossilized animal (1 word in French)?&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/f255b597-16a7-4722-8396-b3cd4453d349" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Rendez vous au panneau #22 "Earthcaches" et examinez son contenu.
+
+[EN] Find sign #22 "Earthcaches" and read it.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/0b68c1c4-327b-41a2-87d3-7dff53230475" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Une exposition GPS Maze Adventures c'est aussi des labcaches !
+Visitez l'exposition et répondez aux différentes questions.
+
+Heures d'ouverture estimées:
+Mercredi 13 juillet - 16h30 à 18h00 (VIP &amp; Premium packs)
+Jeudi 14 juillet -  9h00 à 18h00
+Vendredi 15 juillet - 9h00 à 18h00
+Samedi 16 juillet - 9h00 à 18h00
+Dimanche 17 juillet - de 9h00 à 11h00
+
+[EN] A GPS Adventures Maze Exhibit is also labcaches!
+Visit the exhibition and find the answers to the different questions.
+
+Estimated opening times:
+Wednesday 13 July - 16:30 to 18:00 (VIP &amp; Premium packs)
+Thursday 14 July - 9:00 to 18:00
+Friday 15 July - 9:00 to 18:00
+Saturday 16 July - 9:00 to 18:00
+Sunday 17 July - 9:00 to 11:00&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.435833333333" lon="2.5846833333333">
+                    <time>2022-07-06T01:33:40.647</time>
+                    <name>LCKJVB06</name>
+                    <desc>LabMaze 6 - #24 Signal</desc>
+                    <url>https://labs.geocaching.com/goto/9ebb1660-fc8b-458b-9610-34c7d3d2cd32</url>
+                    <urlname>S06 Labmaze Olhain - GPS MAZE ADVENTURES 2022 - France</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCKJVB06</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>3f759865-bb6c-47ea-9c0b-79871a26e80f</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-6" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Labmaze Olhain - GPS MAZE ADVENTURES 2022 - France : S06 LabMaze 6 - #24 Signal</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Labmaze Olhain - GPS MAZE ADVENTURES 2022 - France&lt;/h3&gt;&lt;h4&gt;LabMaze 6 - #24 Signal&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/9ebb1660-fc8b-458b-9610-34c7d3d2cd32"&gt;https://labs.geocaching.com/goto/9ebb1660-fc8b-458b-9610-34c7d3d2cd32&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;A quoi fait référence l'antenne de Signal ? (1 mot) / To what Signal's antenna refers to? (1 word)&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/dcbdb2de-d7e6-4af7-976f-281178b13fae" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Rendez vous au panneau #24 "Signal" et étudiez son contenu.
+
+[EN] Find sign #24 "Signal" and observe it.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/0b68c1c4-327b-41a2-87d3-7dff53230475" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Une exposition GPS Maze Adventures c'est aussi des labcaches !
+Visitez l'exposition et répondez aux différentes questions.
+
+Heures d'ouverture estimées:
+Mercredi 13 juillet - 16h30 à 18h00 (VIP &amp; Premium packs)
+Jeudi 14 juillet -  9h00 à 18h00
+Vendredi 15 juillet - 9h00 à 18h00
+Samedi 16 juillet - 9h00 à 18h00
+Dimanche 17 juillet - de 9h00 à 11h00
+
+[EN] A GPS Adventures Maze Exhibit is also labcaches!
+Visit the exhibition and find the answers to the different questions.
+
+Estimated opening times:
+Wednesday 13 July - 16:30 to 18:00 (VIP &amp; Premium packs)
+Thursday 14 July - 9:00 to 18:00
+Friday 15 July - 9:00 to 18:00
+Saturday 16 July - 9:00 to 18:00
+Sunday 17 July - 9:00 to 11:00&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.435933333333" lon="2.5845">
+                    <time>2022-07-06T01:33:40.647</time>
+                    <name>LCKJVB07</name>
+                    <desc>LabMaze 7 - #31bis Rover Mars</desc>
+                    <url>https://labs.geocaching.com/goto/9ebb1660-fc8b-458b-9610-34c7d3d2cd32</url>
+                    <urlname>S07 Labmaze Olhain - GPS MAZE ADVENTURES 2022 - France</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCKJVB07</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>d097e436-ea44-4795-bbf4-759d8e8e3ca4</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-7" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Labmaze Olhain - GPS MAZE ADVENTURES 2022 - France : S07 LabMaze 7 - #31bis Rover Mars</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Labmaze Olhain - GPS MAZE ADVENTURES 2022 - France&lt;/h3&gt;&lt;h4&gt;LabMaze 7 - #31bis Rover Mars&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/9ebb1660-fc8b-458b-9610-34c7d3d2cd32"&gt;https://labs.geocaching.com/goto/9ebb1660-fc8b-458b-9610-34c7d3d2cd32&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Comment s'appelle le spectromètre du Rover Perseverance ? / What is the name of the spectrophotometer of the Perseverance Rover?&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/1f4fe21d-ec59-4ab8-ac57-38f83c02200e" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Rendez vous au panneau #31bis "Rover Mars" et étudiez son contenu.
+
+[EN] Find sign #31bis "Rover Mars" and examine it.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/0b68c1c4-327b-41a2-87d3-7dff53230475" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Une exposition GPS Maze Adventures c'est aussi des labcaches !
+Visitez l'exposition et répondez aux différentes questions.
+
+Heures d'ouverture estimées:
+Mercredi 13 juillet - 16h30 à 18h00 (VIP &amp; Premium packs)
+Jeudi 14 juillet -  9h00 à 18h00
+Vendredi 15 juillet - 9h00 à 18h00
+Samedi 16 juillet - 9h00 à 18h00
+Dimanche 17 juillet - de 9h00 à 11h00
+
+[EN] A GPS Adventures Maze Exhibit is also labcaches!
+Visit the exhibition and find the answers to the different questions.
+
+Estimated opening times:
+Wednesday 13 July - 16:30 to 18:00 (VIP &amp; Premium packs)
+Thursday 14 July - 9:00 to 18:00
+Friday 15 July - 9:00 to 18:00
+Saturday 16 July - 9:00 to 18:00
+Sunday 17 July - 9:00 to 11:00&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.436016666667" lon="2.58435">
+                    <time>2022-07-06T01:33:40.647</time>
+                    <name>LCKJVB08</name>
+                    <desc>LabMaze 8 - Zone Nuit / Night Zone</desc>
+                    <url>https://labs.geocaching.com/goto/9ebb1660-fc8b-458b-9610-34c7d3d2cd32</url>
+                    <urlname>S08 Labmaze Olhain - GPS MAZE ADVENTURES 2022 - France</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCKJVB08</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>22e5c522-8deb-4df0-b852-952914f4e306</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-8" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Labmaze Olhain - GPS MAZE ADVENTURES 2022 - France : S08 LabMaze 8 - Zone Nuit / Night Zone</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Labmaze Olhain - GPS MAZE ADVENTURES 2022 - France&lt;/h3&gt;&lt;h4&gt;LabMaze 8 - Zone Nuit / Night Zone&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/9ebb1660-fc8b-458b-9610-34c7d3d2cd32"&gt;https://labs.geocaching.com/goto/9ebb1660-fc8b-458b-9610-34c7d3d2cd32&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Quel est le nom de l'araignée ? What is the name of the spider?&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/772b52b6-85b8-4d92-813d-db23a1d68f62" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Rendez vous dans la zone nuit et repérez l'araignée phosphorescente.
+
+[EN] Go to the night zone and find the fluorescent spider.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/0b68c1c4-327b-41a2-87d3-7dff53230475" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Une exposition GPS Maze Adventures c'est aussi des labcaches !
+Visitez l'exposition et répondez aux différentes questions.
+
+Heures d'ouverture estimées:
+Mercredi 13 juillet - 16h30 à 18h00 (VIP &amp; Premium packs)
+Jeudi 14 juillet -  9h00 à 18h00
+Vendredi 15 juillet - 9h00 à 18h00
+Samedi 16 juillet - 9h00 à 18h00
+Dimanche 17 juillet - de 9h00 à 11h00
+
+[EN] A GPS Adventures Maze Exhibit is also labcaches!
+Visit the exhibition and find the answers to the different questions.
+
+Estimated opening times:
+Wednesday 13 July - 16:30 to 18:00 (VIP &amp; Premium packs)
+Thursday 14 July - 9:00 to 18:00
+Friday 15 July - 9:00 to 18:00
+Saturday 16 July - 9:00 to 18:00
+Sunday 17 July - 9:00 to 11:00&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.436116666667" lon="2.5841333333333">
+                    <time>2022-07-06T01:33:40.647</time>
+                    <name>LCKJVB09</name>
+                    <desc>LabMaze 9 - #51 Technology Chirp /Chirp Technology</desc>
+                    <url>https://labs.geocaching.com/goto/9ebb1660-fc8b-458b-9610-34c7d3d2cd32</url>
+                    <urlname>S09 Labmaze Olhain - GPS MAZE ADVENTURES 2022 - France</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCKJVB09</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>1e0ccc23-e31b-4389-abdf-604fdf35e609</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-9" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Labmaze Olhain - GPS MAZE ADVENTURES 2022 - France : S09 LabMaze 9 - #51 Technology Chirp /Chirp Technology</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Labmaze Olhain - GPS MAZE ADVENTURES 2022 - France&lt;/h3&gt;&lt;h4&gt;LabMaze 9 - #51 Technology Chirp /Chirp Technology&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/9ebb1660-fc8b-458b-9610-34c7d3d2cd32"&gt;https://labs.geocaching.com/goto/9ebb1660-fc8b-458b-9610-34c7d3d2cd32&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Quel code vous a envoyé le Chirp ? / What is the code transmitted by the Chirp?&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/0d7f00eb-8609-44db-8206-720f99f328f8" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Rendez vous au panneau #51 "Technologie Chirp" et interrogez le.
+
+[EN] Find sign #51 "Chirp Technology" and receive the code being transmitted&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/0b68c1c4-327b-41a2-87d3-7dff53230475" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Une exposition GPS Maze Adventures c'est aussi des labcaches !
+Visitez l'exposition et répondez aux différentes questions.
+
+Heures d'ouverture estimées:
+Mercredi 13 juillet - 16h30 à 18h00 (VIP &amp; Premium packs)
+Jeudi 14 juillet -  9h00 à 18h00
+Vendredi 15 juillet - 9h00 à 18h00
+Samedi 16 juillet - 9h00 à 18h00
+Dimanche 17 juillet - de 9h00 à 11h00
+
+[EN] A GPS Adventures Maze Exhibit is also labcaches!
+Visit the exhibition and find the answers to the different questions.
+
+Estimated opening times:
+Wednesday 13 July - 16:30 to 18:00 (VIP &amp; Premium packs)
+Thursday 14 July - 9:00 to 18:00
+Friday 15 July - 9:00 to 18:00
+Saturday 16 July - 9:00 to 18:00
+Sunday 17 July - 9:00 to 11:00&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.43625" lon="2.5842833333333">
+                    <time>2022-07-06T01:33:40.647</time>
+                    <name>LCKJVB10</name>
+                    <desc>LabMaze 10 - Where is Signal?</desc>
+                    <url>https://labs.geocaching.com/goto/9ebb1660-fc8b-458b-9610-34c7d3d2cd32</url>
+                    <urlname>S10 Labmaze Olhain - GPS MAZE ADVENTURES 2022 - France</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCKJVB10</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>ba69433a-e9e1-489d-9525-75aa87ccbfb3</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-10" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Labmaze Olhain - GPS MAZE ADVENTURES 2022 - France : S10 LabMaze 10 - Where is Signal?</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Labmaze Olhain - GPS MAZE ADVENTURES 2022 - France&lt;/h3&gt;&lt;h4&gt;LabMaze 10 - Where is Signal?&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/9ebb1660-fc8b-458b-9610-34c7d3d2cd32"&gt;https://labs.geocaching.com/goto/9ebb1660-fc8b-458b-9610-34c7d3d2cd32&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Que pouvez-vous voir à la gauche de Signal ? What can you see at Signal's left (1 word in French)?&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/87ad7629-ee70-4457-9687-fb39c9c95826" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Rendez vous au panneau "Where is Signal ?".
+
+[EN] Find the sign "Where is Signal?"&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/0b68c1c4-327b-41a2-87d3-7dff53230475" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Une exposition GPS Maze Adventures c'est aussi des labcaches !
+Visitez l'exposition et répondez aux différentes questions.
+
+Heures d'ouverture estimées:
+Mercredi 13 juillet - 16h30 à 18h00 (VIP &amp; Premium packs)
+Jeudi 14 juillet -  9h00 à 18h00
+Vendredi 15 juillet - 9h00 à 18h00
+Samedi 16 juillet - 9h00 à 18h00
+Dimanche 17 juillet - de 9h00 à 11h00
+
+[EN] A GPS Adventures Maze Exhibit is also labcaches!
+Visit the exhibition and find the answers to the different questions.
+
+Estimated opening times:
+Wednesday 13 July - 16:30 to 18:00 (VIP &amp; Premium packs)
+Thursday 14 July - 9:00 to 18:00
+Friday 15 July - 9:00 to 18:00
+Saturday 16 July - 9:00 to 18:00
+Sunday 17 July - 9:00 to 11:00&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt></gpx>

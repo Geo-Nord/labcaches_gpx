@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+                <gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" creator="Groundspeak Pocket Query" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.groundspeak.com/cache/1/0/1 http://www.groundspeak.com/cache/1/0/1/cache.xsd" xmlns="http://www.topografix.com/GPX/1/0">
+                    <name>Adventure Labs</name>
+                <wpt lat="51.037716666667" lon="2.4066666666667">
+                    <time>2022-09-05T16:08:28.79</time>
+                    <name>LCuPdt01</name>
+                    <desc>ASTROLOGIE CHINOISE</desc>
+                    <url>https://labs.geocaching.com/goto/gn2</url>
+                    <urlname>S01 Fun under the sun! 2</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCuPdt01</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>abba9aed-9062-4312-9838-8762a5b812cc</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-1" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Fun under the sun! 2 : S01 ASTROLOGIE CHINOISE</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Fun under the sun! 2&lt;/h3&gt;&lt;h4&gt;ASTROLOGIE CHINOISE&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/gn2"&gt;https://labs.geocaching.com/goto/gn2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;FR - Trouvez le point commun. EN - Find the common point.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/f7d2a892-5842-4ebc-9f1e-ad45dd514a73" /&gt;&lt;/p&gt;&lt;p&gt;FR - Trouvez le point commun.
+EN - Find the common point.
+&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/862dcb17-9275-4081-bf57-e973089d596a" /&gt;&lt;/p&gt;&lt;p&gt;FR: Pour troisième année l'équipe GeoNord vous invite à découvrir des Labcaches insolites ! 
+EN: For the third time, the GeoNord team invites you to discover unusual Labcaches! &lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="51.037716666667" lon="2.4066666666667">
+                    <time>2022-09-05T16:08:28.79</time>
+                    <name>LCuPdt02</name>
+                    <desc>RED</desc>
+                    <url>https://labs.geocaching.com/goto/gn2</url>
+                    <urlname>S02 Fun under the sun! 2</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCuPdt02</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>8e0ced7a-8428-40ba-8986-33a09adf98aa</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-2" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Fun under the sun! 2 : S02 RED</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Fun under the sun! 2&lt;/h3&gt;&lt;h4&gt;RED&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/gn2"&gt;https://labs.geocaching.com/goto/gn2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;FR - Recherchez les bonnes boules. EN - Look for the right balls.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/17dc86dc-23e5-4b89-9d41-dbd7234f9dc4" /&gt;&lt;/p&gt;&lt;p&gt;FR - Recherchez les bonnes boules.
+EN - Look for the right balls.
+&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/862dcb17-9275-4081-bf57-e973089d596a" /&gt;&lt;/p&gt;&lt;p&gt;FR: Pour troisième année l'équipe GeoNord vous invite à découvrir des Labcaches insolites ! 
+EN: For the third time, the GeoNord team invites you to discover unusual Labcaches! &lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="51.037716666667" lon="2.4066666666667">
+                    <time>2022-09-05T16:08:28.79</time>
+                    <name>LCuPdt03</name>
+                    <desc>DE L’AUBE AU CRÉPUSCULE</desc>
+                    <url>https://labs.geocaching.com/goto/gn2</url>
+                    <urlname>S03 Fun under the sun! 2</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCuPdt03</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>162cb9fe-a5bf-4394-b4a2-2124144b11eb</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-3" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Fun under the sun! 2 : S03 DE L’AUBE AU CRÉPUSCULE</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Fun under the sun! 2&lt;/h3&gt;&lt;h4&gt;DE L’AUBE AU CRÉPUSCULE&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/gn2"&gt;https://labs.geocaching.com/goto/gn2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;FR - Cheminez le long du jour. EN - To walk along the day.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/521f902f-1282-4388-921f-73d45ceb70c3" /&gt;&lt;/p&gt;&lt;p&gt;FR - Cheminez le long du jour.
+EN - To walk along the day.
+&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/862dcb17-9275-4081-bf57-e973089d596a" /&gt;&lt;/p&gt;&lt;p&gt;FR: Pour troisième année l'équipe GeoNord vous invite à découvrir des Labcaches insolites ! 
+EN: For the third time, the GeoNord team invites you to discover unusual Labcaches! &lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="51.037716666667" lon="2.4066666666667">
+                    <time>2022-09-05T16:08:28.79</time>
+                    <name>LCuPdt04</name>
+                    <desc>STOP</desc>
+                    <url>https://labs.geocaching.com/goto/gn2</url>
+                    <urlname>S04 Fun under the sun! 2</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCuPdt04</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>b4732b92-ed4f-44da-9b43-da8a31144d98</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-4" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Fun under the sun! 2 : S04 STOP</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Fun under the sun! 2&lt;/h3&gt;&lt;h4&gt;STOP&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/gn2"&gt;https://labs.geocaching.com/goto/gn2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;FR - Respectez les feux. EN - Respect the lights.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/9cd7a941-44d5-4cb3-bf87-cb34488cc55e" /&gt;&lt;/p&gt;&lt;p&gt;FR - Respectez les feux.
+EN - Respect the lights.
+&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/862dcb17-9275-4081-bf57-e973089d596a" /&gt;&lt;/p&gt;&lt;p&gt;FR: Pour troisième année l'équipe GeoNord vous invite à découvrir des Labcaches insolites ! 
+EN: For the third time, the GeoNord team invites you to discover unusual Labcaches! &lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="51.037716666667" lon="2.4066666666667">
+                    <time>2022-09-05T16:08:28.79</time>
+                    <name>LCuPdt05</name>
+                    <desc>LANCE FLAMME</desc>
+                    <url>https://labs.geocaching.com/goto/gn2</url>
+                    <urlname>S05 Fun under the sun! 2</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCuPdt05</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>a819fa72-b445-4d21-aae1-5717c1827dc8</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-5" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Fun under the sun! 2 : S05 LANCE FLAMME</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Fun under the sun! 2&lt;/h3&gt;&lt;h4&gt;LANCE FLAMME&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/gn2"&gt;https://labs.geocaching.com/goto/gn2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;FR - Utilisez la lampe UV. EN - Use the UV lamp.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/c8737593-e0da-4ca0-89dd-449cc445fd9b" /&gt;&lt;/p&gt;&lt;p&gt;FR - Utilisez la lampe UV.
+EN - Use the UV lamp.
+&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/862dcb17-9275-4081-bf57-e973089d596a" /&gt;&lt;/p&gt;&lt;p&gt;FR: Pour troisième année l'équipe GeoNord vous invite à découvrir des Labcaches insolites ! 
+EN: For the third time, the GeoNord team invites you to discover unusual Labcaches! &lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="51.037716666667" lon="2.4066666666667">
+                    <time>2022-09-05T16:08:28.79</time>
+                    <name>LCuPdt06</name>
+                    <desc>TAKE STAFF’S HAT OFF</desc>
+                    <url>https://labs.geocaching.com/goto/gn2</url>
+                    <urlname>S06 Fun under the sun! 2</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCuPdt06</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>39cf678e-fdbc-4388-9208-e92489a10420</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-6" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Fun under the sun! 2 : S06 TAKE STAFF’S HAT OFF</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Fun under the sun! 2&lt;/h3&gt;&lt;h4&gt;TAKE STAFF’S HAT OFF&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/gn2"&gt;https://labs.geocaching.com/goto/gn2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;FR - Cherchez le code caché sur la tête des organisateurs. EN - Look for the code hidden on the organizers' heads.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/d6540f93-e1be-4ada-9fc1-21daf3cac209" /&gt;&lt;/p&gt;&lt;p&gt;FR - Cherchez le code caché sur la tête des organisateurs.
+EN - Look for the code hidden on the organizers' heads.
+&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/862dcb17-9275-4081-bf57-e973089d596a" /&gt;&lt;/p&gt;&lt;p&gt;FR: Pour troisième année l'équipe GeoNord vous invite à découvrir des Labcaches insolites ! 
+EN: For the third time, the GeoNord team invites you to discover unusual Labcaches! &lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="51.037716666667" lon="2.4066666666667">
+                    <time>2022-09-05T16:08:28.79</time>
+                    <name>LCuPdt07</name>
+                    <desc>SUNSHINE</desc>
+                    <url>https://labs.geocaching.com/goto/gn2</url>
+                    <urlname>S07 Fun under the sun! 2</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCuPdt07</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>df706660-8b33-4ce3-953e-b1909bddd330</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-7" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Fun under the sun! 2 : S07 SUNSHINE</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Fun under the sun! 2&lt;/h3&gt;&lt;h4&gt;SUNSHINE&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/gn2"&gt;https://labs.geocaching.com/goto/gn2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;FR - Alignez les soleils et à vous le code ! EN - Align the suns and you will get the code!&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/6c0ef8c2-d261-4272-819c-213ffcb748fc" /&gt;&lt;/p&gt;&lt;p&gt;FR - Alignez les soleils et à vous le code !
+EN - Align the suns and you will get the code!
+&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/862dcb17-9275-4081-bf57-e973089d596a" /&gt;&lt;/p&gt;&lt;p&gt;FR: Pour troisième année l'équipe GeoNord vous invite à découvrir des Labcaches insolites ! 
+EN: For the third time, the GeoNord team invites you to discover unusual Labcaches! &lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="51.037716666667" lon="2.4066666666667">
+                    <time>2022-09-05T16:08:28.79</time>
+                    <name>LCuPdt08</name>
+                    <desc>ON THE BEACH	</desc>
+                    <url>https://labs.geocaching.com/goto/gn2</url>
+                    <urlname>S08 Fun under the sun! 2</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCuPdt08</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>cc04d6f0-87e6-44fd-90b8-dada8b9baa21</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-8" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Fun under the sun! 2 : S08 ON THE BEACH	</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Fun under the sun! 2&lt;/h3&gt;&lt;h4&gt;ON THE BEACH	&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/gn2"&gt;https://labs.geocaching.com/goto/gn2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;FR - Reformez le puzzle pour avoir le code. EN - Reform the puzzle to have the code.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/8e274e0d-ad55-4e43-8ec5-27530189c03d" /&gt;&lt;/p&gt;&lt;p&gt;FR - Reformez le puzzle pour avoir le code.
+EN - Reform the puzzle to have the code.
+&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/862dcb17-9275-4081-bf57-e973089d596a" /&gt;&lt;/p&gt;&lt;p&gt;FR: Pour troisième année l'équipe GeoNord vous invite à découvrir des Labcaches insolites ! 
+EN: For the third time, the GeoNord team invites you to discover unusual Labcaches! &lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="51.037716666667" lon="2.4066666666667">
+                    <time>2022-09-05T16:08:28.79</time>
+                    <name>LCuPdt09</name>
+                    <desc>CONNECTOR</desc>
+                    <url>https://labs.geocaching.com/goto/gn2</url>
+                    <urlname>S09 Fun under the sun! 2</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCuPdt09</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>07610132-6f8e-4537-bd61-a9a6fc0998e2</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-9" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Fun under the sun! 2 : S09 CONNECTOR</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Fun under the sun! 2&lt;/h3&gt;&lt;h4&gt;CONNECTOR&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/gn2"&gt;https://labs.geocaching.com/goto/gn2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;FR - Reliez l’image au nom. EN - Connect the image to the name.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/876acfc4-fc03-442d-883d-507f379b381c" /&gt;&lt;/p&gt;&lt;p&gt;FR - Reliez l’image au nom.
+EN - Connect the image to the name.
+&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/862dcb17-9275-4081-bf57-e973089d596a" /&gt;&lt;/p&gt;&lt;p&gt;FR: Pour troisième année l'équipe GeoNord vous invite à découvrir des Labcaches insolites ! 
+EN: For the third time, the GeoNord team invites you to discover unusual Labcaches! &lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="51.037716666667" lon="2.4066666666667">
+                    <time>2022-09-05T16:08:28.79</time>
+                    <name>LCuPdt10</name>
+                    <desc>DÉDALE</desc>
+                    <url>https://labs.geocaching.com/goto/gn2</url>
+                    <urlname>S10 Fun under the sun! 2</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCuPdt10</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>802f3881-9a7e-4cde-9331-38f1aafa34f2</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-10" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Fun under the sun! 2 : S10 DÉDALE</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Fun under the sun! 2&lt;/h3&gt;&lt;h4&gt;DÉDALE&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/gn2"&gt;https://labs.geocaching.com/goto/gn2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;FR - Amenez le pompier à la maison en feu ! EN - Bring the fireman to the house on fire!&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/10c51aee-8f19-4ceb-8d6d-e74d41212a90" /&gt;&lt;/p&gt;&lt;p&gt;FR - Amenez le pompier à la maison en feu !
+EN - Bring the fireman to the house on fire!
+&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/862dcb17-9275-4081-bf57-e973089d596a" /&gt;&lt;/p&gt;&lt;p&gt;FR: Pour troisième année l'équipe GeoNord vous invite à découvrir des Labcaches insolites ! 
+EN: For the third time, the GeoNord team invites you to discover unusual Labcaches! &lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt></gpx>

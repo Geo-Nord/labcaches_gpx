@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8"?>
+                <gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" creator="Groundspeak Pocket Query" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.groundspeak.com/cache/1/0/1 http://www.groundspeak.com/cache/1/0/1/cache.xsd" xmlns="http://www.topografix.com/GPX/1/0">
+                    <name>Adventure Labs</name>
+                <wpt lat="50.43965" lon="2.5827666666667">
+                    <time>2022-07-15T12:10:14.357</time>
+                    <name>LCkZax01</name>
+                    <desc>Modèle de Signal / Signal's Model</desc>
+                    <url>https://labs.geocaching.com/goto/9fe702b4-434c-4a70-b1df-4f5d84c8dfdb</url>
+                    <urlname>S01 Signal revisite les contes - Vendredi/Friday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCkZax01</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>5cd7b20d-5c82-4d9f-af56-c919b425ab1d</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-1" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Signal revisite les contes - Vendredi/Friday : S01 Modèle de Signal / Signal's Model</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Signal revisite les contes - Vendredi/Friday&lt;/h3&gt;&lt;h4&gt;Modèle de Signal / Signal's Model&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/9fe702b4-434c-4a70-b1df-4f5d84c8dfdb"&gt;https://labs.geocaching.com/goto/9fe702b4-434c-4a70-b1df-4f5d84c8dfdb&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Qui est le modèle de Signal ? / Who is Signal's model?&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/d91a8390-e1e2-4a76-b1d0-cebb4ddf0dc2" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Rendez-vous sur place pour trouver le code.
+
+[EN] Go to the coordinates to find the code.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/2a3bce98-4580-45dc-bfd5-d9417a864d72" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Au programme de ce troisième jour de Méga : du fun, du fun et du fun !
+Participez à l’activité The Element Quest dans la fôrêt d’Olhain à partir de 14h avec au menu une myriade de labcaches à découvrir !
+
+Cette adventure labcache n'est trouvable que le Vendredi 15 juillet entre 14h et 18h
+
+[EN] On the program of this third day: fun, fun, and fun!
+Attend the activity The Element Quest in the forest of Olhain that will start at 2pm with a myriad of labcaches to discover!
+
+This adventure can only be found on Friday, July 15th from 2pm to 6pm&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.439716666667" lon="2.5835666666667">
+                    <time>2022-07-15T12:10:14.357</time>
+                    <name>LCkZax02</name>
+                    <desc>Le Chat Botté / Puss in Boots</desc>
+                    <url>https://labs.geocaching.com/goto/9fe702b4-434c-4a70-b1df-4f5d84c8dfdb</url>
+                    <urlname>S02 Signal revisite les contes - Vendredi/Friday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCkZax02</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>e50cfed1-d25f-4cb7-930d-d300d3281d5e</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-2" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Signal revisite les contes - Vendredi/Friday : S02 Le Chat Botté / Puss in Boots</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Signal revisite les contes - Vendredi/Friday&lt;/h3&gt;&lt;h4&gt;Le Chat Botté / Puss in Boots&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/9fe702b4-434c-4a70-b1df-4f5d84c8dfdb"&gt;https://labs.geocaching.com/goto/9fe702b4-434c-4a70-b1df-4f5d84c8dfdb&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Résolvez l'énigme pour trouver le code / Solve the puzzle to find the code&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/23f979e5-66c8-4370-b511-33fa095d1926" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Suivez comme Signal le chat botté dans son périple
+
+[EN] Follow with Signal the Puss in Boots on its journey.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/2a3bce98-4580-45dc-bfd5-d9417a864d72" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Au programme de ce troisième jour de Méga : du fun, du fun et du fun !
+Participez à l’activité The Element Quest dans la fôrêt d’Olhain à partir de 14h avec au menu une myriade de labcaches à découvrir !
+
+Cette adventure labcache n'est trouvable que le Vendredi 15 juillet entre 14h et 18h
+
+[EN] On the program of this third day: fun, fun, and fun!
+Attend the activity The Element Quest in the forest of Olhain that will start at 2pm with a myriad of labcaches to discover!
+
+This adventure can only be found on Friday, July 15th from 2pm to 6pm&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.438683333333" lon="2.5848166666667">
+                    <time>2022-07-15T12:10:14.357</time>
+                    <name>LCkZax03</name>
+                    <desc>Signal &amp; Astérix</desc>
+                    <url>https://labs.geocaching.com/goto/9fe702b4-434c-4a70-b1df-4f5d84c8dfdb</url>
+                    <urlname>S03 Signal revisite les contes - Vendredi/Friday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCkZax03</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>7aca7260-2596-428b-805d-6a131c9c4bb1</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-3" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Signal revisite les contes - Vendredi/Friday : S03 Signal &amp; Astérix</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Signal revisite les contes - Vendredi/Friday&lt;/h3&gt;&lt;h4&gt;Signal &amp; Astérix&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/9fe702b4-434c-4a70-b1df-4f5d84c8dfdb"&gt;https://labs.geocaching.com/goto/9fe702b4-434c-4a70-b1df-4f5d84c8dfdb&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Aidez Signal et Astérix  à retrouver le personnage manquant / Help Signal &amp; Asterix to find the missing character&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/a6da12a0-f38b-4af4-bf07-b7511da7a17c" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Rendez-vous sur place pour trouver le code.
+
+[EN] Go to the coordinates to find the code.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/2a3bce98-4580-45dc-bfd5-d9417a864d72" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Au programme de ce troisième jour de Méga : du fun, du fun et du fun !
+Participez à l’activité The Element Quest dans la fôrêt d’Olhain à partir de 14h avec au menu une myriade de labcaches à découvrir !
+
+Cette adventure labcache n'est trouvable que le Vendredi 15 juillet entre 14h et 18h
+
+[EN] On the program of this third day: fun, fun, and fun!
+Attend the activity The Element Quest in the forest of Olhain that will start at 2pm with a myriad of labcaches to discover!
+
+This adventure can only be found on Friday, July 15th from 2pm to 6pm&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.43845" lon="2.5863">
+                    <time>2022-07-15T12:10:14.357</time>
+                    <name>LCkZax04</name>
+                    <desc>Robinson &amp; Signal</desc>
+                    <url>https://labs.geocaching.com/goto/9fe702b4-434c-4a70-b1df-4f5d84c8dfdb</url>
+                    <urlname>S04 Signal revisite les contes - Vendredi/Friday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCkZax04</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>9966d07c-a2d1-4f0d-b769-432b0b2c968a</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-4" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Signal revisite les contes - Vendredi/Friday : S04 Robinson &amp; Signal</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Signal revisite les contes - Vendredi/Friday&lt;/h3&gt;&lt;h4&gt;Robinson &amp; Signal&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/9fe702b4-434c-4a70-b1df-4f5d84c8dfdb"&gt;https://labs.geocaching.com/goto/9fe702b4-434c-4a70-b1df-4f5d84c8dfdb&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Retrouvez le message laissé par Robinson à Signal / Find the message that Robinson left for Signal&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/61a6f98e-6435-44b3-9cbd-aff947efbfd6" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Rendez-vous sur place pour trouver le code.
+
+[EN] Go to the coordinates to find the code.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/2a3bce98-4580-45dc-bfd5-d9417a864d72" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Au programme de ce troisième jour de Méga : du fun, du fun et du fun !
+Participez à l’activité The Element Quest dans la fôrêt d’Olhain à partir de 14h avec au menu une myriade de labcaches à découvrir !
+
+Cette adventure labcache n'est trouvable que le Vendredi 15 juillet entre 14h et 18h
+
+[EN] On the program of this third day: fun, fun, and fun!
+Attend the activity The Element Quest in the forest of Olhain that will start at 2pm with a myriad of labcaches to discover!
+
+This adventure can only be found on Friday, July 15th from 2pm to 6pm&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.43785" lon="2.58665">
+                    <time>2022-07-15T12:10:14.357</time>
+                    <name>LCkZax05</name>
+                    <desc>La Fée Clochette / Tinkerbell</desc>
+                    <url>https://labs.geocaching.com/goto/9fe702b4-434c-4a70-b1df-4f5d84c8dfdb</url>
+                    <urlname>S05 Signal revisite les contes - Vendredi/Friday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCkZax05</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>d04d6dc1-8989-4006-8650-886475a5f82a</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-5" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Signal revisite les contes - Vendredi/Friday : S05 La Fée Clochette / Tinkerbell</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Signal revisite les contes - Vendredi/Friday&lt;/h3&gt;&lt;h4&gt;La Fée Clochette / Tinkerbell&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/9fe702b4-434c-4a70-b1df-4f5d84c8dfdb"&gt;https://labs.geocaching.com/goto/9fe702b4-434c-4a70-b1df-4f5d84c8dfdb&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Signal utilise la baguette magique de la Fée Clochette pour trouver le code / Signal uses Tinkerbell's magic wand to find the code&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/b0526e7d-417e-485a-8e43-5cdcffe371cf" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Rendez-vous sur place pour trouver le code.
+
+[EN] Go to the coordinates to find the code.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/2a3bce98-4580-45dc-bfd5-d9417a864d72" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Au programme de ce troisième jour de Méga : du fun, du fun et du fun !
+Participez à l’activité The Element Quest dans la fôrêt d’Olhain à partir de 14h avec au menu une myriade de labcaches à découvrir !
+
+Cette adventure labcache n'est trouvable que le Vendredi 15 juillet entre 14h et 18h
+
+[EN] On the program of this third day: fun, fun, and fun!
+Attend the activity The Element Quest in the forest of Olhain that will start at 2pm with a myriad of labcaches to discover!
+
+This adventure can only be found on Friday, July 15th from 2pm to 6pm&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.437133333333" lon="2.5877166666667">
+                    <time>2022-07-15T12:10:14.357</time>
+                    <name>LCkZax06</name>
+                    <desc>Robin des Bois &amp; Signal / Robin Hood &amp; Signal</desc>
+                    <url>https://labs.geocaching.com/goto/9fe702b4-434c-4a70-b1df-4f5d84c8dfdb</url>
+                    <urlname>S06 Signal revisite les contes - Vendredi/Friday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCkZax06</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>59f962b0-aa32-4409-9e36-ae339a959a15</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-6" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Signal revisite les contes - Vendredi/Friday : S06 Robin des Bois &amp; Signal / Robin Hood &amp; Signal</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Signal revisite les contes - Vendredi/Friday&lt;/h3&gt;&lt;h4&gt;Robin des Bois &amp; Signal / Robin Hood &amp; Signal&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/9fe702b4-434c-4a70-b1df-4f5d84c8dfdb"&gt;https://labs.geocaching.com/goto/9fe702b4-434c-4a70-b1df-4f5d84c8dfdb&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Robin des Bois initie Signal au tir à l'arc / Robin Hood introduces Signal to archery&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/0c5de3d1-0843-4b23-80b4-a03b9c79a014" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Rendez-vous sur place pour trouver le code.
+
+[EN] Go to the coordinates to find the code.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/2a3bce98-4580-45dc-bfd5-d9417a864d72" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Au programme de ce troisième jour de Méga : du fun, du fun et du fun !
+Participez à l’activité The Element Quest dans la fôrêt d’Olhain à partir de 14h avec au menu une myriade de labcaches à découvrir !
+
+Cette adventure labcache n'est trouvable que le Vendredi 15 juillet entre 14h et 18h
+
+[EN] On the program of this third day: fun, fun, and fun!
+Attend the activity The Element Quest in the forest of Olhain that will start at 2pm with a myriad of labcaches to discover!
+
+This adventure can only be found on Friday, July 15th from 2pm to 6pm&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.433883333333" lon="2.5873166666667">
+                    <time>2022-07-15T12:10:14.357</time>
+                    <name>LCkZax07</name>
+                    <desc>Le Petit Poucet / The Little Thumb</desc>
+                    <url>https://labs.geocaching.com/goto/9fe702b4-434c-4a70-b1df-4f5d84c8dfdb</url>
+                    <urlname>S07 Signal revisite les contes - Vendredi/Friday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCkZax07</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>55d89c6b-01cf-41a1-9f0d-073fd3825303</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-7" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Signal revisite les contes - Vendredi/Friday : S07 Le Petit Poucet / The Little Thumb</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Signal revisite les contes - Vendredi/Friday&lt;/h3&gt;&lt;h4&gt;Le Petit Poucet / The Little Thumb&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/9fe702b4-434c-4a70-b1df-4f5d84c8dfdb"&gt;https://labs.geocaching.com/goto/9fe702b4-434c-4a70-b1df-4f5d84c8dfdb&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Signal suit le Petit Poucet où vont-ils ? / Signal follows the Little Thumb, where are they going?&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/e49eb6c7-6383-4a48-b921-9e6639ab5cae" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Rendez-vous sur place pour trouver le code.
+
+[EN] Go to the coordinates to find the code.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/2a3bce98-4580-45dc-bfd5-d9417a864d72" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Au programme de ce troisième jour de Méga : du fun, du fun et du fun !
+Participez à l’activité The Element Quest dans la fôrêt d’Olhain à partir de 14h avec au menu une myriade de labcaches à découvrir !
+
+Cette adventure labcache n'est trouvable que le Vendredi 15 juillet entre 14h et 18h
+
+[EN] On the program of this third day: fun, fun, and fun!
+Attend the activity The Element Quest in the forest of Olhain that will start at 2pm with a myriad of labcaches to discover!
+
+This adventure can only be found on Friday, July 15th from 2pm to 6pm&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.434416666667" lon="2.5915833333333">
+                    <time>2022-07-15T12:10:14.357</time>
+                    <name>LCkZax08</name>
+                    <desc>Signal &amp; Harry Potter</desc>
+                    <url>https://labs.geocaching.com/goto/9fe702b4-434c-4a70-b1df-4f5d84c8dfdb</url>
+                    <urlname>S08 Signal revisite les contes - Vendredi/Friday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCkZax08</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>8c724e4e-0627-4524-a7f2-af6fc527ec86</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-8" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Signal revisite les contes - Vendredi/Friday : S08 Signal &amp; Harry Potter</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Signal revisite les contes - Vendredi/Friday&lt;/h3&gt;&lt;h4&gt;Signal &amp; Harry Potter&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/9fe702b4-434c-4a70-b1df-4f5d84c8dfdb"&gt;https://labs.geocaching.com/goto/9fe702b4-434c-4a70-b1df-4f5d84c8dfdb&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Aidez Signal à retrouver la formule magique non utilisée par Harry Potter / Help Signal find which magic formula is not used by Harry Potter?&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/5acc99a6-27d5-462e-a15a-1baca2db2396" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Rendez-vous sur place pour trouver le code.
+
+[EN] Go to the coordinates to find the code.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/2a3bce98-4580-45dc-bfd5-d9417a864d72" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Au programme de ce troisième jour de Méga : du fun, du fun et du fun !
+Participez à l’activité The Element Quest dans la fôrêt d’Olhain à partir de 14h avec au menu une myriade de labcaches à découvrir !
+
+Cette adventure labcache n'est trouvable que le Vendredi 15 juillet entre 14h et 18h
+
+[EN] On the program of this third day: fun, fun, and fun!
+Attend the activity The Element Quest in the forest of Olhain that will start at 2pm with a myriad of labcaches to discover!
+
+This adventure can only be found on Friday, July 15th from 2pm to 6pm&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.433533333333" lon="2.5861666666667">
+                    <time>2022-07-15T12:10:14.357</time>
+                    <name>LCkZax09</name>
+                    <desc>Signal &amp; Alice's Adventures in Wonderland</desc>
+                    <url>https://labs.geocaching.com/goto/9fe702b4-434c-4a70-b1df-4f5d84c8dfdb</url>
+                    <urlname>S09 Signal revisite les contes - Vendredi/Friday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCkZax09</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>0492b183-5241-487d-9604-5ffe4b73464c</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-9" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Signal revisite les contes - Vendredi/Friday : S09 Signal &amp; Alice's Adventures in Wonderland</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Signal revisite les contes - Vendredi/Friday&lt;/h3&gt;&lt;h4&gt;Signal &amp; Alice's Adventures in Wonderland&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/9fe702b4-434c-4a70-b1df-4f5d84c8dfdb"&gt;https://labs.geocaching.com/goto/9fe702b4-434c-4a70-b1df-4f5d84c8dfdb&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Signal collectionne les objets références à Alice que lui manque-t-il ? /Signal collects items linked to Alice, what is missing? (1 French word)&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/81383154-dbd0-48ff-ae54-1d4e7cb69b15" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Rendez-vous sur place pour trouver le code.
+
+[EN] Go to the coordinates to find the code.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/2a3bce98-4580-45dc-bfd5-d9417a864d72" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Au programme de ce troisième jour de Méga : du fun, du fun et du fun !
+Participez à l’activité The Element Quest dans la fôrêt d’Olhain à partir de 14h avec au menu une myriade de labcaches à découvrir !
+
+Cette adventure labcache n'est trouvable que le Vendredi 15 juillet entre 14h et 18h
+
+[EN] On the program of this third day: fun, fun, and fun!
+Attend the activity The Element Quest in the forest of Olhain that will start at 2pm with a myriad of labcaches to discover!
+
+This adventure can only be found on Friday, July 15th from 2pm to 6pm&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.434233333333" lon="2.5856">
+                    <time>2022-07-15T12:10:14.357</time>
+                    <name>LCkZax10</name>
+                    <desc>Signal &amp; Blanche Neige / Signal &amp; Snow White</desc>
+                    <url>https://labs.geocaching.com/goto/9fe702b4-434c-4a70-b1df-4f5d84c8dfdb</url>
+                    <urlname>S10 Signal revisite les contes - Vendredi/Friday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCkZax10</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>c5812e04-900e-4a2c-9799-e799f78a4a88</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-10" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Signal revisite les contes - Vendredi/Friday : S10 Signal &amp; Blanche Neige / Signal &amp; Snow White</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Signal revisite les contes - Vendredi/Friday&lt;/h3&gt;&lt;h4&gt;Signal &amp; Blanche Neige / Signal &amp; Snow White&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/9fe702b4-434c-4a70-b1df-4f5d84c8dfdb"&gt;https://labs.geocaching.com/goto/9fe702b4-434c-4a70-b1df-4f5d84c8dfdb&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Signal arrive juste à temps pour sauver Blanche neige. Que cache-t-il ? / Signal arrived to save White Snow. What is he hiding? (1 French word)&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/ab1d7aeb-d86e-4632-b296-6d51f3ca4338" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Rendez-vous sur place pour trouver le code.
+
+[EN] Go to the coordinates to find the code.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/2a3bce98-4580-45dc-bfd5-d9417a864d72" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Au programme de ce troisième jour de Méga : du fun, du fun et du fun !
+Participez à l’activité The Element Quest dans la fôrêt d’Olhain à partir de 14h avec au menu une myriade de labcaches à découvrir !
+
+Cette adventure labcache n'est trouvable que le Vendredi 15 juillet entre 14h et 18h
+
+[EN] On the program of this third day: fun, fun, and fun!
+Attend the activity The Element Quest in the forest of Olhain that will start at 2pm with a myriad of labcaches to discover!
+
+This adventure can only be found on Friday, July 15th from 2pm to 6pm&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt></gpx>

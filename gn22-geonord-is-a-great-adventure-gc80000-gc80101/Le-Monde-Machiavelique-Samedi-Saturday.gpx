@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="utf-8"?>
+                <gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" creator="Groundspeak Pocket Query" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.groundspeak.com/cache/1/0/1 http://www.groundspeak.com/cache/1/0/1/cache.xsd" xmlns="http://www.topografix.com/GPX/1/0">
+                    <name>Adventure Labs</name>
+                <wpt lat="50.436466666667" lon="2.5840666666667">
+                    <time>2022-07-16T06:55:08.673</time>
+                    <name>LCTbZy01</name>
+                    <desc>Memorylab</desc>
+                    <url>https://labs.geocaching.com/goto/1c0ecc9d-0c10-4adc-aa2c-07e2c76e6ed1</url>
+                    <urlname>S01 Le Monde Machiavélique - Samedi/Saturday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCTbZy01</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>0f00b820-0a73-42df-9222-63a3116a7868</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-1" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Le Monde Machiavélique - Samedi/Saturday : S01 Memorylab</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Le Monde Machiavélique - Samedi/Saturday&lt;/h3&gt;&lt;h4&gt;Memorylab&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/1c0ecc9d-0c10-4adc-aa2c-07e2c76e6ed1"&gt;https://labs.geocaching.com/goto/1c0ecc9d-0c10-4adc-aa2c-07e2c76e6ed1&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Reformer les paires, les pièces restantes vous donneront le code / Reconstruct the pairs, the remaining pieces will give you the code&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/251060e8-e30d-4950-8e8c-f64aa26dbc35" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Reformer les paires, les pièces restantes vous donneront le code
+
+[EN] Reconstruct the pairs, the remaining pieces will give you the code&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/97207f0a-7db9-4fcc-88b6-6e3081a7f98b" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Voici enfin le jour du MEGA avec 30 nouvelles labcaches réparties sur 3 différentes Adventures.
+Cette Adventure Lab n'est trouvable que le Samedi 16 juillet.
+
+[EN] It's finally the MEGA day with its 30 new labs spread over 3 different adventures.
+This Adventure Lab can only be found on Saturday July 16th.
+
+
+&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.436466666667" lon="2.5841333333333">
+                    <time>2022-07-16T06:55:08.673</time>
+                    <name>LCTbZy02</name>
+                    <desc>Ariel</desc>
+                    <url>https://labs.geocaching.com/goto/1c0ecc9d-0c10-4adc-aa2c-07e2c76e6ed1</url>
+                    <urlname>S02 Le Monde Machiavélique - Samedi/Saturday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCTbZy02</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>faf30300-b7df-4b41-8ea7-9526a5c25f15</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-2" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Le Monde Machiavélique - Samedi/Saturday : S02 Ariel</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Le Monde Machiavélique - Samedi/Saturday&lt;/h3&gt;&lt;h4&gt;Ariel&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/1c0ecc9d-0c10-4adc-aa2c-07e2c76e6ed1"&gt;https://labs.geocaching.com/goto/1c0ecc9d-0c10-4adc-aa2c-07e2c76e6ed1&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Retrouver le code en soulevant les accessoires autour d'Ariel / Find the code lifting the accessories around Ariel&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/10cb4efb-c154-4f93-9a10-94b199d7ef89" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Retrouver le code en soulevant les accessoires autour d'Ariel
+
+[EN] Find the code lifting the accessories around Ariel&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/97207f0a-7db9-4fcc-88b6-6e3081a7f98b" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Voici enfin le jour du MEGA avec 30 nouvelles labcaches réparties sur 3 différentes Adventures.
+Cette Adventure Lab n'est trouvable que le Samedi 16 juillet.
+
+[EN] It's finally the MEGA day with its 30 new labs spread over 3 different adventures.
+This Adventure Lab can only be found on Saturday July 16th.
+
+
+&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.436466666667" lon="2.5839333333333">
+                    <time>2022-07-16T06:55:08.673</time>
+                    <name>LCTbZy03</name>
+                    <desc>Un tour d'horloge / A clock tour</desc>
+                    <url>https://labs.geocaching.com/goto/1c0ecc9d-0c10-4adc-aa2c-07e2c76e6ed1</url>
+                    <urlname>S03 Le Monde Machiavélique - Samedi/Saturday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCTbZy03</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>97b633ea-013f-4916-a40f-a2508512eb6e</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-3" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Le Monde Machiavélique - Samedi/Saturday : S03 Un tour d'horloge / A clock tour</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Le Monde Machiavélique - Samedi/Saturday&lt;/h3&gt;&lt;h4&gt;Un tour d'horloge / A clock tour&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/1c0ecc9d-0c10-4adc-aa2c-07e2c76e6ed1"&gt;https://labs.geocaching.com/goto/1c0ecc9d-0c10-4adc-aa2c-07e2c76e6ed1&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Retrouver le code parmi les horloges / Find the code among the clocks&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/43ac08c0-1001-4836-b06d-1e11b3c06f16" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Retrouver le code parmi les horloges
+
+[EN] Find the code among the clocks&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/97207f0a-7db9-4fcc-88b6-6e3081a7f98b" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Voici enfin le jour du MEGA avec 30 nouvelles labcaches réparties sur 3 différentes Adventures.
+Cette Adventure Lab n'est trouvable que le Samedi 16 juillet.
+
+[EN] It's finally the MEGA day with its 30 new labs spread over 3 different adventures.
+This Adventure Lab can only be found on Saturday July 16th.
+
+
+&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.436383333333" lon="2.58405">
+                    <time>2022-07-16T06:55:08.673</time>
+                    <name>LCTbZy04</name>
+                    <desc>La bonne perle / The right pearl</desc>
+                    <url>https://labs.geocaching.com/goto/1c0ecc9d-0c10-4adc-aa2c-07e2c76e6ed1</url>
+                    <urlname>S04 Le Monde Machiavélique - Samedi/Saturday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCTbZy04</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>c82b225f-4260-4a32-81a3-09728368a3af</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-4" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Le Monde Machiavélique - Samedi/Saturday : S04 La bonne perle / The right pearl</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Le Monde Machiavélique - Samedi/Saturday&lt;/h3&gt;&lt;h4&gt;La bonne perle / The right pearl&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/1c0ecc9d-0c10-4adc-aa2c-07e2c76e6ed1"&gt;https://labs.geocaching.com/goto/1c0ecc9d-0c10-4adc-aa2c-07e2c76e6ed1&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Secouer pour lire les lettres. Code: bleu, violet, bordeaux, vert, blanc /Shake to read the letters Code: blue, purple, burgundy, green, white&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/9902c23b-2a6e-4e09-8c71-4fb26365043e" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Secouer pour lire les lettres inscrites sur les geowoods. Code: bleu, violet, bordeaux, vert, blanc
+
+[EN] Shake to read the letters on the geowoods. Code: blue, purple, burgundy, green, white&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/97207f0a-7db9-4fcc-88b6-6e3081a7f98b" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Voici enfin le jour du MEGA avec 30 nouvelles labcaches réparties sur 3 différentes Adventures.
+Cette Adventure Lab n'est trouvable que le Samedi 16 juillet.
+
+[EN] It's finally the MEGA day with its 30 new labs spread over 3 different adventures.
+This Adventure Lab can only be found on Saturday July 16th.
+
+
+&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.436283333333" lon="2.5838666666667">
+                    <time>2022-07-16T06:55:08.673</time>
+                    <name>LCTbZy05</name>
+                    <desc>Le prince charmant / The charming prince</desc>
+                    <url>https://labs.geocaching.com/goto/1c0ecc9d-0c10-4adc-aa2c-07e2c76e6ed1</url>
+                    <urlname>S05 Le Monde Machiavélique - Samedi/Saturday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCTbZy05</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>5704add2-9728-48b2-a2cf-fcc008d96a78</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-5" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Le Monde Machiavélique - Samedi/Saturday : S05 Le prince charmant / The charming prince</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Le Monde Machiavélique - Samedi/Saturday&lt;/h3&gt;&lt;h4&gt;Le prince charmant / The charming prince&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/1c0ecc9d-0c10-4adc-aa2c-07e2c76e6ed1"&gt;https://labs.geocaching.com/goto/1c0ecc9d-0c10-4adc-aa2c-07e2c76e6ed1&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Qui est-ce, code est le prénom de la grenouille restante / Who is it, code is the name of the remaining frog&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/fcf4b0bd-dad4-4bf0-8354-1995e6ef9738" /&gt;&lt;/p&gt;&lt;p&gt;[FR] À la manière du Qui est-ce ?, abaisser les cartes qui ne correspondent pas aux critères. Le code est le prénom de la grenouille restante 
+
+[EN] Like Who is it?, put down the cards that do not match the criteria. The code is the name of the last remaining frog&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/97207f0a-7db9-4fcc-88b6-6e3081a7f98b" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Voici enfin le jour du MEGA avec 30 nouvelles labcaches réparties sur 3 différentes Adventures.
+Cette Adventure Lab n'est trouvable que le Samedi 16 juillet.
+
+[EN] It's finally the MEGA day with its 30 new labs spread over 3 different adventures.
+This Adventure Lab can only be found on Saturday July 16th.
+
+
+&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.436383333333" lon="2.58415">
+                    <time>2022-07-16T06:55:08.673</time>
+                    <name>LCTbZy06</name>
+                    <desc>Monstrueusement beau / Monstrously beautiful</desc>
+                    <url>https://labs.geocaching.com/goto/1c0ecc9d-0c10-4adc-aa2c-07e2c76e6ed1</url>
+                    <urlname>S06 Le Monde Machiavélique - Samedi/Saturday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCTbZy06</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>e186b888-7449-499b-83dd-51ac5f794199</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-6" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Le Monde Machiavélique - Samedi/Saturday : S06 Monstrueusement beau / Monstrously beautiful</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Le Monde Machiavélique - Samedi/Saturday&lt;/h3&gt;&lt;h4&gt;Monstrueusement beau / Monstrously beautiful&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/1c0ecc9d-0c10-4adc-aa2c-07e2c76e6ed1"&gt;https://labs.geocaching.com/goto/1c0ecc9d-0c10-4adc-aa2c-07e2c76e6ed1&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Prenez vous en photo le code se trouve au dos de la structure /Take a picture the code is on the back of the structure&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/579f91f4-3890-47ea-9876-b2d5137688ad" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Prenez vous en photo avec votre pire grimace, le code se trouve au dos de la structure
+
+[EN] Take a picture with your worst grimace, the code is on the back of the structure&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/97207f0a-7db9-4fcc-88b6-6e3081a7f98b" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Voici enfin le jour du MEGA avec 30 nouvelles labcaches réparties sur 3 différentes Adventures.
+Cette Adventure Lab n'est trouvable que le Samedi 16 juillet.
+
+[EN] It's finally the MEGA day with its 30 new labs spread over 3 different adventures.
+This Adventure Lab can only be found on Saturday July 16th.
+
+
+&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.436416666667" lon="2.5839666666667">
+                    <time>2022-07-16T06:55:08.673</time>
+                    <name>LCTbZy07</name>
+                    <desc>Agilité / Agility</desc>
+                    <url>https://labs.geocaching.com/goto/1c0ecc9d-0c10-4adc-aa2c-07e2c76e6ed1</url>
+                    <urlname>S07 Le Monde Machiavélique - Samedi/Saturday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCTbZy07</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>9ae7f8a4-be87-4ca9-9684-6d11d97ebaea</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-7" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Le Monde Machiavélique - Samedi/Saturday : S07 Agilité / Agility</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Le Monde Machiavélique - Samedi/Saturday&lt;/h3&gt;&lt;h4&gt;Agilité / Agility&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/1c0ecc9d-0c10-4adc-aa2c-07e2c76e6ed1"&gt;https://labs.geocaching.com/goto/1c0ecc9d-0c10-4adc-aa2c-07e2c76e6ed1&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Reformer le puzzle de Jenga pour lire le mot sur les côtés / Rebuild the Jenga to read the word on the sides&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/06b35328-e713-4ee9-b501-e2838591e634" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Reformer le puzzle de Jenga pour lire le mot sur les côtés 
+
+[EN] Rebuild the Jenga to read the word on the sides&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/97207f0a-7db9-4fcc-88b6-6e3081a7f98b" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Voici enfin le jour du MEGA avec 30 nouvelles labcaches réparties sur 3 différentes Adventures.
+Cette Adventure Lab n'est trouvable que le Samedi 16 juillet.
+
+[EN] It's finally the MEGA day with its 30 new labs spread over 3 different adventures.
+This Adventure Lab can only be found on Saturday July 16th.
+
+
+&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.436333333333" lon="2.5839">
+                    <time>2022-07-16T06:55:08.673</time>
+                    <name>LCTbZy08</name>
+                    <desc>La bibliothèque enchantée / The enchanted library</desc>
+                    <url>https://labs.geocaching.com/goto/1c0ecc9d-0c10-4adc-aa2c-07e2c76e6ed1</url>
+                    <urlname>S08 Le Monde Machiavélique - Samedi/Saturday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCTbZy08</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>aa6628c3-8de2-4ec9-9381-c0cb809052d0</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-8" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Le Monde Machiavélique - Samedi/Saturday : S08 La bibliothèque enchantée / The enchanted library</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Le Monde Machiavélique - Samedi/Saturday&lt;/h3&gt;&lt;h4&gt;La bibliothèque enchantée / The enchanted library&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/1c0ecc9d-0c10-4adc-aa2c-07e2c76e6ed1"&gt;https://labs.geocaching.com/goto/1c0ecc9d-0c10-4adc-aa2c-07e2c76e6ed1&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Résolvez l'énigme pour trouver le code / Solve the puzzle to find the code&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/612d56b6-f4f4-4e2b-bbfd-3c6cb7c9b764" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Résolvez l'énigme pour trouver le code
+
+[EN] Solve the puzzle to find the code&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/97207f0a-7db9-4fcc-88b6-6e3081a7f98b" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Voici enfin le jour du MEGA avec 30 nouvelles labcaches réparties sur 3 différentes Adventures.
+Cette Adventure Lab n'est trouvable que le Samedi 16 juillet.
+
+[EN] It's finally the MEGA day with its 30 new labs spread over 3 different adventures.
+This Adventure Lab can only be found on Saturday July 16th.
+
+
+&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.436316666667" lon="2.58385">
+                    <time>2022-07-16T06:55:08.673</time>
+                    <name>LCTbZy09</name>
+                    <desc>Le secret de l'amanite / The secret of the amanite</desc>
+                    <url>https://labs.geocaching.com/goto/1c0ecc9d-0c10-4adc-aa2c-07e2c76e6ed1</url>
+                    <urlname>S09 Le Monde Machiavélique - Samedi/Saturday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCTbZy09</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>e1454151-67fc-407f-9c03-fc3013615de9</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-9" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Le Monde Machiavélique - Samedi/Saturday : S09 Le secret de l'amanite / The secret of the amanite</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Le Monde Machiavélique - Samedi/Saturday&lt;/h3&gt;&lt;h4&gt;Le secret de l'amanite / The secret of the amanite&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/1c0ecc9d-0c10-4adc-aa2c-07e2c76e6ed1"&gt;https://labs.geocaching.com/goto/1c0ecc9d-0c10-4adc-aa2c-07e2c76e6ed1&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Résolvez l'énigme pour trouver le code / Solve the puzzle to find the code&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/20cb9407-c7a6-47d4-a184-139f2a6b2a2a" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Résolvez l'énigme pour trouver le code 
+
+[EN] Solve the puzzle to find the code&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/97207f0a-7db9-4fcc-88b6-6e3081a7f98b" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Voici enfin le jour du MEGA avec 30 nouvelles labcaches réparties sur 3 différentes Adventures.
+Cette Adventure Lab n'est trouvable que le Samedi 16 juillet.
+
+[EN] It's finally the MEGA day with its 30 new labs spread over 3 different adventures.
+This Adventure Lab can only be found on Saturday July 16th.
+
+
+&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.4363" lon="2.5838">
+                    <time>2022-07-16T06:55:08.673</time>
+                    <name>LCTbZy10</name>
+                    <desc>Le magicien d'Oz / The Wizard of Oz</desc>
+                    <url>https://labs.geocaching.com/goto/1c0ecc9d-0c10-4adc-aa2c-07e2c76e6ed1</url>
+                    <urlname>S10 Le Monde Machiavélique - Samedi/Saturday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCTbZy10</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>12a8ded3-06b8-4bdd-8917-6276af83c98b</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-10" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Le Monde Machiavélique - Samedi/Saturday : S10 Le magicien d'Oz / The Wizard of Oz</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Le Monde Machiavélique - Samedi/Saturday&lt;/h3&gt;&lt;h4&gt;Le magicien d'Oz / The Wizard of Oz&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/1c0ecc9d-0c10-4adc-aa2c-07e2c76e6ed1"&gt;https://labs.geocaching.com/goto/1c0ecc9d-0c10-4adc-aa2c-07e2c76e6ed1&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Résolvez l'énigme pour trouver le code / Solve the puzzle to find the code&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/caae5563-8500-47a2-83fd-7ea84f6bb487" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Résolvez l'énigme pour trouver le code
+
+[EN] Solve the puzzle to find the code&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/97207f0a-7db9-4fcc-88b6-6e3081a7f98b" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Voici enfin le jour du MEGA avec 30 nouvelles labcaches réparties sur 3 différentes Adventures.
+Cette Adventure Lab n'est trouvable que le Samedi 16 juillet.
+
+[EN] It's finally the MEGA day with its 30 new labs spread over 3 different adventures.
+This Adventure Lab can only be found on Saturday July 16th.
+
+
+&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt></gpx>

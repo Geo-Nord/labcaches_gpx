@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+                <gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" creator="Groundspeak Pocket Query" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.groundspeak.com/cache/1/0/1 http://www.groundspeak.com/cache/1/0/1/cache.xsd" xmlns="http://www.topografix.com/GPX/1/0">
+                    <name>Adventure Labs</name>
+                <wpt lat="50.729966666667" lon="2.2393">
+                    <time>2022-09-05T16:03:40.87</time>
+                    <name>LC5Tgd01</name>
+                    <desc>Pschitt</desc>
+                    <url>https://labs.geocaching.com/goto/geonord2</url>
+                    <urlname>S01 Spread your wings again!</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LC5Tgd01</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>1be5923c-1e4a-4107-8ca9-fb81ebc1bbb4</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-1" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Spread your wings again! : S01 Pschitt</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Spread your wings again!&lt;/h3&gt;&lt;h4&gt;Pschitt&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/geonord2"&gt;https://labs.geocaching.com/goto/geonord2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Tournez la bouteille et repérez le code.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/67d41fc9-3d7e-4feb-899a-7c102948e240" /&gt;&lt;/p&gt;&lt;p&gt;FR - Tournez la bouteille et repérez le code.
+EN - Turn the bottle down and find the code.
+NL - Draai de fles en vind de code.
+DE - Drehe die Flasche und entdecke den Code.
+&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/95a891aa-04ec-4033-9810-79a444963bea" /&gt;&lt;/p&gt;&lt;p&gt;FR: Pour la deuxième année consécutive, l'équipe GeoNord vous invite à découvrir ses labcaches !&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.729466666667" lon="2.2402166666667">
+                    <time>2022-09-05T16:03:40.87</time>
+                    <name>LC5Tgd02</name>
+                    <desc>Entre ciel et terre</desc>
+                    <url>https://labs.geocaching.com/goto/geonord2</url>
+                    <urlname>S02 Spread your wings again!</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LC5Tgd02</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>9ade952d-2d9e-45f4-b494-e2a51a857c9c</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-2" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Spread your wings again! : S02 Entre ciel et terre</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Spread your wings again!&lt;/h3&gt;&lt;h4&gt;Entre ciel et terre&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/geonord2"&gt;https://labs.geocaching.com/goto/geonord2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Voyagez de la terre au ciel et à vous le code&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/1186c1ba-64d6-40d8-9b55-55967b4177f6" /&gt;&lt;/p&gt;&lt;p&gt;FR - Voyagez de la terre au ciel et à vous le code.
+EN - Travel from the Earth to the sky and get the code.
+NL - Reis tussen aarde en hemel om de code te krijgen.
+DE - Reise von der Erde bis zum Himmel und der Code ist dein.
+&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/95a891aa-04ec-4033-9810-79a444963bea" /&gt;&lt;/p&gt;&lt;p&gt;FR: Pour la deuxième année consécutive, l'équipe GeoNord vous invite à découvrir ses labcaches !&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.73005" lon="2.2385666666667">
+                    <time>2022-09-05T16:03:40.87</time>
+                    <name>LC5Tgd03</name>
+                    <desc>08</desc>
+                    <url>https://labs.geocaching.com/goto/geonord2</url>
+                    <urlname>S03 Spread your wings again!</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LC5Tgd03</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>15372d91-3ff5-4e35-a1c8-4b41b71e40f0</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-3" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Spread your wings again! : S03 08</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Spread your wings again!&lt;/h3&gt;&lt;h4&gt;08&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/geonord2"&gt;https://labs.geocaching.com/goto/geonord2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Cherchez parmi les boules celles qui vous dévoileront le code&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/24c3b5f9-f6df-4b0c-bd73-b9fc44b5982d" /&gt;&lt;/p&gt;&lt;p&gt;FR - Cherchez parmi les boules celles qui vous dévoileront le code.
+EN - Search among the balls for those which will reveal the code.
+NL - Reis tussen aarde en hemel om de code te krijgen.
+DE - Zoek tussen de ballen om de code te vinden.
+&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/95a891aa-04ec-4033-9810-79a444963bea" /&gt;&lt;/p&gt;&lt;p&gt;FR: Pour la deuxième année consécutive, l'équipe GeoNord vous invite à découvrir ses labcaches !&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.729316666667" lon="2.2403">
+                    <time>2022-09-05T16:03:40.87</time>
+                    <name>LC5Tgd04</name>
+                    <desc>Atterrissage</desc>
+                    <url>https://labs.geocaching.com/goto/geonord2</url>
+                    <urlname>S04 Spread your wings again!</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LC5Tgd04</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>0a9a9928-01ff-45ad-be22-3cd2c85b64be</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-4" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Spread your wings again! : S04 Atterrissage</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Spread your wings again!&lt;/h3&gt;&lt;h4&gt;Atterrissage&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/geonord2"&gt;https://labs.geocaching.com/goto/geonord2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Visez les zones qui rapportent le plus de points &lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/96697552-597b-470a-82be-c84db59f4b10" /&gt;&lt;/p&gt;&lt;p&gt;FR - Visez les zones qui rapportent le plus de points.
+EN - Aim for areas that earn the most points.
+NL - Mik op de gebieden die de meeste punten opleveren.
+DE - Lande auf den Gebieten, die dir die meisten Punkte bringen.
+&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/95a891aa-04ec-4033-9810-79a444963bea" /&gt;&lt;/p&gt;&lt;p&gt;FR: Pour la deuxième année consécutive, l'équipe GeoNord vous invite à découvrir ses labcaches !&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.729933333333" lon="2.2388333333333">
+                    <time>2022-09-05T16:03:40.87</time>
+                    <name>LC5Tgd05</name>
+                    <desc>Fly invader</desc>
+                    <url>https://labs.geocaching.com/goto/geonord2</url>
+                    <urlname>S05 Spread your wings again!</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LC5Tgd05</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>26ecc991-c125-4cac-844c-08a1cd6f8c7b</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-5" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Spread your wings again! : S05 Fly invader</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Spread your wings again!&lt;/h3&gt;&lt;h4&gt;Fly invader&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/geonord2"&gt;https://labs.geocaching.com/goto/geonord2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;De quelle couleur est-il?&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/61b2d4a9-2350-4950-9f1c-11823a0c73f9" /&gt;&lt;/p&gt;&lt;p&gt;FR - De quelle couleur est-il ?
+EN - What color is it?
+NL - Welke kleur is het?
+DE - Welche Farbe hat der 'Fly Invader'?&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/95a891aa-04ec-4033-9810-79a444963bea" /&gt;&lt;/p&gt;&lt;p&gt;FR: Pour la deuxième année consécutive, l'équipe GeoNord vous invite à découvrir ses labcaches !&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.72945" lon="2.2406166666667">
+                    <time>2022-09-05T16:03:40.87</time>
+                    <name>LC5Tgd06</name>
+                    <desc>Trou d'air</desc>
+                    <url>https://labs.geocaching.com/goto/geonord2</url>
+                    <urlname>S06 Spread your wings again!</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LC5Tgd06</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>0b580108-3a36-49bf-acf2-0f5b24ccfc1d</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-6" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Spread your wings again! : S06 Trou d'air</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Spread your wings again!&lt;/h3&gt;&lt;h4&gt;Trou d'air&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/geonord2"&gt;https://labs.geocaching.com/goto/geonord2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Faites monter la balle en évitant les trous&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/cb1e2846-f41e-44be-a6f6-39e8eb3fb41e" /&gt;&lt;/p&gt;&lt;p&gt;FR -  Faites monter la balle en évitant les trous.
+EN - Raise the ball avoiding the holes.
+NL - Beweeg de bal zonder de gaten te raken.
+DE - Lasse die Kugel schweben und dabei meide die Löcher.
+&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/95a891aa-04ec-4033-9810-79a444963bea" /&gt;&lt;/p&gt;&lt;p&gt;FR: Pour la deuxième année consécutive, l'équipe GeoNord vous invite à découvrir ses labcaches !&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.729283333333" lon="2.24055">
+                    <time>2022-09-05T16:03:40.87</time>
+                    <name>LC5Tgd07</name>
+                    <desc>Nebulosus</desc>
+                    <url>https://labs.geocaching.com/goto/geonord2</url>
+                    <urlname>S07 Spread your wings again!</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LC5Tgd07</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>cad199fc-97fa-4ee6-aeee-7454097c3a53</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-7" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Spread your wings again! : S07 Nebulosus</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Spread your wings again!&lt;/h3&gt;&lt;h4&gt;Nebulosus&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/geonord2"&gt;https://labs.geocaching.com/goto/geonord2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Reconstituez l'image pour trouver le code &lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/49a668d7-182b-4e18-a6d2-1257e95405cd" /&gt;&lt;/p&gt;&lt;p&gt;FR - Reconstituez l'image pour trouver le code.
+EN - Reconstruct the image to find the code.
+NL - Maak het plaatje weer compleet om de code te vinden.
+DE - Rekonstruiere das Bild um den Code zu finden.
+&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/95a891aa-04ec-4033-9810-79a444963bea" /&gt;&lt;/p&gt;&lt;p&gt;FR: Pour la deuxième année consécutive, l'équipe GeoNord vous invite à découvrir ses labcaches !&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.729966666667" lon="2.2393">
+                    <time>2022-09-05T16:03:40.87</time>
+                    <name>LC5Tgd08</name>
+                    <desc>Tête en l'air</desc>
+                    <url>https://labs.geocaching.com/goto/geonord2</url>
+                    <urlname>S08 Spread your wings again!</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LC5Tgd08</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>6de4c8f4-0afb-4a79-97a7-6d3d4428cdc2</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-8" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Spread your wings again! : S08 Tête en l'air</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Spread your wings again!&lt;/h3&gt;&lt;h4&gt;Tête en l'air&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/geonord2"&gt;https://labs.geocaching.com/goto/geonord2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Levez la tête et recherchez tous les avions (8) cachés sur le site&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/b1f4bd5e-5efd-4b85-9775-3648a2eb7a08" /&gt;&lt;/p&gt;&lt;p&gt;FR - Levez la tête et recherchez tous les avions (8) cachés sur le site.
+EN - Raise your head and look for all the planes (8) hidden on the site.
+NL - Kijk omhoog en vind alle vliegtuigen (8) die op locatie verborgen zijn.
+DE - Schaut nach oben und sucht die Flugzeuge (8) die auf dem Gelände versteckt sind.
+&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/95a891aa-04ec-4033-9810-79a444963bea" /&gt;&lt;/p&gt;&lt;p&gt;FR: Pour la deuxième année consécutive, l'équipe GeoNord vous invite à découvrir ses labcaches !&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.729966666667" lon="2.2390833333333">
+                    <time>2022-09-05T16:03:40.87</time>
+                    <name>LC5Tgd09</name>
+                    <desc>Turbulences</desc>
+                    <url>https://labs.geocaching.com/goto/geonord2</url>
+                    <urlname>S09 Spread your wings again!</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LC5Tgd09</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>68ef9cdb-b0e2-4821-aed5-0600c3d47f7a</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-9" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Spread your wings again! : S09 Turbulences</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Spread your wings again!&lt;/h3&gt;&lt;h4&gt;Turbulences&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/geonord2"&gt;https://labs.geocaching.com/goto/geonord2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Utilisez l'airshooter pour faire tomber les cartons !&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/56cc2479-6002-4a3c-a018-758088584865" /&gt;&lt;/p&gt;&lt;p&gt;FR -  Utilisez l'air shooter pour faire tomber les cartons !
+EN - Use the air shooter to drop the boxes!
+NL - Gebruik het luchtgeweer om de dozen te laten vallen!
+DE - Benutze den Air-Shooter damit die Kartons fallen !
+&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/95a891aa-04ec-4033-9810-79a444963bea" /&gt;&lt;/p&gt;&lt;p&gt;FR: Pour la deuxième année consécutive, l'équipe GeoNord vous invite à découvrir ses labcaches !&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.729566666667" lon="2.2405166666667">
+                    <time>2022-09-05T16:03:40.87</time>
+                    <name>LC5Tgd10</name>
+                    <desc>Cryptanalyse</desc>
+                    <url>https://labs.geocaching.com/goto/geonord2</url>
+                    <urlname>S10 Spread your wings again!</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LC5Tgd10</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>94d75576-0b59-4496-a2cf-1fb804b858cd</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-10" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Spread your wings again! : S10 Cryptanalyse</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Spread your wings again!&lt;/h3&gt;&lt;h4&gt;Cryptanalyse&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/geonord2"&gt;https://labs.geocaching.com/goto/geonord2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Craquez le code !&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/42965efd-49af-434d-8cb8-e32718ccc199" /&gt;&lt;/p&gt;&lt;p&gt;FR - Craquez le code !
+EN - Crack the code!
+NL - Kraak de code!
+DE - Löse den Code!
+&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/95a891aa-04ec-4033-9810-79a444963bea" /&gt;&lt;/p&gt;&lt;p&gt;FR: Pour la deuxième année consécutive, l'équipe GeoNord vous invite à découvrir ses labcaches !&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt></gpx>

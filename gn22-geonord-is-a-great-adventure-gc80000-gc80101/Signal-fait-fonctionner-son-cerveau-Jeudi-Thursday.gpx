@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+                <gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" creator="Groundspeak Pocket Query" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.groundspeak.com/cache/1/0/1 http://www.groundspeak.com/cache/1/0/1/cache.xsd" xmlns="http://www.topografix.com/GPX/1/0">
+                    <name>Adventure Labs</name>
+                <wpt lat="50.436866666667" lon="2.58365">
+                    <time>2022-07-14T06:30:22.063</time>
+                    <name>LCZMBB01</name>
+                    <desc>Puzzle 1 - Enquête visuelle / Visual investigation</desc>
+                    <url>https://labs.geocaching.com/goto/be5d4cc4-00bd-41d4-88a1-9be42dd386b4</url>
+                    <urlname>S01 Signal fait fonctionner son cerveau Jeudi/Thursday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCZMBB01</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>7e7440f5-7e70-4b4d-9487-b2c7b24ac6fe</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-1" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Signal fait fonctionner son cerveau Jeudi/Thursday : S01 Puzzle 1 - Enquête visuelle / Visual investigation</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Signal fait fonctionner son cerveau Jeudi/Thursday&lt;/h3&gt;&lt;h4&gt;Puzzle 1 - Enquête visuelle / Visual investigation&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/be5d4cc4-00bd-41d4-88a1-9be42dd386b4"&gt;https://labs.geocaching.com/goto/be5d4cc4-00bd-41d4-88a1-9be42dd386b4&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Résolvez l'énigme pour trouver le code / Solve the puzzle to find the code&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/d7e49211-5abe-4aee-b4e1-d1b5c7758af5" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Résolvez l'énigme pour trouver le code.
+
+[EN] Solve the puzzle to find the code.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/f7835a93-541b-4a26-9089-9eefb16c2198" /&gt;&lt;/p&gt;&lt;p&gt;[FR] En ce deuxième jour de Méga, la salle Artois sera le théâtre d’une bataille acharnée et pas n’importe laquelle : une bataille d’énigmes !
+2 sessions sont ouvertes à 11h et 14h, quelques unes des énigmes sont aussi des labcaches !
+
+Cette adventure labcache n'est trouvable que le Jeudi 14 juillet.
+
+Note : pour les personnes n'ayant pas de ticket pour l'activité, les énigmes sont disponibles à l'extérieur, pas besoin de rentrer dans le bâtiment !
+
+[EN] For this second day of the Mega, the room Artois will be the scene of a fierce battle and not just any battle: a puzzle-solving battle!
+Two sessions are scheduled, some of the puzzles are also labcaches!
+
+This adventure can only be found on Thursday, July 14th.
+
+Note: for people not having a ticket for the activity, the labcaches and riddles are accessible outside of the building, no need to enter it!&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.436866666667" lon="2.5833833333333">
+                    <time>2022-07-14T06:30:22.063</time>
+                    <name>LCZMBB02</name>
+                    <desc>Puzzle 2 - Dominos</desc>
+                    <url>https://labs.geocaching.com/goto/be5d4cc4-00bd-41d4-88a1-9be42dd386b4</url>
+                    <urlname>S02 Signal fait fonctionner son cerveau Jeudi/Thursday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCZMBB02</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>ea055b55-84f1-41ef-a046-f022816c2913</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-2" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Signal fait fonctionner son cerveau Jeudi/Thursday : S02 Puzzle 2 - Dominos</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Signal fait fonctionner son cerveau Jeudi/Thursday&lt;/h3&gt;&lt;h4&gt;Puzzle 2 - Dominos&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/be5d4cc4-00bd-41d4-88a1-9be42dd386b4"&gt;https://labs.geocaching.com/goto/be5d4cc4-00bd-41d4-88a1-9be42dd386b4&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Résolvez l'énigme pour trouver le code / Solve the puzzle to find the code&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/de5ef514-b3a5-458a-b83e-9fa0ef8f2c9c" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Résolvez l'énigme pour trouver le code.
+
+[EN] Solve the puzzle to find the code.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/f7835a93-541b-4a26-9089-9eefb16c2198" /&gt;&lt;/p&gt;&lt;p&gt;[FR] En ce deuxième jour de Méga, la salle Artois sera le théâtre d’une bataille acharnée et pas n’importe laquelle : une bataille d’énigmes !
+2 sessions sont ouvertes à 11h et 14h, quelques unes des énigmes sont aussi des labcaches !
+
+Cette adventure labcache n'est trouvable que le Jeudi 14 juillet.
+
+Note : pour les personnes n'ayant pas de ticket pour l'activité, les énigmes sont disponibles à l'extérieur, pas besoin de rentrer dans le bâtiment !
+
+[EN] For this second day of the Mega, the room Artois will be the scene of a fierce battle and not just any battle: a puzzle-solving battle!
+Two sessions are scheduled, some of the puzzles are also labcaches!
+
+This adventure can only be found on Thursday, July 14th.
+
+Note: for people not having a ticket for the activity, the labcaches and riddles are accessible outside of the building, no need to enter it!&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.436866666667" lon="2.58315">
+                    <time>2022-07-14T06:30:22.063</time>
+                    <name>LCZMBB03</name>
+                    <desc>Puzzle 3 - Zorro</desc>
+                    <url>https://labs.geocaching.com/goto/be5d4cc4-00bd-41d4-88a1-9be42dd386b4</url>
+                    <urlname>S03 Signal fait fonctionner son cerveau Jeudi/Thursday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCZMBB03</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>83b1a9fd-77aa-4221-8ee3-11dc64d3209e</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-3" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Signal fait fonctionner son cerveau Jeudi/Thursday : S03 Puzzle 3 - Zorro</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Signal fait fonctionner son cerveau Jeudi/Thursday&lt;/h3&gt;&lt;h4&gt;Puzzle 3 - Zorro&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/be5d4cc4-00bd-41d4-88a1-9be42dd386b4"&gt;https://labs.geocaching.com/goto/be5d4cc4-00bd-41d4-88a1-9be42dd386b4&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Résolvez l'énigme pour trouver le code / Solve the puzzle to find the code&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/6b0164ab-4665-4d83-a939-125ee8184ba6" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Résolvez l'énigme pour trouver le code.
+
+[EN] Solve the puzzle to find the code.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/f7835a93-541b-4a26-9089-9eefb16c2198" /&gt;&lt;/p&gt;&lt;p&gt;[FR] En ce deuxième jour de Méga, la salle Artois sera le théâtre d’une bataille acharnée et pas n’importe laquelle : une bataille d’énigmes !
+2 sessions sont ouvertes à 11h et 14h, quelques unes des énigmes sont aussi des labcaches !
+
+Cette adventure labcache n'est trouvable que le Jeudi 14 juillet.
+
+Note : pour les personnes n'ayant pas de ticket pour l'activité, les énigmes sont disponibles à l'extérieur, pas besoin de rentrer dans le bâtiment !
+
+[EN] For this second day of the Mega, the room Artois will be the scene of a fierce battle and not just any battle: a puzzle-solving battle!
+Two sessions are scheduled, some of the puzzles are also labcaches!
+
+This adventure can only be found on Thursday, July 14th.
+
+Note: for people not having a ticket for the activity, the labcaches and riddles are accessible outside of the building, no need to enter it!&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.436783333333" lon="2.5829666666667">
+                    <time>2022-07-14T06:30:22.063</time>
+                    <name>LCZMBB04</name>
+                    <desc>Puzzle 4 - Jack et le haricot magique/Magics beans</desc>
+                    <url>https://labs.geocaching.com/goto/be5d4cc4-00bd-41d4-88a1-9be42dd386b4</url>
+                    <urlname>S04 Signal fait fonctionner son cerveau Jeudi/Thursday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCZMBB04</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>6dcae721-59ab-4253-a6be-df7a53149056</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-4" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Signal fait fonctionner son cerveau Jeudi/Thursday : S04 Puzzle 4 - Jack et le haricot magique/Magics beans</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Signal fait fonctionner son cerveau Jeudi/Thursday&lt;/h3&gt;&lt;h4&gt;Puzzle 4 - Jack et le haricot magique/Magics beans&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/be5d4cc4-00bd-41d4-88a1-9be42dd386b4"&gt;https://labs.geocaching.com/goto/be5d4cc4-00bd-41d4-88a1-9be42dd386b4&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Résolvez l'énigme pour trouver le code / Solve the puzzle to find the code&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/f06dd136-f7c4-46ae-82f0-94c3dba90ac0" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Résolvez l'énigme pour trouver le code.
+
+[EN] Solve the puzzle to find the code.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/f7835a93-541b-4a26-9089-9eefb16c2198" /&gt;&lt;/p&gt;&lt;p&gt;[FR] En ce deuxième jour de Méga, la salle Artois sera le théâtre d’une bataille acharnée et pas n’importe laquelle : une bataille d’énigmes !
+2 sessions sont ouvertes à 11h et 14h, quelques unes des énigmes sont aussi des labcaches !
+
+Cette adventure labcache n'est trouvable que le Jeudi 14 juillet.
+
+Note : pour les personnes n'ayant pas de ticket pour l'activité, les énigmes sont disponibles à l'extérieur, pas besoin de rentrer dans le bâtiment !
+
+[EN] For this second day of the Mega, the room Artois will be the scene of a fierce battle and not just any battle: a puzzle-solving battle!
+Two sessions are scheduled, some of the puzzles are also labcaches!
+
+This adventure can only be found on Thursday, July 14th.
+
+Note: for people not having a ticket for the activity, the labcaches and riddles are accessible outside of the building, no need to enter it!&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.4367" lon="2.58285">
+                    <time>2022-07-14T06:30:22.063</time>
+                    <name>LCZMBB05</name>
+                    <desc>Puzzle 5 - Alice au Pays des Merveilles / Alice</desc>
+                    <url>https://labs.geocaching.com/goto/be5d4cc4-00bd-41d4-88a1-9be42dd386b4</url>
+                    <urlname>S05 Signal fait fonctionner son cerveau Jeudi/Thursday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCZMBB05</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>bf520171-14e4-4553-9d69-b3e5aefd5b4c</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-5" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Signal fait fonctionner son cerveau Jeudi/Thursday : S05 Puzzle 5 - Alice au Pays des Merveilles / Alice</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Signal fait fonctionner son cerveau Jeudi/Thursday&lt;/h3&gt;&lt;h4&gt;Puzzle 5 - Alice au Pays des Merveilles / Alice&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/be5d4cc4-00bd-41d4-88a1-9be42dd386b4"&gt;https://labs.geocaching.com/goto/be5d4cc4-00bd-41d4-88a1-9be42dd386b4&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Résolvez l'énigme pour trouver le code / Solve the puzzle to find the code&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/f6039a52-bd38-48fc-bd1c-d5504c849cf6" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Résolvez l'énigme pour trouver le code.
+
+[EN] Solve the puzzle to find the code.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/f7835a93-541b-4a26-9089-9eefb16c2198" /&gt;&lt;/p&gt;&lt;p&gt;[FR] En ce deuxième jour de Méga, la salle Artois sera le théâtre d’une bataille acharnée et pas n’importe laquelle : une bataille d’énigmes !
+2 sessions sont ouvertes à 11h et 14h, quelques unes des énigmes sont aussi des labcaches !
+
+Cette adventure labcache n'est trouvable que le Jeudi 14 juillet.
+
+Note : pour les personnes n'ayant pas de ticket pour l'activité, les énigmes sont disponibles à l'extérieur, pas besoin de rentrer dans le bâtiment !
+
+[EN] For this second day of the Mega, the room Artois will be the scene of a fierce battle and not just any battle: a puzzle-solving battle!
+Two sessions are scheduled, some of the puzzles are also labcaches!
+
+This adventure can only be found on Thursday, July 14th.
+
+Note: for people not having a ticket for the activity, the labcaches and riddles are accessible outside of the building, no need to enter it!&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.436633333333" lon="2.5826666666667">
+                    <time>2022-07-14T06:30:22.063</time>
+                    <name>LCZMBB06</name>
+                    <desc>Puzzle 6 - 20 000 lieux sous les mers</desc>
+                    <url>https://labs.geocaching.com/goto/be5d4cc4-00bd-41d4-88a1-9be42dd386b4</url>
+                    <urlname>S06 Signal fait fonctionner son cerveau Jeudi/Thursday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCZMBB06</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>93496c3a-689f-4497-a93c-ea4e7e2ecf57</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-6" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Signal fait fonctionner son cerveau Jeudi/Thursday : S06 Puzzle 6 - 20 000 lieux sous les mers</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Signal fait fonctionner son cerveau Jeudi/Thursday&lt;/h3&gt;&lt;h4&gt;Puzzle 6 - 20 000 lieux sous les mers&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/be5d4cc4-00bd-41d4-88a1-9be42dd386b4"&gt;https://labs.geocaching.com/goto/be5d4cc4-00bd-41d4-88a1-9be42dd386b4&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Résolvez l'énigme pour trouver le code / Solve the puzzle to find the code&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/f4b1dac3-6c08-46e5-b5d1-8a35690034f1" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Résolvez l'énigme pour trouver le code.
+
+[EN] Solve the puzzle to find the code.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/f7835a93-541b-4a26-9089-9eefb16c2198" /&gt;&lt;/p&gt;&lt;p&gt;[FR] En ce deuxième jour de Méga, la salle Artois sera le théâtre d’une bataille acharnée et pas n’importe laquelle : une bataille d’énigmes !
+2 sessions sont ouvertes à 11h et 14h, quelques unes des énigmes sont aussi des labcaches !
+
+Cette adventure labcache n'est trouvable que le Jeudi 14 juillet.
+
+Note : pour les personnes n'ayant pas de ticket pour l'activité, les énigmes sont disponibles à l'extérieur, pas besoin de rentrer dans le bâtiment !
+
+[EN] For this second day of the Mega, the room Artois will be the scene of a fierce battle and not just any battle: a puzzle-solving battle!
+Two sessions are scheduled, some of the puzzles are also labcaches!
+
+This adventure can only be found on Thursday, July 14th.
+
+Note: for people not having a ticket for the activity, the labcaches and riddles are accessible outside of the building, no need to enter it!&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.436583333333" lon="2.5830666666667">
+                    <time>2022-07-14T06:30:22.063</time>
+                    <name>LCZMBB07</name>
+                    <desc>Puzzle 7 - Planetes / Planets</desc>
+                    <url>https://labs.geocaching.com/goto/be5d4cc4-00bd-41d4-88a1-9be42dd386b4</url>
+                    <urlname>S07 Signal fait fonctionner son cerveau Jeudi/Thursday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCZMBB07</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>31f0651e-16e1-4b83-b335-3169332eaf92</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-7" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Signal fait fonctionner son cerveau Jeudi/Thursday : S07 Puzzle 7 - Planetes / Planets</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Signal fait fonctionner son cerveau Jeudi/Thursday&lt;/h3&gt;&lt;h4&gt;Puzzle 7 - Planetes / Planets&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/be5d4cc4-00bd-41d4-88a1-9be42dd386b4"&gt;https://labs.geocaching.com/goto/be5d4cc4-00bd-41d4-88a1-9be42dd386b4&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Résolvez l'énigme pour trouver le code / Solve the puzzle to find the code&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/b74ca00f-db4f-47c0-b8e8-93c40ecefbfd" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Résolvez l'énigme pour trouver le code.
+
+[EN] Solve the puzzle to find the code.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/f7835a93-541b-4a26-9089-9eefb16c2198" /&gt;&lt;/p&gt;&lt;p&gt;[FR] En ce deuxième jour de Méga, la salle Artois sera le théâtre d’une bataille acharnée et pas n’importe laquelle : une bataille d’énigmes !
+2 sessions sont ouvertes à 11h et 14h, quelques unes des énigmes sont aussi des labcaches !
+
+Cette adventure labcache n'est trouvable que le Jeudi 14 juillet.
+
+Note : pour les personnes n'ayant pas de ticket pour l'activité, les énigmes sont disponibles à l'extérieur, pas besoin de rentrer dans le bâtiment !
+
+[EN] For this second day of the Mega, the room Artois will be the scene of a fierce battle and not just any battle: a puzzle-solving battle!
+Two sessions are scheduled, some of the puzzles are also labcaches!
+
+This adventure can only be found on Thursday, July 14th.
+
+Note: for people not having a ticket for the activity, the labcaches and riddles are accessible outside of the building, no need to enter it!&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.436466666667" lon="2.5832333333333">
+                    <time>2022-07-14T06:30:22.063</time>
+                    <name>LCZMBB08</name>
+                    <desc>Puzzle 8 -La Belle et la Bête/Beauty and the Beast</desc>
+                    <url>https://labs.geocaching.com/goto/be5d4cc4-00bd-41d4-88a1-9be42dd386b4</url>
+                    <urlname>S08 Signal fait fonctionner son cerveau Jeudi/Thursday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCZMBB08</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>389f47f0-0e44-4633-9961-c19b42da2f3b</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-8" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Signal fait fonctionner son cerveau Jeudi/Thursday : S08 Puzzle 8 -La Belle et la Bête/Beauty and the Beast</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Signal fait fonctionner son cerveau Jeudi/Thursday&lt;/h3&gt;&lt;h4&gt;Puzzle 8 -La Belle et la Bête/Beauty and the Beast&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/be5d4cc4-00bd-41d4-88a1-9be42dd386b4"&gt;https://labs.geocaching.com/goto/be5d4cc4-00bd-41d4-88a1-9be42dd386b4&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Résolvez l'énigme pour trouver le code / Solve the puzzle to find the code&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/e8502bc0-560d-4682-9be2-f0e6bb238ac5" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Résolvez l'énigme pour trouver le code.
+
+[EN] Solve the puzzle to find the code.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/f7835a93-541b-4a26-9089-9eefb16c2198" /&gt;&lt;/p&gt;&lt;p&gt;[FR] En ce deuxième jour de Méga, la salle Artois sera le théâtre d’une bataille acharnée et pas n’importe laquelle : une bataille d’énigmes !
+2 sessions sont ouvertes à 11h et 14h, quelques unes des énigmes sont aussi des labcaches !
+
+Cette adventure labcache n'est trouvable que le Jeudi 14 juillet.
+
+Note : pour les personnes n'ayant pas de ticket pour l'activité, les énigmes sont disponibles à l'extérieur, pas besoin de rentrer dans le bâtiment !
+
+[EN] For this second day of the Mega, the room Artois will be the scene of a fierce battle and not just any battle: a puzzle-solving battle!
+Two sessions are scheduled, some of the puzzles are also labcaches!
+
+This adventure can only be found on Thursday, July 14th.
+
+Note: for people not having a ticket for the activity, the labcaches and riddles are accessible outside of the building, no need to enter it!&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.43635" lon="2.5833833333333">
+                    <time>2022-07-14T06:30:22.063</time>
+                    <name>LCZMBB09</name>
+                    <desc>Puzzle 9 - Peau d'âne</desc>
+                    <url>https://labs.geocaching.com/goto/be5d4cc4-00bd-41d4-88a1-9be42dd386b4</url>
+                    <urlname>S09 Signal fait fonctionner son cerveau Jeudi/Thursday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCZMBB09</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>42eac20e-1ad9-4988-b068-f5ee73241a4c</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-9" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Signal fait fonctionner son cerveau Jeudi/Thursday : S09 Puzzle 9 - Peau d'âne</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Signal fait fonctionner son cerveau Jeudi/Thursday&lt;/h3&gt;&lt;h4&gt;Puzzle 9 - Peau d'âne&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/be5d4cc4-00bd-41d4-88a1-9be42dd386b4"&gt;https://labs.geocaching.com/goto/be5d4cc4-00bd-41d4-88a1-9be42dd386b4&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Résolvez l'énigme pour trouver le code / Solve the puzzle to find the code&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/d67d1374-4436-4711-ab3d-978b367a7998" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Résolvez l'énigme pour trouver le code.
+
+[EN] Solve the puzzle to find the code.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/f7835a93-541b-4a26-9089-9eefb16c2198" /&gt;&lt;/p&gt;&lt;p&gt;[FR] En ce deuxième jour de Méga, la salle Artois sera le théâtre d’une bataille acharnée et pas n’importe laquelle : une bataille d’énigmes !
+2 sessions sont ouvertes à 11h et 14h, quelques unes des énigmes sont aussi des labcaches !
+
+Cette adventure labcache n'est trouvable que le Jeudi 14 juillet.
+
+Note : pour les personnes n'ayant pas de ticket pour l'activité, les énigmes sont disponibles à l'extérieur, pas besoin de rentrer dans le bâtiment !
+
+[EN] For this second day of the Mega, the room Artois will be the scene of a fierce battle and not just any battle: a puzzle-solving battle!
+Two sessions are scheduled, some of the puzzles are also labcaches!
+
+This adventure can only be found on Thursday, July 14th.
+
+Note: for people not having a ticket for the activity, the labcaches and riddles are accessible outside of the building, no need to enter it!&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.436233333333" lon="2.5835666666667">
+                    <time>2022-07-14T06:30:22.063</time>
+                    <name>LCZMBB10</name>
+                    <desc>Puzzle 10 - Pirate des Caraïbes / Pirates</desc>
+                    <url>https://labs.geocaching.com/goto/be5d4cc4-00bd-41d4-88a1-9be42dd386b4</url>
+                    <urlname>S10 Signal fait fonctionner son cerveau Jeudi/Thursday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCZMBB10</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>cd25c8a3-819c-4183-b2f9-e8371f115ff9</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-10" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Signal fait fonctionner son cerveau Jeudi/Thursday : S10 Puzzle 10 - Pirate des Caraïbes / Pirates</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Signal fait fonctionner son cerveau Jeudi/Thursday&lt;/h3&gt;&lt;h4&gt;Puzzle 10 - Pirate des Caraïbes / Pirates&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/be5d4cc4-00bd-41d4-88a1-9be42dd386b4"&gt;https://labs.geocaching.com/goto/be5d4cc4-00bd-41d4-88a1-9be42dd386b4&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Résolvez l'énigme pour trouver le code / Solve the puzzle to find the code&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/e1e1614c-2eea-4254-a8e8-5dee72c9e1d4" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Résolvez l'énigme pour trouver le code.
+
+[EN] Solve the puzzle to find the code.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/f7835a93-541b-4a26-9089-9eefb16c2198" /&gt;&lt;/p&gt;&lt;p&gt;[FR] En ce deuxième jour de Méga, la salle Artois sera le théâtre d’une bataille acharnée et pas n’importe laquelle : une bataille d’énigmes !
+2 sessions sont ouvertes à 11h et 14h, quelques unes des énigmes sont aussi des labcaches !
+
+Cette adventure labcache n'est trouvable que le Jeudi 14 juillet.
+
+Note : pour les personnes n'ayant pas de ticket pour l'activité, les énigmes sont disponibles à l'extérieur, pas besoin de rentrer dans le bâtiment !
+
+[EN] For this second day of the Mega, the room Artois will be the scene of a fierce battle and not just any battle: a puzzle-solving battle!
+Two sessions are scheduled, some of the puzzles are also labcaches!
+
+This adventure can only be found on Thursday, July 14th.
+
+Note: for people not having a ticket for the activity, the labcaches and riddles are accessible outside of the building, no need to enter it!&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt></gpx>

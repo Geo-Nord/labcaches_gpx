@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+                <gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" creator="Groundspeak Pocket Query" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.groundspeak.com/cache/1/0/1 http://www.groundspeak.com/cache/1/0/1/cache.xsd" xmlns="http://www.topografix.com/GPX/1/0">
+                    <name>Adventure Labs</name>
+                <wpt lat="50.437616666667" lon="2.5845">
+                    <time>2022-07-16T06:55:24.593</time>
+                    <name>LCNEgr01</name>
+                    <desc>Chasse</desc>
+                    <url>https://labs.geocaching.com/goto/13cbd0f3-651f-4184-99cb-7ca9cc5b790b</url>
+                    <urlname>S01 Derrière le miroir - Samedi/Saturday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCNEgr01</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>b70425ea-9271-4168-be0b-90f738fb1355</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-1" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Derrière le miroir - Samedi/Saturday : S01 Chasse</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Derrière le miroir - Samedi/Saturday&lt;/h3&gt;&lt;h4&gt;Chasse&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/13cbd0f3-651f-4184-99cb-7ca9cc5b790b"&gt;https://labs.geocaching.com/goto/13cbd0f3-651f-4184-99cb-7ca9cc5b790b&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Retrouver le code caché dans le filet de camouflage / Find the code hidden in the camouflage net&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/ec49e80a-677f-44e7-a4c0-f039d428c139" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Retrouver le code caché dans le filet de camouflage
+
+[EN] Find the code hidden in the camouflage net&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/37ef33de-33d1-4eb5-97c0-ef39376f985b" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Voici enfin le jour du MEGA avec 30 nouvelles labcaches réparties sur 3 différentes Adventures.
+Cette Adventure Lab n'est trouvable que le Samedi 16 juillet.
+
+[EN] It's finally the MEGA day with its 30 new labs spread over 3 different adventures.
+This Adventure Lab can only be found on Saturday July 16th.&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.437666666667" lon="2.58455">
+                    <time>2022-07-16T06:55:24.593</time>
+                    <name>LCNEgr02</name>
+                    <desc>Pêche miraculeuse / Miraculous fishing</desc>
+                    <url>https://labs.geocaching.com/goto/13cbd0f3-651f-4184-99cb-7ca9cc5b790b</url>
+                    <urlname>S02 Derrière le miroir - Samedi/Saturday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCNEgr02</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>a8272de7-a104-4556-b105-5bb32cfeabc0</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-2" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Derrière le miroir - Samedi/Saturday : S02 Pêche miraculeuse / Miraculous fishing</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Derrière le miroir - Samedi/Saturday&lt;/h3&gt;&lt;h4&gt;Pêche miraculeuse / Miraculous fishing&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/13cbd0f3-651f-4184-99cb-7ca9cc5b790b"&gt;https://labs.geocaching.com/goto/13cbd0f3-651f-4184-99cb-7ca9cc5b790b&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt; Pêcher dans l'arbre l'objet aimanté, le code est à l'intérieur / Fish in the tree the magnetic object, the code is inside.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/c0039ddd-244a-41ee-a589-434de5b7c020" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Pêcher dans l'arbre l'objet aimanté, le code est à l'intérieur.
+
+[EN] Fish in the tree the magnetic object, the code is inside.
+&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/37ef33de-33d1-4eb5-97c0-ef39376f985b" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Voici enfin le jour du MEGA avec 30 nouvelles labcaches réparties sur 3 différentes Adventures.
+Cette Adventure Lab n'est trouvable que le Samedi 16 juillet.
+
+[EN] It's finally the MEGA day with its 30 new labs spread over 3 different adventures.
+This Adventure Lab can only be found on Saturday July 16th.&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.437583333333" lon="2.5845333333333">
+                    <time>2022-07-16T06:55:24.593</time>
+                    <name>LCNEgr03</name>
+                    <desc>À perte de vue / As far as the eye can see</desc>
+                    <url>https://labs.geocaching.com/goto/13cbd0f3-651f-4184-99cb-7ca9cc5b790b</url>
+                    <urlname>S03 Derrière le miroir - Samedi/Saturday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCNEgr03</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>8f83737c-8b11-437a-b377-2a519d9e5b9e</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-3" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Derrière le miroir - Samedi/Saturday : S03 À perte de vue / As far as the eye can see</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Derrière le miroir - Samedi/Saturday&lt;/h3&gt;&lt;h4&gt;À perte de vue / As far as the eye can see&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/13cbd0f3-651f-4184-99cb-7ca9cc5b790b"&gt;https://labs.geocaching.com/goto/13cbd0f3-651f-4184-99cb-7ca9cc5b790b&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Regarder à travers chaque tuyau pour trouver le code / Look into each pipe to find the code&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/99242790-707d-4e58-8a68-06fc73912b2b" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Regarder à travers chaque tuyau pour trouver le code
+
+[EN] Look into each pipe to find the code&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/37ef33de-33d1-4eb5-97c0-ef39376f985b" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Voici enfin le jour du MEGA avec 30 nouvelles labcaches réparties sur 3 différentes Adventures.
+Cette Adventure Lab n'est trouvable que le Samedi 16 juillet.
+
+[EN] It's finally the MEGA day with its 30 new labs spread over 3 different adventures.
+This Adventure Lab can only be found on Saturday July 16th.&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.436383333333" lon="2.58435">
+                    <time>2022-07-16T06:55:24.593</time>
+                    <name>LCNEgr04</name>
+                    <desc>Le Petit Prince / Little Prince</desc>
+                    <url>https://labs.geocaching.com/goto/13cbd0f3-651f-4184-99cb-7ca9cc5b790b</url>
+                    <urlname>S04 Derrière le miroir - Samedi/Saturday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCNEgr04</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>87a66149-61c7-40cb-a303-ba052d38ea59</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-4" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Derrière le miroir - Samedi/Saturday : S04 Le Petit Prince / Little Prince</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Derrière le miroir - Samedi/Saturday&lt;/h3&gt;&lt;h4&gt;Le Petit Prince / Little Prince&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/13cbd0f3-651f-4184-99cb-7ca9cc5b790b"&gt;https://labs.geocaching.com/goto/13cbd0f3-651f-4184-99cb-7ca9cc5b790b&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Reconstituer l'histoire du Petit Prince / Reconstruct the story of the Little Prince&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/f3607864-eddc-4805-bfdc-b10cd3ebf29c" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Reconstituer l'histoire du Petit Prince
+
+[EN] Reconstruct the story of the Little Prince&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/37ef33de-33d1-4eb5-97c0-ef39376f985b" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Voici enfin le jour du MEGA avec 30 nouvelles labcaches réparties sur 3 différentes Adventures.
+Cette Adventure Lab n'est trouvable que le Samedi 16 juillet.
+
+[EN] It's finally the MEGA day with its 30 new labs spread over 3 different adventures.
+This Adventure Lab can only be found on Saturday July 16th.&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.436416666667" lon="2.5841833333333">
+                    <time>2022-07-16T06:55:24.593</time>
+                    <name>LCNEgr05</name>
+                    <desc>Pêle-mêle volant / Flying jumble </desc>
+                    <url>https://labs.geocaching.com/goto/13cbd0f3-651f-4184-99cb-7ca9cc5b790b</url>
+                    <urlname>S05 Derrière le miroir - Samedi/Saturday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCNEgr05</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>ba66320a-004d-41fd-a7cc-98220b35037b</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-5" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Derrière le miroir - Samedi/Saturday : S05 Pêle-mêle volant / Flying jumble </groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Derrière le miroir - Samedi/Saturday&lt;/h3&gt;&lt;h4&gt;Pêle-mêle volant / Flying jumble &lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/13cbd0f3-651f-4184-99cb-7ca9cc5b790b"&gt;https://labs.geocaching.com/goto/13cbd0f3-651f-4184-99cb-7ca9cc5b790b&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Reformer le puzzle de papillons pour obtenir le code / Reconstruct the puzzle to obtain the code&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/5d4c0244-df72-45d3-a776-2f51528c7803" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Reformer le puzzle de papillons pour obtenir le code
+
+[EN] Reconstruct the puzzle to obtain the code&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/37ef33de-33d1-4eb5-97c0-ef39376f985b" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Voici enfin le jour du MEGA avec 30 nouvelles labcaches réparties sur 3 différentes Adventures.
+Cette Adventure Lab n'est trouvable que le Samedi 16 juillet.
+
+[EN] It's finally the MEGA day with its 30 new labs spread over 3 different adventures.
+This Adventure Lab can only be found on Saturday July 16th.&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.43635" lon="2.5842166666667">
+                    <time>2022-07-16T06:55:24.593</time>
+                    <name>LCNEgr06</name>
+                    <desc>L'arche différente / A different arch</desc>
+                    <url>https://labs.geocaching.com/goto/13cbd0f3-651f-4184-99cb-7ca9cc5b790b</url>
+                    <urlname>S06 Derrière le miroir - Samedi/Saturday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCNEgr06</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>64df0e1e-0928-48cb-9e83-d96fa8e527b0</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-6" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Derrière le miroir - Samedi/Saturday : S06 L'arche différente / A different arch</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Derrière le miroir - Samedi/Saturday&lt;/h3&gt;&lt;h4&gt;L'arche différente / A different arch&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/13cbd0f3-651f-4184-99cb-7ca9cc5b790b"&gt;https://labs.geocaching.com/goto/13cbd0f3-651f-4184-99cb-7ca9cc5b790b&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Trouver l'animal qui est plus d'un côté que de l'autre; c'est le code / Find the animal that is more on one side than the other; it's the code&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/32b863fc-20f9-4a13-92f3-7ed0b803b627" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Trouver l'animal qui est plus d'un côté que de l'autre ; il s'agit du code
+
+[EN] Find the animal that is more on one side than the other; this is the code&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/37ef33de-33d1-4eb5-97c0-ef39376f985b" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Voici enfin le jour du MEGA avec 30 nouvelles labcaches réparties sur 3 différentes Adventures.
+Cette Adventure Lab n'est trouvable que le Samedi 16 juillet.
+
+[EN] It's finally the MEGA day with its 30 new labs spread over 3 different adventures.
+This Adventure Lab can only be found on Saturday July 16th.&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.436283333333" lon="2.5840833333333">
+                    <time>2022-07-16T06:55:24.593</time>
+                    <name>LCNEgr07</name>
+                    <desc>Les héros de l'ombre / The heroes from the shadow</desc>
+                    <url>https://labs.geocaching.com/goto/13cbd0f3-651f-4184-99cb-7ca9cc5b790b</url>
+                    <urlname>S07 Derrière le miroir - Samedi/Saturday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCNEgr07</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>83de11d3-b3d6-4bf6-b6d0-80316f388c9a</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-7" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Derrière le miroir - Samedi/Saturday : S07 Les héros de l'ombre / The heroes from the shadow</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Derrière le miroir - Samedi/Saturday&lt;/h3&gt;&lt;h4&gt;Les héros de l'ombre / The heroes from the shadow&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/13cbd0f3-651f-4184-99cb-7ca9cc5b790b"&gt;https://labs.geocaching.com/goto/13cbd0f3-651f-4184-99cb-7ca9cc5b790b&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Retrouver quels personnages de conte sont représentés / Find which characters of which fairy tales are represented&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/26a53e3f-374d-409a-872e-ff74af0352be" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Retrouver quels personnages de conte sont représentés
+
+[EN] Find which characters of which fairy tales are represented&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/37ef33de-33d1-4eb5-97c0-ef39376f985b" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Voici enfin le jour du MEGA avec 30 nouvelles labcaches réparties sur 3 différentes Adventures.
+Cette Adventure Lab n'est trouvable que le Samedi 16 juillet.
+
+[EN] It's finally the MEGA day with its 30 new labs spread over 3 different adventures.
+This Adventure Lab can only be found on Saturday July 16th.&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.436266666667" lon="2.5840333333333">
+                    <time>2022-07-16T06:55:24.593</time>
+                    <name>LCNEgr08</name>
+                    <desc>Agilité / Agility</desc>
+                    <url>https://labs.geocaching.com/goto/13cbd0f3-651f-4184-99cb-7ca9cc5b790b</url>
+                    <urlname>S08 Derrière le miroir - Samedi/Saturday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCNEgr08</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>5729f526-a79b-4daa-a0c0-ee9cf46d3c3f</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-8" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Derrière le miroir - Samedi/Saturday : S08 Agilité / Agility</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Derrière le miroir - Samedi/Saturday&lt;/h3&gt;&lt;h4&gt;Agilité / Agility&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/13cbd0f3-651f-4184-99cb-7ca9cc5b790b"&gt;https://labs.geocaching.com/goto/13cbd0f3-651f-4184-99cb-7ca9cc5b790b&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Résolvez l'énigme pour trouver le code / Solve the puzzle to find the code&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/c0f2c4ff-531d-479f-a696-2b485dc3e6e6" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Résolvez l'énigme pour trouver le code
+
+[EN] Solve the puzzle to find the code&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/37ef33de-33d1-4eb5-97c0-ef39376f985b" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Voici enfin le jour du MEGA avec 30 nouvelles labcaches réparties sur 3 différentes Adventures.
+Cette Adventure Lab n'est trouvable que le Samedi 16 juillet.
+
+[EN] It's finally the MEGA day with its 30 new labs spread over 3 different adventures.
+This Adventure Lab can only be found on Saturday July 16th.&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.436316666667" lon="2.5841833333333">
+                    <time>2022-07-16T06:55:24.593</time>
+                    <name>LCNEgr09</name>
+                    <desc>Direction Pays des Merveilles/Direction Wonderland</desc>
+                    <url>https://labs.geocaching.com/goto/13cbd0f3-651f-4184-99cb-7ca9cc5b790b</url>
+                    <urlname>S09 Derrière le miroir - Samedi/Saturday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCNEgr09</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>cb47b268-da68-42aa-9c2a-91b2017d194b</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-9" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Derrière le miroir - Samedi/Saturday : S09 Direction Pays des Merveilles/Direction Wonderland</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Derrière le miroir - Samedi/Saturday&lt;/h3&gt;&lt;h4&gt;Direction Pays des Merveilles/Direction Wonderland&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/13cbd0f3-651f-4184-99cb-7ca9cc5b790b"&gt;https://labs.geocaching.com/goto/13cbd0f3-651f-4184-99cb-7ca9cc5b790b&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Résolvez l'énigme pour trouver le code / Solve the puzzle to find the code&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/0dca9913-3b56-46c2-a9ee-89ba628229b3" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Résolvez l'énigme pour trouver le code
+
+[EN] Solve the puzzle to find the code&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/37ef33de-33d1-4eb5-97c0-ef39376f985b" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Voici enfin le jour du MEGA avec 30 nouvelles labcaches réparties sur 3 différentes Adventures.
+Cette Adventure Lab n'est trouvable que le Samedi 16 juillet.
+
+[EN] It's finally the MEGA day with its 30 new labs spread over 3 different adventures.
+This Adventure Lab can only be found on Saturday July 16th.&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="50.436366666667" lon="2.5841333333333">
+                    <time>2022-07-16T06:55:24.593</time>
+                    <name>LCNEgr10</name>
+                    <desc>I love &lt;3</desc>
+                    <url>https://labs.geocaching.com/goto/13cbd0f3-651f-4184-99cb-7ca9cc5b790b</url>
+                    <urlname>S10 Derrière le miroir - Samedi/Saturday</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCNEgr10</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>fa56460c-e607-4486-9c8b-f0c9aa5ec7cc</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-10" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Derrière le miroir - Samedi/Saturday : S10 I love &lt;3</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Derrière le miroir - Samedi/Saturday&lt;/h3&gt;&lt;h4&gt;I love &lt;3&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/13cbd0f3-651f-4184-99cb-7ca9cc5b790b"&gt;https://labs.geocaching.com/goto/13cbd0f3-651f-4184-99cb-7ca9cc5b790b&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Résolvez l'énigme pour trouver le code / Solve the puzzle to find the code&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/be3df0b1-d778-4620-aee3-b3d818e849d0" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Résolvez l'énigme pour trouver le code
+
+[EN] Solve the puzzle to find the code
+&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/37ef33de-33d1-4eb5-97c0-ef39376f985b" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Voici enfin le jour du MEGA avec 30 nouvelles labcaches réparties sur 3 différentes Adventures.
+Cette Adventure Lab n'est trouvable que le Samedi 16 juillet.
+
+[EN] It's finally the MEGA day with its 30 new labs spread over 3 different adventures.
+This Adventure Lab can only be found on Saturday July 16th.&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt></gpx>
