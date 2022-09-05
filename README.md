@@ -2,7 +2,9 @@
 
 GPX files ofthe Labcaches of our different events created with https://gcutils.de/lab2gpx / https://github.com/mirsch/lab2gpx
 
-Each folder corresponds to one of our MEGA/MAZE Events where you will find an individual GPX file for each labcache adventure we created for that year.
+Each folder corresponds to one of our MEGA/MAZE Events where you will find an individual GPX file for each labcache adventure we created for that year:
+
+**(To download an individual file: "right click" on one the following links and pick "save as")**
 
 ## GeoNord 2016 - Retour aux Sources (GC5XMTZ)
 
@@ -25,4 +27,5 @@ Each folder corresponds to one of our MEGA/MAZE Events where you will find an in
 * <a href="gn22-geonord-is-a-great-adventure-gc80000-gc80101/Derriere-le-miroir-Samedi-Saturday.gpx" download> Derriere le miroir Samedi/Saturday</a>
 * <a href="gn22-geonord-is-a-great-adventure-gc80000-gc80101/Histoire-sans-fin-Endless-story-Samedi-Saturday.gpx" download>Histoire sans fin/Endless story Samedi/Saturday</a>
 * <a href="gn22-geonord-is-a-great-adventure-gc80000-gc80101/Le-Monde-Machiavelique-Samedi-Saturday.gpx" download>Le Monde Machiavelique Samedi/Saturday</a>  
-   
+
+ 
