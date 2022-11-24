@@ -4,7 +4,7 @@ GPX files ofthe Labcaches of our different events created with https://gcutils.d
 
 Each folder corresponds to one of our MEGA/MAZE Events where you will find an individual GPX file for each labcache adventure we created for that year:
 
-**(To download an individual file: "right click" on one the following links and pick "save as")**
+**To download an individual file: "right click" on one the following links and pick "save as". You can also download a zip archive by clicking on the green `Code` button.**
 
 ## GeoNord 2016 - Retour aux Sources (GC5XMTZ)
 
