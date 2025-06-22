@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="utf-8"?>
+                <gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" creator="Groundspeak Pocket Query" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.groundspeak.com/cache/1/0/1 http://www.groundspeak.com/cache/1/0/1/cache.xsd" xmlns="http://www.topografix.com/GPX/1/0">
+                    <name>Adventure Labs</name>
+                <wpt lat="48.976633333333" lon="4.3370833333333">
+                    <time>2025-05-30T01:43:04</time>
+                    <name>LCPBYX01</name>
+                    <desc>LabMaze 1 - #5 Taille des caches / Geocache sizes</desc>
+                    <url>https://labs.geocaching.com/goto/d8f17f0b-599d-4cb7-8663-0732f96bc07f</url>
+                    <urlname>S01 Labs - GPS MAZE ADVENTURES 2025 - France</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCPBYX01</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>425791ea-b99a-41ee-b57a-566446c0c197</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-1" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Labs - GPS MAZE ADVENTURES 2025 - France : S01 LabMaze 1 - #5 Taille des caches / Geocache sizes</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Labs - GPS MAZE ADVENTURES 2025 - France&lt;/h3&gt;&lt;h4&gt;LabMaze 1 - #5 Taille des caches / Geocache sizes&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/d8f17f0b-599d-4cb7-8663-0732f96bc07f"&gt;https://labs.geocaching.com/goto/d8f17f0b-599d-4cb7-8663-0732f96bc07f&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;[FR] Quelle est la taille de la cage à oiseaux ?  [EN] What is the size of the bird box?&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/b19135f0-6831-4e4d-82a2-cd9bc50e4693" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Rendez vous au panneau #5 "Taille des caches".
+
+[EN] Find sign #5 "Geocache sizes". 
+&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/a17a6763-1b16-4c4b-b0a2-8b3d933149dd" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Visitez l'exposition GPS Maze Adventures et trouvez les réponses à ces labcaches ! 
+
+Heures d'ouverture estimées:
+Vendredi 30 mai 2025 - 9h30 à 12h00 et 14h00 à 18h00
+Samedi 31 mai 2025 - 9h30 à 12h00 et 14h00 à 18h00
+
+[EN] Come visit the GPS Maze Adventure Exhibit and find the answers to these labcaches!
+
+Estimated opening times:
+Friday 30 May 2025 - 9h30 to 12h00 and 14h00 to 18h00
+Saturday 31 May 2025 - 9h30 to 12h00 and 14h00 to 18h00
+
+&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="48.976675088252" lon="4.337156883915">
+                    <time>2025-05-30T01:43:04</time>
+                    <name>LCPBYX02</name>
+                    <desc>LabMaze 2 - Transformez-vous en GPS ! / Be a GPS!</desc>
+                    <url>https://labs.geocaching.com/goto/d8f17f0b-599d-4cb7-8663-0732f96bc07f</url>
+                    <urlname>S02 Labs - GPS MAZE ADVENTURES 2025 - France</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCPBYX02</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>1ae99cea-a4f6-40f7-b747-911062c94417</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-2" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Labs - GPS MAZE ADVENTURES 2025 - France : S02 LabMaze 2 - Transformez-vous en GPS ! / Be a GPS!</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Labs - GPS MAZE ADVENTURES 2025 - France&lt;/h3&gt;&lt;h4&gt;LabMaze 2 - Transformez-vous en GPS ! / Be a GPS!&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/d8f17f0b-599d-4cb7-8663-0732f96bc07f"&gt;https://labs.geocaching.com/goto/d8f17f0b-599d-4cb7-8663-0732f96bc07f&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Quel code vous est dévoilé ? / What code is revealed to you?&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/edbc49db-dba9-4706-b3d6-9da0274575be" /&gt;&lt;/p&gt;&lt;p&gt;FR] Rendez vous au panneau "Transformez-vous en GPS !" et suivez Marie tout au long de sa journée.
+
+
+[EN] Find the sign "Be a GPS!" and follow Marie all along her journey.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/a17a6763-1b16-4c4b-b0a2-8b3d933149dd" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Visitez l'exposition GPS Maze Adventures et trouvez les réponses à ces labcaches ! 
+
+Heures d'ouverture estimées:
+Vendredi 30 mai 2025 - 9h30 à 12h00 et 14h00 à 18h00
+Samedi 31 mai 2025 - 9h30 à 12h00 et 14h00 à 18h00
+
+[EN] Come visit the GPS Maze Adventure Exhibit and find the answers to these labcaches!
+
+Estimated opening times:
+Friday 30 May 2025 - 9h30 to 12h00 and 14h00 to 18h00
+Saturday 31 May 2025 - 9h30 to 12h00 and 14h00 to 18h00
+
+&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="48.976709418212" lon="4.3372185747228">
+                    <time>2025-05-30T01:43:04</time>
+                    <name>LCPBYX03</name>
+                    <desc>LabMaze 3 - #9 Courbes de Niveaux /Elevation Lines</desc>
+                    <url>https://labs.geocaching.com/goto/d8f17f0b-599d-4cb7-8663-0732f96bc07f</url>
+                    <urlname>S03 Labs - GPS MAZE ADVENTURES 2025 - France</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCPBYX03</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>171d1d24-d361-48c6-a4ac-948271edd4e5</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-3" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Labs - GPS MAZE ADVENTURES 2025 - France : S03 LabMaze 3 - #9 Courbes de Niveaux /Elevation Lines</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Labs - GPS MAZE ADVENTURES 2025 - France&lt;/h3&gt;&lt;h4&gt;LabMaze 3 - #9 Courbes de Niveaux /Elevation Lines&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/d8f17f0b-599d-4cb7-8663-0732f96bc07f"&gt;https://labs.geocaching.com/goto/d8f17f0b-599d-4cb7-8663-0732f96bc07f&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Quel parcours est le moins fatiguant ? / What is the less tiring path?&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/7ce59066-bf8f-4566-bcbf-e7ca586d106f" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Rendez vous au panneau #9 "Courbes de niveaux" et observez les parcours.
+
+[EN] Find sign #9 "Elevation Lines" and observe the different paths.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/a17a6763-1b16-4c4b-b0a2-8b3d933149dd" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Visitez l'exposition GPS Maze Adventures et trouvez les réponses à ces labcaches ! 
+
+Heures d'ouverture estimées:
+Vendredi 30 mai 2025 - 9h30 à 12h00 et 14h00 à 18h00
+Samedi 31 mai 2025 - 9h30 à 12h00 et 14h00 à 18h00
+
+[EN] Come visit the GPS Maze Adventure Exhibit and find the answers to these labcaches!
+
+Estimated opening times:
+Friday 30 May 2025 - 9h30 to 12h00 and 14h00 to 18h00
+Saturday 31 May 2025 - 9h30 to 12h00 and 14h00 to 18h00
+
+&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="48.97665" lon="4.3372833333333">
+                    <time>2025-05-30T01:43:04</time>
+                    <name>LCPBYX04</name>
+                    <desc>LabMaze 4 - #15-16</desc>
+                    <url>https://labs.geocaching.com/goto/d8f17f0b-599d-4cb7-8663-0732f96bc07f</url>
+                    <urlname>S04 Labs - GPS MAZE ADVENTURES 2025 - France</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCPBYX04</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>a1a64304-96ed-4556-96c1-8b001d07f865</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-4" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Labs - GPS MAZE ADVENTURES 2025 - France : S04 LabMaze 4 - #15-16</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Labs - GPS MAZE ADVENTURES 2025 - France&lt;/h3&gt;&lt;h4&gt;LabMaze 4 - #15-16&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/d8f17f0b-599d-4cb7-8663-0732f96bc07f"&gt;https://labs.geocaching.com/goto/d8f17f0b-599d-4cb7-8663-0732f96bc07f&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Quel objet ne doit pas être mis dans une cache ? / What item should not be put in a cache?&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/03b04cd3-cc00-4971-a7e7-4b6715b1aa46" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Rendez vous aux panneaux #15 #16 "A (ne pas) mettre dans une cache" et examinez son contenu.
+
+[EN] Find signs No #15 #16 "Things to (not) put in a cache" and examine it.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/a17a6763-1b16-4c4b-b0a2-8b3d933149dd" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Visitez l'exposition GPS Maze Adventures et trouvez les réponses à ces labcaches ! 
+
+Heures d'ouverture estimées:
+Vendredi 30 mai 2025 - 9h30 à 12h00 et 14h00 à 18h00
+Samedi 31 mai 2025 - 9h30 à 12h00 et 14h00 à 18h00
+
+[EN] Come visit the GPS Maze Adventure Exhibit and find the answers to these labcaches!
+
+Estimated opening times:
+Friday 30 May 2025 - 9h30 to 12h00 and 14h00 to 18h00
+Saturday 31 May 2025 - 9h30 to 12h00 and 14h00 to 18h00
+
+&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="48.976585558829" lon="4.3373744944555">
+                    <time>2025-05-30T01:43:04</time>
+                    <name>LCPBYX05</name>
+                    <desc>LabMaze 5 - #22 Earthcaches</desc>
+                    <url>https://labs.geocaching.com/goto/d8f17f0b-599d-4cb7-8663-0732f96bc07f</url>
+                    <urlname>S05 Labs - GPS MAZE ADVENTURES 2025 - France</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCPBYX05</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>f94c40ab-df97-4047-a57a-f08ee685d077</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-5" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Labs - GPS MAZE ADVENTURES 2025 - France : S05 LabMaze 5 - #22 Earthcaches</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Labs - GPS MAZE ADVENTURES 2025 - France&lt;/h3&gt;&lt;h4&gt;LabMaze 5 - #22 Earthcaches&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/d8f17f0b-599d-4cb7-8663-0732f96bc07f"&gt;https://labs.geocaching.com/goto/d8f17f0b-599d-4cb7-8663-0732f96bc07f&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;De quel animal fossilisé s'agit-il ? / What is the fossilized animal?&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/ddc25fbb-e5dc-4709-b46a-236f619e92a1" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Rendez vous au panneau #22 "Earthcaches" et examinez son contenu.
+
+[EN] Find sign #22 "Earthcaches" and read it.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/a17a6763-1b16-4c4b-b0a2-8b3d933149dd" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Visitez l'exposition GPS Maze Adventures et trouvez les réponses à ces labcaches ! 
+
+Heures d'ouverture estimées:
+Vendredi 30 mai 2025 - 9h30 à 12h00 et 14h00 à 18h00
+Samedi 31 mai 2025 - 9h30 à 12h00 et 14h00 à 18h00
+
+[EN] Come visit the GPS Maze Adventure Exhibit and find the answers to these labcaches!
+
+Estimated opening times:
+Friday 30 May 2025 - 9h30 to 12h00 and 14h00 to 18h00
+Saturday 31 May 2025 - 9h30 to 12h00 and 14h00 to 18h00
+
+&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="48.97652041975" lon="4.3374529490694">
+                    <time>2025-05-30T01:43:04</time>
+                    <name>LCPBYX06</name>
+                    <desc>LabMaze 6 - #24 Signal</desc>
+                    <url>https://labs.geocaching.com/goto/d8f17f0b-599d-4cb7-8663-0732f96bc07f</url>
+                    <urlname>S06 Labs - GPS MAZE ADVENTURES 2025 - France</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCPBYX06</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>5b9a17de-d411-4331-9286-fe9d757208b6</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-6" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Labs - GPS MAZE ADVENTURES 2025 - France : S06 LabMaze 6 - #24 Signal</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Labs - GPS MAZE ADVENTURES 2025 - France&lt;/h3&gt;&lt;h4&gt;LabMaze 6 - #24 Signal&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/d8f17f0b-599d-4cb7-8663-0732f96bc07f"&gt;https://labs.geocaching.com/goto/d8f17f0b-599d-4cb7-8663-0732f96bc07f&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;A quoi fait référence l'antenne de Signal ? (1 mot) / To what Signal's antenna refers to? (1 word)&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/91d0be55-cc7a-43b1-8b7a-6723b1f32c97" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Rendez vous au panneau #24 "Signal" et étudiez son contenu.
+
+[EN] Find sign #24 "Signal" and observe it.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/a17a6763-1b16-4c4b-b0a2-8b3d933149dd" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Visitez l'exposition GPS Maze Adventures et trouvez les réponses à ces labcaches ! 
+
+Heures d'ouverture estimées:
+Vendredi 30 mai 2025 - 9h30 à 12h00 et 14h00 à 18h00
+Samedi 31 mai 2025 - 9h30 à 12h00 et 14h00 à 18h00
+
+[EN] Come visit the GPS Maze Adventure Exhibit and find the answers to these labcaches!
+
+Estimated opening times:
+Friday 30 May 2025 - 9h30 to 12h00 and 14h00 to 18h00
+Saturday 31 May 2025 - 9h30 to 12h00 and 14h00 to 18h00
+
+&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="48.976481688365" lon="4.3374013165458">
+                    <time>2025-05-30T01:43:04</time>
+                    <name>LCPBYX07</name>
+                    <desc>LabMaze 7 - #31bis Rover Mars</desc>
+                    <url>https://labs.geocaching.com/goto/d8f17f0b-599d-4cb7-8663-0732f96bc07f</url>
+                    <urlname>S07 Labs - GPS MAZE ADVENTURES 2025 - France</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCPBYX07</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>8c676db6-8121-4ab6-b11b-6c79ed321e0b</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-7" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Labs - GPS MAZE ADVENTURES 2025 - France : S07 LabMaze 7 - #31bis Rover Mars</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Labs - GPS MAZE ADVENTURES 2025 - France&lt;/h3&gt;&lt;h4&gt;LabMaze 7 - #31bis Rover Mars&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/d8f17f0b-599d-4cb7-8663-0732f96bc07f"&gt;https://labs.geocaching.com/goto/d8f17f0b-599d-4cb7-8663-0732f96bc07f&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Comment s'appelle le spectromètre du Rover Perseverance ? / What is the name of the spectrophotometer of the Perseverance Rover?&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/14194bd2-1f3b-4a50-80b0-cd00d65aec9c" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Rendez vous au panneau #31bis "Rover Mars" et étudiez son contenu.
+
+[EN] Find sign #31bis "Rover Mars" and examine it.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/a17a6763-1b16-4c4b-b0a2-8b3d933149dd" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Visitez l'exposition GPS Maze Adventures et trouvez les réponses à ces labcaches ! 
+
+Heures d'ouverture estimées:
+Vendredi 30 mai 2025 - 9h30 à 12h00 et 14h00 à 18h00
+Samedi 31 mai 2025 - 9h30 à 12h00 et 14h00 à 18h00
+
+[EN] Come visit the GPS Maze Adventure Exhibit and find the answers to these labcaches!
+
+Estimated opening times:
+Friday 30 May 2025 - 9h30 to 12h00 and 14h00 to 18h00
+Saturday 31 May 2025 - 9h30 to 12h00 and 14h00 to 18h00
+
+&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="48.97644339708" lon="4.3373148153049">
+                    <time>2025-05-30T01:43:04</time>
+                    <name>LCPBYX08</name>
+                    <desc>LabMaze 8 - Zone Nuit / Night Zone</desc>
+                    <url>https://labs.geocaching.com/goto/d8f17f0b-599d-4cb7-8663-0732f96bc07f</url>
+                    <urlname>S08 Labs - GPS MAZE ADVENTURES 2025 - France</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCPBYX08</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>6147825c-a7ee-404f-852b-559caded39cb</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-8" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Labs - GPS MAZE ADVENTURES 2025 - France : S08 LabMaze 8 - Zone Nuit / Night Zone</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Labs - GPS MAZE ADVENTURES 2025 - France&lt;/h3&gt;&lt;h4&gt;LabMaze 8 - Zone Nuit / Night Zone&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/d8f17f0b-599d-4cb7-8663-0732f96bc07f"&gt;https://labs.geocaching.com/goto/d8f17f0b-599d-4cb7-8663-0732f96bc07f&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Quel est le nom de l'araignée ? What is the name of the spider?&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/8b85a15c-75e4-43e4-bcf4-bad0a27dde8e" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Rendez vous dans la zone nuit et repérez l'araignée phosphorescente.
+
+[EN] Go to the night zone and find the fluorescent spider.&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/a17a6763-1b16-4c4b-b0a2-8b3d933149dd" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Visitez l'exposition GPS Maze Adventures et trouvez les réponses à ces labcaches ! 
+
+Heures d'ouverture estimées:
+Vendredi 30 mai 2025 - 9h30 à 12h00 et 14h00 à 18h00
+Samedi 31 mai 2025 - 9h30 à 12h00 et 14h00 à 18h00
+
+[EN] Come visit the GPS Maze Adventure Exhibit and find the answers to these labcaches!
+
+Estimated opening times:
+Friday 30 May 2025 - 9h30 to 12h00 and 14h00 to 18h00
+Saturday 31 May 2025 - 9h30 to 12h00 and 14h00 to 18h00
+
+&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="48.976583333333" lon="4.33715">
+                    <time>2025-05-30T01:43:04</time>
+                    <name>LCPBYX09</name>
+                    <desc>LabMaze 10 - Escape the Maze!</desc>
+                    <url>https://labs.geocaching.com/goto/d8f17f0b-599d-4cb7-8663-0732f96bc07f</url>
+                    <urlname>S09 Labs - GPS MAZE ADVENTURES 2025 - France</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCPBYX09</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>bf977efd-26a1-4125-b91f-ac0b0083b935</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-9" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Labs - GPS MAZE ADVENTURES 2025 - France : S09 LabMaze 10 - Escape the Maze!</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Labs - GPS MAZE ADVENTURES 2025 - France&lt;/h3&gt;&lt;h4&gt;LabMaze 10 - Escape the Maze!&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/d8f17f0b-599d-4cb7-8663-0732f96bc07f"&gt;https://labs.geocaching.com/goto/d8f17f0b-599d-4cb7-8663-0732f96bc07f&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Quel est le code final dans l'ammobox ? What is the final code in the ammobox? &lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/caae75d8-e917-4268-af3c-bb5714655965" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Complétez l'activité "Try to escape the Maze" pour obtenir le code de cette labcache!
+
+[EN] Complete the activity "Try to escape the Maze" to get the code to this labcache!&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/a17a6763-1b16-4c4b-b0a2-8b3d933149dd" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Visitez l'exposition GPS Maze Adventures et trouvez les réponses à ces labcaches ! 
+
+Heures d'ouverture estimées:
+Vendredi 30 mai 2025 - 9h30 à 12h00 et 14h00 à 18h00
+Samedi 31 mai 2025 - 9h30 à 12h00 et 14h00 à 18h00
+
+[EN] Come visit the GPS Maze Adventure Exhibit and find the answers to these labcaches!
+
+Estimated opening times:
+Friday 30 May 2025 - 9h30 to 12h00 and 14h00 to 18h00
+Saturday 31 May 2025 - 9h30 to 12h00 and 14h00 to 18h00
+
+&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt><wpt lat="48.9765" lon="4.3372333333333">
+                    <time>2025-05-30T01:43:04</time>
+                    <name>LCPBYX10</name>
+                    <desc>LabMaze 9 - Where is Signal?</desc>
+                    <url>https://labs.geocaching.com/goto/d8f17f0b-599d-4cb7-8663-0732f96bc07f</url>
+                    <urlname>S10 Labs - GPS MAZE ADVENTURES 2025 - France</urlname>
+                    <sym>Geocache</sym>
+                    <type>Geocache|Lab Cache</type><gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/5">
+                        <gsak:Code>LCPBYX10</gsak:Code>
+                        <gsak:IsPremium>false</gsak:IsPremium>
+                        <gsak:FavPoints>0</gsak:FavPoints>
+                        <gsak:UserFlag>false</gsak:UserFlag>
+                        <gsak:Guid>4c9e692e-4035-47cc-bbc5-cd6be19a9f8f</gsak:Guid>
+                        <gsak:DNF>false</gsak:DNF>
+                        <gsak:FTF>false</gsak:FTF>
+                    </gsak:wptExtension><groundspeak:cache id="-10" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                        <groundspeak:name>Labs - GPS MAZE ADVENTURES 2025 - France : S10 LabMaze 9 - Where is Signal?</groundspeak:name>
+                        <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                        <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                        <groundspeak:type>Lab Cache</groundspeak:type>
+                        <groundspeak:container>Virtual</groundspeak:container>
+                        <groundspeak:attributes />
+                        <groundspeak:difficulty>1</groundspeak:difficulty>
+                        <groundspeak:terrain>1</groundspeak:terrain>
+                        <groundspeak:country />
+                        <groundspeak:state />
+                        <groundspeak:short_description html="True" />
+                        <groundspeak:long_description html="True">&lt;h3&gt;Labs - GPS MAZE ADVENTURES 2025 - France&lt;/h3&gt;&lt;h4&gt;LabMaze 9 - Where is Signal?&lt;/h4&gt;&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/d8f17f0b-599d-4cb7-8663-0732f96bc07f"&gt;https://labs.geocaching.com/goto/d8f17f0b-599d-4cb7-8663-0732f96bc07f&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Question:&lt;br /&gt;Que pouvez-vous voir à la gauche de Signal ? What can you see at Signal's left?&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Waypoint Description&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/0555745b-d1d5-4ac6-ae78-4a5ffa800641" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Rendez vous au panneau "Where is Signal ?".
+
+[EN] Find the sign "Where is Signal?"&lt;/p&gt;&lt;hr /&gt;&lt;h5&gt;Adventure Lab Descriptions&lt;/h5&gt;&lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/a17a6763-1b16-4c4b-b0a2-8b3d933149dd" /&gt;&lt;/p&gt;&lt;p&gt;[FR] Visitez l'exposition GPS Maze Adventures et trouvez les réponses à ces labcaches ! 
+
+Heures d'ouverture estimées:
+Vendredi 30 mai 2025 - 9h30 à 12h00 et 14h00 à 18h00
+Samedi 31 mai 2025 - 9h30 à 12h00 et 14h00 à 18h00
+
+[EN] Come visit the GPS Maze Adventure Exhibit and find the answers to these labcaches!
+
+Estimated opening times:
+Friday 30 May 2025 - 9h30 to 12h00 and 14h00 to 18h00
+Saturday 31 May 2025 - 9h30 to 12h00 and 14h00 to 18h00
+
+&lt;/p&gt;</groundspeak:long_description>
+                        <groundspeak:encoded_hints />
+                        <groundspeak:logs />
+                        <groundspeak:travelbugs />
+                    </groundspeak:cache>
+                </wpt></gpx>
