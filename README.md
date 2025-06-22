@@ -1,6 +1,19 @@
 # GeoNord Labcaches GPX
 
-GPX files ofthe Labcaches of our different events created with https://gcutils.de/lab2gpx / https://github.com/mirsch/lab2gpx
+## Description
+
+### FR
+Fichiers GPX des Labcaches pour nos différents events créés avec https://gcutils.de/lab2gpx / https://github.com/mirsch/lab2gpx
+
+Chaque dossier correspond à un MEGA/MAZE event où vous trouverez le fichier GPX
+individuel pour chaque aventure labcache que nous avons créée pour l'occasion :
+
+**Pour télécharger un fichier individuel : "clic droit" sur un des liens
+ci-dessous et choisir "Enregistrer sous". Vous pouvez aussi télécharger une archive
+zip en cliquant sur le bouton vert `Code`.**
+
+### EN
+GPX files of the Labcaches of our different events created with https://gcutils.de/lab2gpx / https://github.com/mirsch/lab2gpx
 
 Each folder corresponds to one of our MEGA/MAZE Events where you will find an individual GPX file for each labcache adventure we created for that year:
 
