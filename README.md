@@ -22,7 +22,7 @@ Each folder corresponds to one of our MEGA/MAZE Events where you will find an in
 
 ## ⚔️🛡️🏰 Au blason !🏰🛡️⚔️ & GPS MAZE ADVENTURES 2026 - France [(GCBBVCA)](https://coord.info/GCBBVCA)
 
-* <a href="https://raw.githubusercontent.com/Geo-Nord/labcaches_gpx/main/au-blason25-gps-maze-adventures-france-gcbbvca/labs-GPS-MAZE-ADVENTURES-2026-France.gpx" download>Labs - GPS MAZE ADVENTURES 2026 - France</a>
+* <a href="https://raw.githubusercontent.com/Geo-Nord/labcaches_gpx/main/au-blason26-gps-maze-adventures-france-gcbbvca/labs-GPS-MAZE-ADVENTURES-2026-France.gpx" download>Labs - GPS MAZE ADVENTURES 2026 - France</a>
 
 
 ## GeoCircus & GPS MAZE ADVENTURES 2025 - France [(GCAT09Z)](https://coord.info/GCAT09Z)
