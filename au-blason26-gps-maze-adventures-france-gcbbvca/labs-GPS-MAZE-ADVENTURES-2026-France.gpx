@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" creator="Lab2Gpx" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.groundspeak.com/cache/1/0/1 http://www.groundspeak.com/cache/1/0/1/cache.xsd" xmlns="http://www.topografix.com/GPX/1/0">
+    <name>Adventure Labs</name>
+                                                                                                                                                    <wpt lat="50.0767" lon="3.2232">
+                        <time>2026-05-15T05:56:32.653</time>
+                        <name>LCRVHV-1</name>
+                        <desc>LabMaze 1 - #4 Cache de type event / Event type</desc>
+                        <url>https://labs.geocaching.com/goto/69421f45-08de-480d-8e68-d81761412fd2</url>
+                        <urlname>S01 Labs - GPS MAZE ADVENTURES 2026 - France</urlname>
+                        <sym>Geocache</sym>
+                        <type>Geocache|Lab Cache</type>
+                        <gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/6">
+                            <gsak:Code>LCRVHV-1</gsak:Code>
+                            <gsak:IsPremium>false</gsak:IsPremium>
+                            <gsak:FavPoints>0</gsak:FavPoints>
+                            <gsak:UserFlag>false</gsak:UserFlag>
+                            <gsak:Guid>b0d6449f-750a-48c2-9756-2d3cc4261c1a</gsak:Guid>
+                            <gsak:DNF>false</gsak:DNF>
+                            <gsak:FTF>false</gsak:FTF>
+                                                    </gsak:wptExtension>
+                        <lab2gpx:adventureLab xmlns:lab2gpx="https://lab2gpx.gcutils.de/ns/lab2gpx/1">
+                            <lab2gpx:uuid>acbcf388-6c35-4cfc-8789-14ec7546eb1c</lab2gpx:uuid>
+                            <lab2gpx:stagesTotal>10</lab2gpx:stagesTotal>
+                            <lab2gpx:stagesCompleted>0</lab2gpx:stagesCompleted>
+                            <lab2gpx:themes>Education,Science,Technology</lab2gpx:themes>
+                            <lab2gpx:bonus></lab2gpx:bonus>
+                        </lab2gpx:adventureLab>
+                        <groundspeak:cache id="9740524" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                            <groundspeak:name>Labs - GPS MAZE ADVENTURES 2026 - France : S01 LabMaze 1 - #4 Cache de type event / Event type</groundspeak:name>
+                            <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                            <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                            <groundspeak:type>Lab Cache</groundspeak:type>
+                            <groundspeak:container>Virtual</groundspeak:container>
+                            <groundspeak:attributes />
+                            <groundspeak:difficulty>1</groundspeak:difficulty>
+                            <groundspeak:terrain>1</groundspeak:terrain>
+                            <groundspeak:country />
+                            <groundspeak:state />
+                            <groundspeak:short_description html="True" />
+                            <groundspeak:long_description html="True">
+                                                                                                                                        &lt;h3&gt;Labs - GPS MAZE ADVENTURES 2026 - France&lt;/h3&gt;
+    &lt;h4&gt;LabMaze 1 - #4 Cache de type event / Event type&lt;/h4&gt;
+
+
+&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/69421f45-08de-480d-8e68-d81761412fd2" target="_blank"&gt;https://labs.geocaching.com/goto/69421f45-08de-480d-8e68-d81761412fd2&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;Radius: 100m&lt;/p&gt;
+
+    &lt;p&gt;Stages: 10&lt;/p&gt;
+
+
+    &lt;p&gt;Kind of question:
+                    single
+            &lt;/p&gt;
+    &lt;p&gt;Question:&lt;br /&gt;[FR] Quelle est l&amp;#039;année de création de l’icône GIGA ? [EN] What is the creation year of the GIGA icon?&lt;/p&gt;
+
+    &lt;hr /&gt;
+    &lt;h5&gt;Waypoint Description&lt;/h5&gt;
+    &lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/ab3726cf-933f-456c-8b9e-e40344660fd5" /&gt;&lt;/p&gt;
+    &lt;p&gt;[FR] Rendez vous au panneau #4 &amp;quot;Caches de type Event&amp;quot;.
+
+[EN] Find sign #4 &amp;quot;Event type caches&amp;quot;.&lt;/p&gt;
+
+    &lt;hr /&gt;
+    &lt;h5&gt;Adventure Lab Description&lt;/h5&gt;
+    &lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/fc18081b-bee8-4c08-9c93-f775e5080ebf" /&gt;&lt;/p&gt;
+    &lt;p&gt;[FR] Visitez l&amp;#039;exposition GPS Maze Adventures et trouvez les réponses à ces labcaches ! 
+
+Heures d&amp;#039;ouverture estimées:
+Vendredi 15 mai 2026 - 9h30 à 12h00 et 14h00 à 17h30
+Samedi 16 mai 2026 - 9h30 à 12h00 et 14h00 à 17h30
+
+[EN] Come visit the GPS Maze Adventure Exhibit and find the answers to these labcaches!
+
+Estimated opening times:
+Friday 15 May 2026 - 9h30 to 12h00 and 14h00 to 17h30
+Saturday 16 May 2026 - 9h30 to 12h00 and 14h00 to 17h30&lt;/p&gt;
+
+                                    
+                            </groundspeak:long_description>
+                            <groundspeak:encoded_hints />
+                            <groundspeak:logs />
+                            <groundspeak:travelbugs />
+                        </groundspeak:cache>
+                    </wpt>
+                                                                                                                                                    <wpt lat="50.0766" lon="3.2233">
+                        <time>2026-05-15T05:56:32.653</time>
+                        <name>LCRVHV-2</name>
+                        <desc>LabMaze 2 - #11 Indice / Hint</desc>
+                        <url>https://labs.geocaching.com/goto/69421f45-08de-480d-8e68-d81761412fd2</url>
+                        <urlname>S02 Labs - GPS MAZE ADVENTURES 2026 - France</urlname>
+                        <sym>Geocache</sym>
+                        <type>Geocache|Lab Cache</type>
+                        <gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/6">
+                            <gsak:Code>LCRVHV-2</gsak:Code>
+                            <gsak:IsPremium>false</gsak:IsPremium>
+                            <gsak:FavPoints>0</gsak:FavPoints>
+                            <gsak:UserFlag>false</gsak:UserFlag>
+                            <gsak:Guid>94a58f90-a07a-4328-95ac-5767efebe603</gsak:Guid>
+                            <gsak:DNF>false</gsak:DNF>
+                            <gsak:FTF>false</gsak:FTF>
+                                                    </gsak:wptExtension>
+                        <lab2gpx:adventureLab xmlns:lab2gpx="https://lab2gpx.gcutils.de/ns/lab2gpx/1">
+                            <lab2gpx:uuid>acbcf388-6c35-4cfc-8789-14ec7546eb1c</lab2gpx:uuid>
+                            <lab2gpx:stagesTotal>10</lab2gpx:stagesTotal>
+                            <lab2gpx:stagesCompleted>0</lab2gpx:stagesCompleted>
+                            <lab2gpx:themes>Education,Science,Technology</lab2gpx:themes>
+                            <lab2gpx:bonus></lab2gpx:bonus>
+                        </lab2gpx:adventureLab>
+                        <groundspeak:cache id="9740525" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                            <groundspeak:name>Labs - GPS MAZE ADVENTURES 2026 - France : S02 LabMaze 2 - #11 Indice / Hint</groundspeak:name>
+                            <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                            <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                            <groundspeak:type>Lab Cache</groundspeak:type>
+                            <groundspeak:container>Virtual</groundspeak:container>
+                            <groundspeak:attributes />
+                            <groundspeak:difficulty>1</groundspeak:difficulty>
+                            <groundspeak:terrain>1</groundspeak:terrain>
+                            <groundspeak:country />
+                            <groundspeak:state />
+                            <groundspeak:short_description html="True" />
+                            <groundspeak:long_description html="True">
+                                                                                                                                        &lt;h3&gt;Labs - GPS MAZE ADVENTURES 2026 - France&lt;/h3&gt;
+    &lt;h4&gt;LabMaze 2 - #11 Indice / Hint&lt;/h4&gt;
+
+
+&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/69421f45-08de-480d-8e68-d81761412fd2" target="_blank"&gt;https://labs.geocaching.com/goto/69421f45-08de-480d-8e68-d81761412fd2&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;Radius: 100m&lt;/p&gt;
+
+    &lt;p&gt;Stages: 10&lt;/p&gt;
+
+
+    &lt;p&gt;Kind of question:
+                    single
+            &lt;/p&gt;
+    &lt;p&gt;Question:&lt;br /&gt;[FR] Nom du code qui utilise des drapeaux maritimes ? [EN] Which cipher uses maritime flags?&lt;/p&gt;
+
+    &lt;hr /&gt;
+    &lt;h5&gt;Waypoint Description&lt;/h5&gt;
+    &lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/57684dc2-7b9b-4254-b829-f5efa7353bc8" /&gt;&lt;/p&gt;
+    &lt;p&gt;[FR] Rendez vous au panneau #11 &amp;quot;Indice&amp;quot;.
+
+[EN] Find sign #11 &amp;quot;Hint&amp;quot;.&lt;/p&gt;
+
+    &lt;hr /&gt;
+    &lt;h5&gt;Adventure Lab Description&lt;/h5&gt;
+    &lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/fc18081b-bee8-4c08-9c93-f775e5080ebf" /&gt;&lt;/p&gt;
+    &lt;p&gt;[FR] Visitez l&amp;#039;exposition GPS Maze Adventures et trouvez les réponses à ces labcaches ! 
+
+Heures d&amp;#039;ouverture estimées:
+Vendredi 15 mai 2026 - 9h30 à 12h00 et 14h00 à 17h30
+Samedi 16 mai 2026 - 9h30 à 12h00 et 14h00 à 17h30
+
+[EN] Come visit the GPS Maze Adventure Exhibit and find the answers to these labcaches!
+
+Estimated opening times:
+Friday 15 May 2026 - 9h30 to 12h00 and 14h00 to 17h30
+Saturday 16 May 2026 - 9h30 to 12h00 and 14h00 to 17h30&lt;/p&gt;
+
+                                    
+                            </groundspeak:long_description>
+                            <groundspeak:encoded_hints />
+                            <groundspeak:logs />
+                            <groundspeak:travelbugs />
+                        </groundspeak:cache>
+                    </wpt>
+                                                                                                                                                    <wpt lat="50.076516666667" lon="3.2233833333333">
+                        <time>2026-05-15T05:56:32.653</time>
+                        <name>LCRVHV-3</name>
+                        <desc>LabMaze 3 - #13 Navigation par/by satellite</desc>
+                        <url>https://labs.geocaching.com/goto/69421f45-08de-480d-8e68-d81761412fd2</url>
+                        <urlname>S03 Labs - GPS MAZE ADVENTURES 2026 - France</urlname>
+                        <sym>Geocache</sym>
+                        <type>Geocache|Lab Cache</type>
+                        <gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/6">
+                            <gsak:Code>LCRVHV-3</gsak:Code>
+                            <gsak:IsPremium>false</gsak:IsPremium>
+                            <gsak:FavPoints>0</gsak:FavPoints>
+                            <gsak:UserFlag>false</gsak:UserFlag>
+                            <gsak:Guid>89ada1c2-628c-418a-940b-b9c011b92363</gsak:Guid>
+                            <gsak:DNF>false</gsak:DNF>
+                            <gsak:FTF>false</gsak:FTF>
+                                                    </gsak:wptExtension>
+                        <lab2gpx:adventureLab xmlns:lab2gpx="https://lab2gpx.gcutils.de/ns/lab2gpx/1">
+                            <lab2gpx:uuid>acbcf388-6c35-4cfc-8789-14ec7546eb1c</lab2gpx:uuid>
+                            <lab2gpx:stagesTotal>10</lab2gpx:stagesTotal>
+                            <lab2gpx:stagesCompleted>0</lab2gpx:stagesCompleted>
+                            <lab2gpx:themes>Education,Science,Technology</lab2gpx:themes>
+                            <lab2gpx:bonus></lab2gpx:bonus>
+                        </lab2gpx:adventureLab>
+                        <groundspeak:cache id="9740526" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                            <groundspeak:name>Labs - GPS MAZE ADVENTURES 2026 - France : S03 LabMaze 3 - #13 Navigation par/by satellite</groundspeak:name>
+                            <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                            <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                            <groundspeak:type>Lab Cache</groundspeak:type>
+                            <groundspeak:container>Virtual</groundspeak:container>
+                            <groundspeak:attributes />
+                            <groundspeak:difficulty>1</groundspeak:difficulty>
+                            <groundspeak:terrain>1</groundspeak:terrain>
+                            <groundspeak:country />
+                            <groundspeak:state />
+                            <groundspeak:short_description html="True" />
+                            <groundspeak:long_description html="True">
+                                                                                                                                        &lt;h3&gt;Labs - GPS MAZE ADVENTURES 2026 - France&lt;/h3&gt;
+    &lt;h4&gt;LabMaze 3 - #13 Navigation par/by satellite&lt;/h4&gt;
+
+
+&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/69421f45-08de-480d-8e68-d81761412fd2" target="_blank"&gt;https://labs.geocaching.com/goto/69421f45-08de-480d-8e68-d81761412fd2&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;Radius: 100m&lt;/p&gt;
+
+    &lt;p&gt;Stages: 10&lt;/p&gt;
+
+
+    &lt;p&gt;Kind of question:
+                    single
+            &lt;/p&gt;
+    &lt;p&gt;Question:&lt;br /&gt;[FR] Que tient Signal ? [EN] What is Signal holding?&lt;/p&gt;
+
+    &lt;hr /&gt;
+    &lt;h5&gt;Waypoint Description&lt;/h5&gt;
+    &lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/fc244d55-ca4d-48b6-b218-67eca4c62565" /&gt;&lt;/p&gt;
+    &lt;p&gt;[FR] Rendez vous au panneau #13 &amp;quot;Navigation par satellite&amp;quot;.
+
+[EN] Find sign #13 &amp;quot;Navigation by satellite&amp;quot;.&lt;/p&gt;
+
+    &lt;hr /&gt;
+    &lt;h5&gt;Adventure Lab Description&lt;/h5&gt;
+    &lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/fc18081b-bee8-4c08-9c93-f775e5080ebf" /&gt;&lt;/p&gt;
+    &lt;p&gt;[FR] Visitez l&amp;#039;exposition GPS Maze Adventures et trouvez les réponses à ces labcaches ! 
+
+Heures d&amp;#039;ouverture estimées:
+Vendredi 15 mai 2026 - 9h30 à 12h00 et 14h00 à 17h30
+Samedi 16 mai 2026 - 9h30 à 12h00 et 14h00 à 17h30
+
+[EN] Come visit the GPS Maze Adventure Exhibit and find the answers to these labcaches!
+
+Estimated opening times:
+Friday 15 May 2026 - 9h30 to 12h00 and 14h00 to 17h30
+Saturday 16 May 2026 - 9h30 to 12h00 and 14h00 to 17h30&lt;/p&gt;
+
+                                    
+                            </groundspeak:long_description>
+                            <groundspeak:encoded_hints />
+                            <groundspeak:logs />
+                            <groundspeak:travelbugs />
+                        </groundspeak:cache>
+                    </wpt>
+                                                                                                                                                    <wpt lat="50.076433333333" lon="3.2234833333333">
+                        <time>2026-05-15T05:56:32.653</time>
+                        <name>LCRVHV-4</name>
+                        <desc>LabMaze 4 - #23 Geocaching HQ</desc>
+                        <url>https://labs.geocaching.com/goto/69421f45-08de-480d-8e68-d81761412fd2</url>
+                        <urlname>S04 Labs - GPS MAZE ADVENTURES 2026 - France</urlname>
+                        <sym>Geocache</sym>
+                        <type>Geocache|Lab Cache</type>
+                        <gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/6">
+                            <gsak:Code>LCRVHV-4</gsak:Code>
+                            <gsak:IsPremium>false</gsak:IsPremium>
+                            <gsak:FavPoints>0</gsak:FavPoints>
+                            <gsak:UserFlag>false</gsak:UserFlag>
+                            <gsak:Guid>066788a2-d102-4cc2-b78c-c61d54304b3d</gsak:Guid>
+                            <gsak:DNF>false</gsak:DNF>
+                            <gsak:FTF>false</gsak:FTF>
+                                                    </gsak:wptExtension>
+                        <lab2gpx:adventureLab xmlns:lab2gpx="https://lab2gpx.gcutils.de/ns/lab2gpx/1">
+                            <lab2gpx:uuid>acbcf388-6c35-4cfc-8789-14ec7546eb1c</lab2gpx:uuid>
+                            <lab2gpx:stagesTotal>10</lab2gpx:stagesTotal>
+                            <lab2gpx:stagesCompleted>0</lab2gpx:stagesCompleted>
+                            <lab2gpx:themes>Education,Science,Technology</lab2gpx:themes>
+                            <lab2gpx:bonus></lab2gpx:bonus>
+                        </lab2gpx:adventureLab>
+                        <groundspeak:cache id="9740527" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                            <groundspeak:name>Labs - GPS MAZE ADVENTURES 2026 - France : S04 LabMaze 4 - #23 Geocaching HQ</groundspeak:name>
+                            <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                            <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                            <groundspeak:type>Lab Cache</groundspeak:type>
+                            <groundspeak:container>Virtual</groundspeak:container>
+                            <groundspeak:attributes />
+                            <groundspeak:difficulty>1</groundspeak:difficulty>
+                            <groundspeak:terrain>1</groundspeak:terrain>
+                            <groundspeak:country />
+                            <groundspeak:state />
+                            <groundspeak:short_description html="True" />
+                            <groundspeak:long_description html="True">
+                                                                                                                                        &lt;h3&gt;Labs - GPS MAZE ADVENTURES 2026 - France&lt;/h3&gt;
+    &lt;h4&gt;LabMaze 4 - #23 Geocaching HQ&lt;/h4&gt;
+
+
+&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/69421f45-08de-480d-8e68-d81761412fd2" target="_blank"&gt;https://labs.geocaching.com/goto/69421f45-08de-480d-8e68-d81761412fd2&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;Radius: 100m&lt;/p&gt;
+
+    &lt;p&gt;Stages: 10&lt;/p&gt;
+
+
+    &lt;p&gt;Kind of question:
+                    single
+            &lt;/p&gt;
+    &lt;p&gt;Question:&lt;br /&gt;[FR] Quel lieu accueille les visiteurs ? [EN] What place welcomes visitors?&lt;/p&gt;
+
+    &lt;hr /&gt;
+    &lt;h5&gt;Waypoint Description&lt;/h5&gt;
+    &lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/049c6126-7ed4-4daa-a0ee-0f4551c5deb4" /&gt;&lt;/p&gt;
+    &lt;p&gt;[FR] Rendez vous au panneau #23 &amp;quot;Geocaching HQ&amp;quot;.
+
+[EN] Find sign #23 &amp;quot;Geocaching HQ&amp;quot;.&lt;/p&gt;
+
+    &lt;hr /&gt;
+    &lt;h5&gt;Adventure Lab Description&lt;/h5&gt;
+    &lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/fc18081b-bee8-4c08-9c93-f775e5080ebf" /&gt;&lt;/p&gt;
+    &lt;p&gt;[FR] Visitez l&amp;#039;exposition GPS Maze Adventures et trouvez les réponses à ces labcaches ! 
+
+Heures d&amp;#039;ouverture estimées:
+Vendredi 15 mai 2026 - 9h30 à 12h00 et 14h00 à 17h30
+Samedi 16 mai 2026 - 9h30 à 12h00 et 14h00 à 17h30
+
+[EN] Come visit the GPS Maze Adventure Exhibit and find the answers to these labcaches!
+
+Estimated opening times:
+Friday 15 May 2026 - 9h30 to 12h00 and 14h00 to 17h30
+Saturday 16 May 2026 - 9h30 to 12h00 and 14h00 to 17h30&lt;/p&gt;
+
+                                    
+                            </groundspeak:long_description>
+                            <groundspeak:encoded_hints />
+                            <groundspeak:logs />
+                            <groundspeak:travelbugs />
+                        </groundspeak:cache>
+                    </wpt>
+                                                                                                                                                    <wpt lat="50.076366666667" lon="3.2233666666667">
+                        <time>2026-05-15T05:56:32.653</time>
+                        <name>LCRVHV-5</name>
+                        <desc>LabMaze 5 - #31 Geocaching dans l’espace /in space</desc>
+                        <url>https://labs.geocaching.com/goto/69421f45-08de-480d-8e68-d81761412fd2</url>
+                        <urlname>S05 Labs - GPS MAZE ADVENTURES 2026 - France</urlname>
+                        <sym>Geocache</sym>
+                        <type>Geocache|Lab Cache</type>
+                        <gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/6">
+                            <gsak:Code>LCRVHV-5</gsak:Code>
+                            <gsak:IsPremium>false</gsak:IsPremium>
+                            <gsak:FavPoints>0</gsak:FavPoints>
+                            <gsak:UserFlag>false</gsak:UserFlag>
+                            <gsak:Guid>834ab6bd-1e03-4d0e-a9cd-e0d04b2a7b4f</gsak:Guid>
+                            <gsak:DNF>false</gsak:DNF>
+                            <gsak:FTF>false</gsak:FTF>
+                                                    </gsak:wptExtension>
+                        <lab2gpx:adventureLab xmlns:lab2gpx="https://lab2gpx.gcutils.de/ns/lab2gpx/1">
+                            <lab2gpx:uuid>acbcf388-6c35-4cfc-8789-14ec7546eb1c</lab2gpx:uuid>
+                            <lab2gpx:stagesTotal>10</lab2gpx:stagesTotal>
+                            <lab2gpx:stagesCompleted>0</lab2gpx:stagesCompleted>
+                            <lab2gpx:themes>Education,Science,Technology</lab2gpx:themes>
+                            <lab2gpx:bonus></lab2gpx:bonus>
+                        </lab2gpx:adventureLab>
+                        <groundspeak:cache id="9740528" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                            <groundspeak:name>Labs - GPS MAZE ADVENTURES 2026 - France : S05 LabMaze 5 - #31 Geocaching dans l’espace /in space</groundspeak:name>
+                            <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                            <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                            <groundspeak:type>Lab Cache</groundspeak:type>
+                            <groundspeak:container>Virtual</groundspeak:container>
+                            <groundspeak:attributes />
+                            <groundspeak:difficulty>1</groundspeak:difficulty>
+                            <groundspeak:terrain>1</groundspeak:terrain>
+                            <groundspeak:country />
+                            <groundspeak:state />
+                            <groundspeak:short_description html="True" />
+                            <groundspeak:long_description html="True">
+                                                                                                                                        &lt;h3&gt;Labs - GPS MAZE ADVENTURES 2026 - France&lt;/h3&gt;
+    &lt;h4&gt;LabMaze 5 - #31 Geocaching dans l’espace /in space&lt;/h4&gt;
+
+
+&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/69421f45-08de-480d-8e68-d81761412fd2" target="_blank"&gt;https://labs.geocaching.com/goto/69421f45-08de-480d-8e68-d81761412fd2&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;Radius: 100m&lt;/p&gt;
+
+    &lt;p&gt;Stages: 10&lt;/p&gt;
+
+
+    &lt;p&gt;Kind of question:
+                    single
+            &lt;/p&gt;
+    &lt;p&gt;Question:&lt;br /&gt;[FR] Quel pseudo a fait FTF sur GC1BE91 ? [EN] What username logged FTF on  GC1BE91?&lt;/p&gt;
+
+    &lt;hr /&gt;
+    &lt;h5&gt;Waypoint Description&lt;/h5&gt;
+    &lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/811665e1-2c8e-4121-a61a-1362eb94d3d1" /&gt;&lt;/p&gt;
+    &lt;p&gt;[FR] Rendez vous au panneau #31 &amp;quot;Geocaching dans l’espace&amp;quot;.
+
+[EN] Find sign #31 &amp;quot;Geocaching in space&amp;quot;.&lt;/p&gt;
+
+    &lt;hr /&gt;
+    &lt;h5&gt;Adventure Lab Description&lt;/h5&gt;
+    &lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/fc18081b-bee8-4c08-9c93-f775e5080ebf" /&gt;&lt;/p&gt;
+    &lt;p&gt;[FR] Visitez l&amp;#039;exposition GPS Maze Adventures et trouvez les réponses à ces labcaches ! 
+
+Heures d&amp;#039;ouverture estimées:
+Vendredi 15 mai 2026 - 9h30 à 12h00 et 14h00 à 17h30
+Samedi 16 mai 2026 - 9h30 à 12h00 et 14h00 à 17h30
+
+[EN] Come visit the GPS Maze Adventure Exhibit and find the answers to these labcaches!
+
+Estimated opening times:
+Friday 15 May 2026 - 9h30 to 12h00 and 14h00 to 17h30
+Saturday 16 May 2026 - 9h30 to 12h00 and 14h00 to 17h30&lt;/p&gt;
+
+                                    
+                            </groundspeak:long_description>
+                            <groundspeak:encoded_hints />
+                            <groundspeak:logs />
+                            <groundspeak:travelbugs />
+                        </groundspeak:cache>
+                    </wpt>
+                                                                                                                                                    <wpt lat="50.076316666667" lon="3.2232333333333">
+                        <time>2026-05-15T05:56:32.653</time>
+                        <name>LCRVHV-6</name>
+                        <desc>LabMaze 6 - Espace de nuit / Night zone</desc>
+                        <url>https://labs.geocaching.com/goto/69421f45-08de-480d-8e68-d81761412fd2</url>
+                        <urlname>S06 Labs - GPS MAZE ADVENTURES 2026 - France</urlname>
+                        <sym>Geocache</sym>
+                        <type>Geocache|Lab Cache</type>
+                        <gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/6">
+                            <gsak:Code>LCRVHV-6</gsak:Code>
+                            <gsak:IsPremium>false</gsak:IsPremium>
+                            <gsak:FavPoints>0</gsak:FavPoints>
+                            <gsak:UserFlag>false</gsak:UserFlag>
+                            <gsak:Guid>27b43070-6fe5-4e57-841c-d170294e3173</gsak:Guid>
+                            <gsak:DNF>false</gsak:DNF>
+                            <gsak:FTF>false</gsak:FTF>
+                                                    </gsak:wptExtension>
+                        <lab2gpx:adventureLab xmlns:lab2gpx="https://lab2gpx.gcutils.de/ns/lab2gpx/1">
+                            <lab2gpx:uuid>acbcf388-6c35-4cfc-8789-14ec7546eb1c</lab2gpx:uuid>
+                            <lab2gpx:stagesTotal>10</lab2gpx:stagesTotal>
+                            <lab2gpx:stagesCompleted>0</lab2gpx:stagesCompleted>
+                            <lab2gpx:themes>Education,Science,Technology</lab2gpx:themes>
+                            <lab2gpx:bonus></lab2gpx:bonus>
+                        </lab2gpx:adventureLab>
+                        <groundspeak:cache id="9740529" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                            <groundspeak:name>Labs - GPS MAZE ADVENTURES 2026 - France : S06 LabMaze 6 - Espace de nuit / Night zone</groundspeak:name>
+                            <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                            <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                            <groundspeak:type>Lab Cache</groundspeak:type>
+                            <groundspeak:container>Virtual</groundspeak:container>
+                            <groundspeak:attributes />
+                            <groundspeak:difficulty>1</groundspeak:difficulty>
+                            <groundspeak:terrain>1</groundspeak:terrain>
+                            <groundspeak:country />
+                            <groundspeak:state />
+                            <groundspeak:short_description html="True" />
+                            <groundspeak:long_description html="True">
+                                                                                                                                        &lt;h3&gt;Labs - GPS MAZE ADVENTURES 2026 - France&lt;/h3&gt;
+    &lt;h4&gt;LabMaze 6 - Espace de nuit / Night zone&lt;/h4&gt;
+
+
+&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/69421f45-08de-480d-8e68-d81761412fd2" target="_blank"&gt;https://labs.geocaching.com/goto/69421f45-08de-480d-8e68-d81761412fd2&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;Radius: 100m&lt;/p&gt;
+
+    &lt;p&gt;Stages: 10&lt;/p&gt;
+
+
+    &lt;p&gt;Kind of question:
+                    single
+            &lt;/p&gt;
+    &lt;p&gt;Question:&lt;br /&gt;[FR] Quel est le code volant  ? (1 mot) [EN] What is the flying code? (1 word)&lt;/p&gt;
+
+    &lt;hr /&gt;
+    &lt;h5&gt;Waypoint Description&lt;/h5&gt;
+    &lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/c604b1b1-4a51-4b01-a172-2e1faa1710c3" /&gt;&lt;/p&gt;
+    &lt;p&gt;[FR] Rendez vous dans l&amp;#039;espace de nuit.
+
+[EN] Find the night zone.&lt;/p&gt;
+
+    &lt;hr /&gt;
+    &lt;h5&gt;Adventure Lab Description&lt;/h5&gt;
+    &lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/fc18081b-bee8-4c08-9c93-f775e5080ebf" /&gt;&lt;/p&gt;
+    &lt;p&gt;[FR] Visitez l&amp;#039;exposition GPS Maze Adventures et trouvez les réponses à ces labcaches ! 
+
+Heures d&amp;#039;ouverture estimées:
+Vendredi 15 mai 2026 - 9h30 à 12h00 et 14h00 à 17h30
+Samedi 16 mai 2026 - 9h30 à 12h00 et 14h00 à 17h30
+
+[EN] Come visit the GPS Maze Adventure Exhibit and find the answers to these labcaches!
+
+Estimated opening times:
+Friday 15 May 2026 - 9h30 to 12h00 and 14h00 to 17h30
+Saturday 16 May 2026 - 9h30 to 12h00 and 14h00 to 17h30&lt;/p&gt;
+
+                                    
+                            </groundspeak:long_description>
+                            <groundspeak:encoded_hints />
+                            <groundspeak:logs />
+                            <groundspeak:travelbugs />
+                        </groundspeak:cache>
+                    </wpt>
+                                                                                                                                                    <wpt lat="50.0764" lon="3.22315">
+                        <time>2026-05-15T05:56:32.653</time>
+                        <name>LCRVHV-7</name>
+                        <desc>LabMaze 7 -  #35 Objets voyageurs- geocoins</desc>
+                        <url>https://labs.geocaching.com/goto/69421f45-08de-480d-8e68-d81761412fd2</url>
+                        <urlname>S07 Labs - GPS MAZE ADVENTURES 2026 - France</urlname>
+                        <sym>Geocache</sym>
+                        <type>Geocache|Lab Cache</type>
+                        <gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/6">
+                            <gsak:Code>LCRVHV-7</gsak:Code>
+                            <gsak:IsPremium>false</gsak:IsPremium>
+                            <gsak:FavPoints>0</gsak:FavPoints>
+                            <gsak:UserFlag>false</gsak:UserFlag>
+                            <gsak:Guid>18dc50d7-2eb5-4491-8ca7-0a3a0d24c0ac</gsak:Guid>
+                            <gsak:DNF>false</gsak:DNF>
+                            <gsak:FTF>false</gsak:FTF>
+                                                    </gsak:wptExtension>
+                        <lab2gpx:adventureLab xmlns:lab2gpx="https://lab2gpx.gcutils.de/ns/lab2gpx/1">
+                            <lab2gpx:uuid>acbcf388-6c35-4cfc-8789-14ec7546eb1c</lab2gpx:uuid>
+                            <lab2gpx:stagesTotal>10</lab2gpx:stagesTotal>
+                            <lab2gpx:stagesCompleted>0</lab2gpx:stagesCompleted>
+                            <lab2gpx:themes>Education,Science,Technology</lab2gpx:themes>
+                            <lab2gpx:bonus></lab2gpx:bonus>
+                        </lab2gpx:adventureLab>
+                        <groundspeak:cache id="9740530" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                            <groundspeak:name>Labs - GPS MAZE ADVENTURES 2026 - France : S07 LabMaze 7 -  #35 Objets voyageurs- geocoins</groundspeak:name>
+                            <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                            <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                            <groundspeak:type>Lab Cache</groundspeak:type>
+                            <groundspeak:container>Virtual</groundspeak:container>
+                            <groundspeak:attributes />
+                            <groundspeak:difficulty>1</groundspeak:difficulty>
+                            <groundspeak:terrain>1</groundspeak:terrain>
+                            <groundspeak:country />
+                            <groundspeak:state />
+                            <groundspeak:short_description html="True" />
+                            <groundspeak:long_description html="True">
+                                                                                                                                        &lt;h3&gt;Labs - GPS MAZE ADVENTURES 2026 - France&lt;/h3&gt;
+    &lt;h4&gt;LabMaze 7 -  #35 Objets voyageurs- geocoins&lt;/h4&gt;
+
+
+&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/69421f45-08de-480d-8e68-d81761412fd2" target="_blank"&gt;https://labs.geocaching.com/goto/69421f45-08de-480d-8e68-d81761412fd2&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;Radius: 100m&lt;/p&gt;
+
+    &lt;p&gt;Stages: 10&lt;/p&gt;
+
+
+    &lt;p&gt;Kind of question:
+                    single
+            &lt;/p&gt;
+    &lt;p&gt;Question:&lt;br /&gt;[FR] Quelle ville a organisé le 1er Geocoinfest ? [EN] Which city organized the 1st  Geocoinfest?&lt;/p&gt;
+
+    &lt;hr /&gt;
+    &lt;h5&gt;Waypoint Description&lt;/h5&gt;
+    &lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/a8217160-41ca-46c0-80a9-fe4dca7c1247" /&gt;&lt;/p&gt;
+    &lt;p&gt;[FR] Rendez vous au panneau #35 &amp;quot;Objets voyageurs- geocoins&amp;quot;. 
+
+[EN] Find sign #35 &amp;quot;Trackable - geocoins&amp;quot;.&lt;/p&gt;
+
+    &lt;hr /&gt;
+    &lt;h5&gt;Adventure Lab Description&lt;/h5&gt;
+    &lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/fc18081b-bee8-4c08-9c93-f775e5080ebf" /&gt;&lt;/p&gt;
+    &lt;p&gt;[FR] Visitez l&amp;#039;exposition GPS Maze Adventures et trouvez les réponses à ces labcaches ! 
+
+Heures d&amp;#039;ouverture estimées:
+Vendredi 15 mai 2026 - 9h30 à 12h00 et 14h00 à 17h30
+Samedi 16 mai 2026 - 9h30 à 12h00 et 14h00 à 17h30
+
+[EN] Come visit the GPS Maze Adventure Exhibit and find the answers to these labcaches!
+
+Estimated opening times:
+Friday 15 May 2026 - 9h30 to 12h00 and 14h00 to 17h30
+Saturday 16 May 2026 - 9h30 to 12h00 and 14h00 to 17h30&lt;/p&gt;
+
+                                    
+                            </groundspeak:long_description>
+                            <groundspeak:encoded_hints />
+                            <groundspeak:logs />
+                            <groundspeak:travelbugs />
+                        </groundspeak:cache>
+                    </wpt>
+                                                                                                                                                    <wpt lat="50.0765" lon="3.2230333333333">
+                        <time>2026-05-15T05:56:32.653</time>
+                        <name>LCRVHV-8</name>
+                        <desc>LabMaze 8 - #38 GIFF</desc>
+                        <url>https://labs.geocaching.com/goto/69421f45-08de-480d-8e68-d81761412fd2</url>
+                        <urlname>S08 Labs - GPS MAZE ADVENTURES 2026 - France</urlname>
+                        <sym>Geocache</sym>
+                        <type>Geocache|Lab Cache</type>
+                        <gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/6">
+                            <gsak:Code>LCRVHV-8</gsak:Code>
+                            <gsak:IsPremium>false</gsak:IsPremium>
+                            <gsak:FavPoints>0</gsak:FavPoints>
+                            <gsak:UserFlag>false</gsak:UserFlag>
+                            <gsak:Guid>217957aa-5c8d-4bd5-888f-e7961e3b9be6</gsak:Guid>
+                            <gsak:DNF>false</gsak:DNF>
+                            <gsak:FTF>false</gsak:FTF>
+                                                    </gsak:wptExtension>
+                        <lab2gpx:adventureLab xmlns:lab2gpx="https://lab2gpx.gcutils.de/ns/lab2gpx/1">
+                            <lab2gpx:uuid>acbcf388-6c35-4cfc-8789-14ec7546eb1c</lab2gpx:uuid>
+                            <lab2gpx:stagesTotal>10</lab2gpx:stagesTotal>
+                            <lab2gpx:stagesCompleted>0</lab2gpx:stagesCompleted>
+                            <lab2gpx:themes>Education,Science,Technology</lab2gpx:themes>
+                            <lab2gpx:bonus></lab2gpx:bonus>
+                        </lab2gpx:adventureLab>
+                        <groundspeak:cache id="9740531" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                            <groundspeak:name>Labs - GPS MAZE ADVENTURES 2026 - France : S08 LabMaze 8 - #38 GIFF</groundspeak:name>
+                            <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                            <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                            <groundspeak:type>Lab Cache</groundspeak:type>
+                            <groundspeak:container>Virtual</groundspeak:container>
+                            <groundspeak:attributes />
+                            <groundspeak:difficulty>1</groundspeak:difficulty>
+                            <groundspeak:terrain>1</groundspeak:terrain>
+                            <groundspeak:country />
+                            <groundspeak:state />
+                            <groundspeak:short_description html="True" />
+                            <groundspeak:long_description html="True">
+                                                                                                                                        &lt;h3&gt;Labs - GPS MAZE ADVENTURES 2026 - France&lt;/h3&gt;
+    &lt;h4&gt;LabMaze 8 - #38 GIFF&lt;/h4&gt;
+
+
+&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/69421f45-08de-480d-8e68-d81761412fd2" target="_blank"&gt;https://labs.geocaching.com/goto/69421f45-08de-480d-8e68-d81761412fd2&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;Radius: 100m&lt;/p&gt;
+
+    &lt;p&gt;Stages: 10&lt;/p&gt;
+
+
+    &lt;p&gt;Kind of question:
+                    single
+            &lt;/p&gt;
+    &lt;p&gt;Question:&lt;br /&gt;[FR] Quel est le mois de célébration des GIFF ? [EN] What is the GIFF celebration month?&lt;/p&gt;
+
+    &lt;hr /&gt;
+    &lt;h5&gt;Waypoint Description&lt;/h5&gt;
+    &lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/4b4e8cd4-60cb-4915-8e7c-283041678b17" /&gt;&lt;/p&gt;
+    &lt;p&gt;[FR] Rendez vous au panneau #38 &amp;quot;GIFF&amp;quot;.
+
+[EN] Find sign #38 &amp;quot;GIFF&amp;quot;.&lt;/p&gt;
+
+    &lt;hr /&gt;
+    &lt;h5&gt;Adventure Lab Description&lt;/h5&gt;
+    &lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/fc18081b-bee8-4c08-9c93-f775e5080ebf" /&gt;&lt;/p&gt;
+    &lt;p&gt;[FR] Visitez l&amp;#039;exposition GPS Maze Adventures et trouvez les réponses à ces labcaches ! 
+
+Heures d&amp;#039;ouverture estimées:
+Vendredi 15 mai 2026 - 9h30 à 12h00 et 14h00 à 17h30
+Samedi 16 mai 2026 - 9h30 à 12h00 et 14h00 à 17h30
+
+[EN] Come visit the GPS Maze Adventure Exhibit and find the answers to these labcaches!
+
+Estimated opening times:
+Friday 15 May 2026 - 9h30 to 12h00 and 14h00 to 17h30
+Saturday 16 May 2026 - 9h30 to 12h00 and 14h00 to 17h30&lt;/p&gt;
+
+                                    
+                            </groundspeak:long_description>
+                            <groundspeak:encoded_hints />
+                            <groundspeak:logs />
+                            <groundspeak:travelbugs />
+                        </groundspeak:cache>
+                    </wpt>
+                                                                                                                                                    <wpt lat="50.0766" lon="3.2229166666667">
+                        <time>2026-05-15T05:56:32.653</time>
+                        <name>LCRVHV-9</name>
+                        <desc>LabMaze 9 - #40 Project APE</desc>
+                        <url>https://labs.geocaching.com/goto/69421f45-08de-480d-8e68-d81761412fd2</url>
+                        <urlname>S09 Labs - GPS MAZE ADVENTURES 2026 - France</urlname>
+                        <sym>Geocache</sym>
+                        <type>Geocache|Lab Cache</type>
+                        <gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/6">
+                            <gsak:Code>LCRVHV-9</gsak:Code>
+                            <gsak:IsPremium>false</gsak:IsPremium>
+                            <gsak:FavPoints>0</gsak:FavPoints>
+                            <gsak:UserFlag>false</gsak:UserFlag>
+                            <gsak:Guid>5dc84c90-c3d3-49fa-bb73-e74ec095f7e7</gsak:Guid>
+                            <gsak:DNF>false</gsak:DNF>
+                            <gsak:FTF>false</gsak:FTF>
+                                                    </gsak:wptExtension>
+                        <lab2gpx:adventureLab xmlns:lab2gpx="https://lab2gpx.gcutils.de/ns/lab2gpx/1">
+                            <lab2gpx:uuid>acbcf388-6c35-4cfc-8789-14ec7546eb1c</lab2gpx:uuid>
+                            <lab2gpx:stagesTotal>10</lab2gpx:stagesTotal>
+                            <lab2gpx:stagesCompleted>0</lab2gpx:stagesCompleted>
+                            <lab2gpx:themes>Education,Science,Technology</lab2gpx:themes>
+                            <lab2gpx:bonus></lab2gpx:bonus>
+                        </lab2gpx:adventureLab>
+                        <groundspeak:cache id="9740532" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                            <groundspeak:name>Labs - GPS MAZE ADVENTURES 2026 - France : S09 LabMaze 9 - #40 Project APE</groundspeak:name>
+                            <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                            <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                            <groundspeak:type>Lab Cache</groundspeak:type>
+                            <groundspeak:container>Virtual</groundspeak:container>
+                            <groundspeak:attributes />
+                            <groundspeak:difficulty>1</groundspeak:difficulty>
+                            <groundspeak:terrain>1</groundspeak:terrain>
+                            <groundspeak:country />
+                            <groundspeak:state />
+                            <groundspeak:short_description html="True" />
+                            <groundspeak:long_description html="True">
+                                                                                                                                        &lt;h3&gt;Labs - GPS MAZE ADVENTURES 2026 - France&lt;/h3&gt;
+    &lt;h4&gt;LabMaze 9 - #40 Project APE&lt;/h4&gt;
+
+
+&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/69421f45-08de-480d-8e68-d81761412fd2" target="_blank"&gt;https://labs.geocaching.com/goto/69421f45-08de-480d-8e68-d81761412fd2&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;Radius: 100m&lt;/p&gt;
+
+    &lt;p&gt;Stages: 10&lt;/p&gt;
+
+
+    &lt;p&gt;Kind of question:
+                    multiple choice
+            &lt;/p&gt;
+    &lt;p&gt;Question:&lt;br /&gt;[FR] Quelle cache APE est toujours dans sa forme originale ? [EN] Which APE cache is still in its origin form?&lt;/p&gt;
+
+    &lt;hr /&gt;
+    &lt;h5&gt;Waypoint Description&lt;/h5&gt;
+    &lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/45de62ef-66e3-4db0-8e26-812254e83ad9" /&gt;&lt;/p&gt;
+    &lt;p&gt;[FR] Rendez vous au panneau #40 &amp;quot;Project APE&amp;quot;.  
+
+[EN] Find sign #40 &amp;quot;Project APE&amp;quot;.&lt;/p&gt;
+
+    &lt;hr /&gt;
+    &lt;h5&gt;Adventure Lab Description&lt;/h5&gt;
+    &lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/fc18081b-bee8-4c08-9c93-f775e5080ebf" /&gt;&lt;/p&gt;
+    &lt;p&gt;[FR] Visitez l&amp;#039;exposition GPS Maze Adventures et trouvez les réponses à ces labcaches ! 
+
+Heures d&amp;#039;ouverture estimées:
+Vendredi 15 mai 2026 - 9h30 à 12h00 et 14h00 à 17h30
+Samedi 16 mai 2026 - 9h30 à 12h00 et 14h00 à 17h30
+
+[EN] Come visit the GPS Maze Adventure Exhibit and find the answers to these labcaches!
+
+Estimated opening times:
+Friday 15 May 2026 - 9h30 to 12h00 and 14h00 to 17h30
+Saturday 16 May 2026 - 9h30 to 12h00 and 14h00 to 17h30&lt;/p&gt;
+
+                                    
+                            </groundspeak:long_description>
+                            <groundspeak:encoded_hints />
+                            <groundspeak:logs />
+                            <groundspeak:travelbugs />
+                        </groundspeak:cache>
+                    </wpt>
+                                                                                                                                                    <wpt lat="50.07665" lon="3.22305">
+                        <time>2026-05-15T05:56:32.653</time>
+                        <name>LCRVHV-A</name>
+                        <desc>LabMaze 10- #52 Caches électroniques / Electronic</desc>
+                        <url>https://labs.geocaching.com/goto/69421f45-08de-480d-8e68-d81761412fd2</url>
+                        <urlname>S10 Labs - GPS MAZE ADVENTURES 2026 - France</urlname>
+                        <sym>Geocache</sym>
+                        <type>Geocache|Lab Cache</type>
+                        <gsak:wptExtension xmlns:gsak="http://www.gsak.net/xmlv1/6">
+                            <gsak:Code>LCRVHV-A</gsak:Code>
+                            <gsak:IsPremium>false</gsak:IsPremium>
+                            <gsak:FavPoints>0</gsak:FavPoints>
+                            <gsak:UserFlag>false</gsak:UserFlag>
+                            <gsak:Guid>bed89586-12aa-4edc-a72a-6ce24f2b2126</gsak:Guid>
+                            <gsak:DNF>false</gsak:DNF>
+                            <gsak:FTF>false</gsak:FTF>
+                                                    </gsak:wptExtension>
+                        <lab2gpx:adventureLab xmlns:lab2gpx="https://lab2gpx.gcutils.de/ns/lab2gpx/1">
+                            <lab2gpx:uuid>acbcf388-6c35-4cfc-8789-14ec7546eb1c</lab2gpx:uuid>
+                            <lab2gpx:stagesTotal>10</lab2gpx:stagesTotal>
+                            <lab2gpx:stagesCompleted>0</lab2gpx:stagesCompleted>
+                            <lab2gpx:themes>Education,Science,Technology</lab2gpx:themes>
+                            <lab2gpx:bonus></lab2gpx:bonus>
+                        </lab2gpx:adventureLab>
+                        <groundspeak:cache id="9740533" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+                            <groundspeak:name>Labs - GPS MAZE ADVENTURES 2026 - France : S10 LabMaze 10- #52 Caches électroniques / Electronic</groundspeak:name>
+                            <groundspeak:placed_by>Geo-Nord</groundspeak:placed_by>
+                            <groundspeak:owner>Geo-Nord</groundspeak:owner>
+                            <groundspeak:type>Lab Cache</groundspeak:type>
+                            <groundspeak:container>Virtual</groundspeak:container>
+                            <groundspeak:attributes />
+                            <groundspeak:difficulty>1</groundspeak:difficulty>
+                            <groundspeak:terrain>1</groundspeak:terrain>
+                            <groundspeak:country />
+                            <groundspeak:state />
+                            <groundspeak:short_description html="True" />
+                            <groundspeak:long_description html="True">
+                                                                                                                                        &lt;h3&gt;Labs - GPS MAZE ADVENTURES 2026 - France&lt;/h3&gt;
+    &lt;h4&gt;LabMaze 10- #52 Caches électroniques / Electronic&lt;/h4&gt;
+
+
+&lt;p&gt;&lt;a href="https://labs.geocaching.com/goto/69421f45-08de-480d-8e68-d81761412fd2" target="_blank"&gt;https://labs.geocaching.com/goto/69421f45-08de-480d-8e68-d81761412fd2&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;Radius: 100m&lt;/p&gt;
+
+    &lt;p&gt;Stages: 10&lt;/p&gt;
+
+
+    &lt;p&gt;Kind of question:
+                    single
+            &lt;/p&gt;
+    &lt;p&gt;Question:&lt;br /&gt;[FR] Quel code découvrez vous ?  [EN] What code are you discovering?&lt;/p&gt;
+
+    &lt;hr /&gt;
+    &lt;h5&gt;Waypoint Description&lt;/h5&gt;
+    &lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/96625bd7-ca10-49ff-bd97-305a6e3a8a14" /&gt;&lt;/p&gt;
+    &lt;p&gt;[FR] Rendez vous au panneau #52 &amp;quot;Caches électroniques&amp;quot;.  
+
+[EN] Find sign #52 &amp;quot;Electronic caches&amp;quot;.&lt;/p&gt;
+
+    &lt;hr /&gt;
+    &lt;h5&gt;Adventure Lab Description&lt;/h5&gt;
+    &lt;p&gt;&lt;img src="https://gsmediadata.blob.core.windows.net/mediacontainer/fc18081b-bee8-4c08-9c93-f775e5080ebf" /&gt;&lt;/p&gt;
+    &lt;p&gt;[FR] Visitez l&amp;#039;exposition GPS Maze Adventures et trouvez les réponses à ces labcaches ! 
+
+Heures d&amp;#039;ouverture estimées:
+Vendredi 15 mai 2026 - 9h30 à 12h00 et 14h00 à 17h30
+Samedi 16 mai 2026 - 9h30 à 12h00 et 14h00 à 17h30
+
+[EN] Come visit the GPS Maze Adventure Exhibit and find the answers to these labcaches!
+
+Estimated opening times:
+Friday 15 May 2026 - 9h30 to 12h00 and 14h00 to 17h30
+Saturday 16 May 2026 - 9h30 to 12h00 and 14h00 to 17h30&lt;/p&gt;
+
+                                    
+                            </groundspeak:long_description>
+                            <groundspeak:encoded_hints />
+                            <groundspeak:logs />
+                            <groundspeak:travelbugs />
+                        </groundspeak:cache>
+                    </wpt>
+                                        </gpx>
